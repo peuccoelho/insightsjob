@@ -1,0 +1,1001 @@
+id,idade,genero,estado,curso_faculdade,ano_formatura,possui_estagio,cursos_extras,certificacoes,linguagens_conhecidas,tecnologias_domina,tempo_busca_meses,vagas_aplicadas,entrevistas_realizadas,rejeicoes_recebidas,feedbacks_recebidos,trabalhos_freelancer,maior_dificuldade,sentiu_preparado,participou_programas_treinamento,contatos_profissionais,conseguiu_emprego,tempo_ate_emprego,tipo_empresa,tipo_contrato
+1,22,Masculino,"São Paulo","Ciência da Computação",2022,Sim,"Curso de Python Avançado","AWS Certified Cloud Practitioner","Python, Java, SQL","Django, Spring Boot",3,15,5,3,2,2,"Entrevistas técnicas",Sim,Sim,10,Sim,3,Multinacional,CLT
+2,25,Feminino,"Rio de Janeiro","Engenharia de Software",2021,Não,"UX/UI Design","Scrum Master","JavaScript, HTML, CSS","React, Node.js",6,30,8,6,4,5,"Provas de algoritmos",Não,Não,5,Sim,6,Startup,PJ
+3,23,Não-binário,"Minas Gerais","Sistemas de Informação",2023,Sim,"Data Science Bootcamp","Google Data Analytics","Python, R, SQL","Pandas, TensorFlow",2,10,3,1,1,1,"Negociação salarial",Sim,Sim,8,Sim,2,Consultoria,CLT
+4,24,Masculino,"Santa Catarina","Análise e Desenvolvimento de Sistemas",2022,Não,"Programação em C++","Oracle Certified Associate","C++, Python","Docker, Kubernetes",12,50,10,8,3,3,"Falta de experiência",Não,Sim,7,Não,NULL,NULL,NULL
+5,26,Feminino,Paraná,"Ciência de Dados",2020,Sim,"Machine Learning","Microsoft Certified: Azure Data Scientist","Python, R, SQL","PyTorch, Spark",4,20,6,4,3,0,"Case interviews",Sim,Não,12,Sim,4,"Empresa de médio porte",CLT
+6,30,Masculino,Goiás,"Segurança da Informação",2018,Sim,"Ethical Hacking","Certified Ethical Hacker","Python, Bash","Metasploit, Wireshark",5,25,7,5,4,2,"Testes de penetração",Sim,Sim,20,Sim,5,Banco,CLT
+7,22,Feminino,Pernambuco,"Jogos Digitais",2023,Não,"Unity 3D","Unity Certified","C#, JavaScript","Unity, Unreal Engine",9,40,5,4,2,8,"Portfólio insuficiente",Não,Não,3,Não,NULL,NULL,NULL
+8,27,Masculino,Ceará,"Redes de Computadores",2020,Não,"Cloud Computing","Cisco CCNA","Python, Bash","AWS, Azure",6,15,4,3,1,0,"Configuração de redes",Sim,Não,25,Sim,6,Telecomunicações,CLT
+9,24,Feminino,"Distrito Federal","Engenharia da Computação",2022,Sim,"IoT Development","Certified IoT Practitioner","C, Python","Arduino, Raspberry Pi",3,12,5,2,2,1,"Hardware programming",Sim,Sim,18,Sim,3,"Indústria de Hardware",CLT
+10,21,Masculino,"São Paulo","Sistemas para Internet",2023,Sim,"Web Development","Oracle Certified","Java, JavaScript","Spring, Angular",2,8,3,1,1,2,"Testes técnicos",Sim,Sim,6,Sim,2,"Consultoria TI",PJ
+11,29,Feminino,"Rio Grande do Sul","Inteligência Artificial",2018,Sim,"Deep Learning","TensorFlow Developer","Python, R","Keras, OpenCV",7,35,9,7,4,5,"Modelos complexos",Sim,Não,14,Sim,7,"Startup de IA",CLT
+12,23,Masculino,"Espírito Santo","Banco de Dados",2022,Não,"Big Data","MongoDB Certified","SQL, Python","Hadoop, Cassandra",10,30,6,5,2,0,"Otimização de queries",Não,Não,9,Não,NULL,NULL,NULL
+13,26,Feminino,"Mato Grosso","Computação em Nuvem",2020,Sim,DevOps,"AWS Solutions Architect","Python, Go","Terraform, Ansible",4,18,7,4,3,0,"Arquitetura escalável",Sim,Sim,11,Sim,4,"Empresa de Cloud",CLT
+14,31,Masculino,Amazonas,Bioinformática,2017,Não,"Computação Científica",NULL,"Python, R",Bioconductor,12,50,10,9,2,3,"Poucas vagas",Não,Sim,5,Não,NULL,NULL,NULL
+15,24,Feminino,Alagoas,"UX/UI Design",2022,Sim,"Design Thinking","Adobe XD Certified",JavaScript,"Figma, Sketch",5,22,6,4,3,4,"Testes de usabilidade",Sim,Não,8,Sim,5,"Agência Digital",PJ
+16,25,Masculino,Sergipe,"Engenharia de Dados",2021,Sim,"Data Pipelines","Google Cloud Data Engineer","Python, SQL","Airflow, Kafka",3,15,5,3,2,0,"ETL complexo",Sim,Sim,12,Sim,3,"Empresa de Analytics",CLT
+17,27,Feminino,Paraíba,"Computação Gráfica",2019,Não,"3D Modeling","Autodesk Certified","C++, Python","Blender, Maya",8,25,5,4,1,2,Renderização,Não,Não,7,Sim,8,"Estúdio de Animação",PJ
+18,23,Masculino,"Rio Grande do Norte","Sistemas Embarcados",2023,Sim,Robótica,NULL,"C, Assembly","ROS, Arduino",1,5,2,1,1,1,"Programação baixo nível",Sim,Sim,4,Sim,1,"Indústria Automotiva",Estágio
+19,26,Feminino,Tocantins,"Gestão da Tecnologia da Informação",2020,Sim,ITIL,"ITIL Foundation",NULL,ServiceNow,6,20,8,5,4,0,"Processos de TI",Sim,Sim,15,Sim,6,"Departamento de TI",CLT
+20,22,Masculino,Maranhão,"Desenvolvimento Mobile",2022,Sim,Flutter,"Google Mobile Web Specialist","Dart, JavaScript","Flutter, React Native",4,18,6,3,3,4,"Performance mobile",Sim,Sim,9,Sim,4,"Startup Mobile",PJ
+21,28,Feminino,Piauí,"Arquitetura de Software",2019,Sim,Microservices,"AWS Certified Solutions Architect","Java, Python","Kubernetes, Docker",7,30,10,6,5,2,"Design de sistemas",Sim,Não,22,Sim,7,"Empresa de SaaS",CLT
+22,24,Não-binário,Rondônia,DevOps,2021,Não,"Infra as Code","Red Hat Certified","Python, Bash","Terraform, Jenkins",5,25,7,5,2,3,"Automação CI/CD",Não,Sim,11,Sim,5,"Tech Unicorn",CLT
+23,25,Masculino,Acre,Blockchain,2020,Sim,"Smart Contracts","Ethereum Developer","Solidity, JavaScript","Ethereum, Hyperledger",8,35,9,7,3,5,"Segurança cripto",Sim,Não,8,Sim,8,"Startup Blockchain",PJ
+24,23,Feminino,Amapá,"Computação Quântica",2023,Não,Qiskit,"IBM Quantum Developer","Python, Q#","Qiskit, Cirq",3,12,2,1,1,0,"Conceitos teóricos",Não,Sim,6,Não,NULL,NULL,NULL
+25,29,Masculino,Roraima,"Realidade Virtual",2018,Sim,"Unity VR","Oculus Developer","C#, Python","Unity, Unreal",10,40,8,6,2,7,"Otimização 3D",Sim,Não,13,Sim,10,"Estúdio de Games",CLT
+26,26,Feminino,"Mato Grosso do Sul","Testes de Software",2021,Sim,"Automação de Testes","ISTQB Certified","Java, Python","Selenium, JMeter",4,22,6,4,3,1,"Cobertura de testes",Sim,Sim,10,Sim,4,"Empresa de QA",CLT
+27,24,Masculino,Pará,"Sistemas Distribuídos",2022,Não,"Cloud Native","CNCF Certified","Go, Python","Kubernetes, gRPC",6,28,5,4,1,2,"Latência em sistemas",Não,Sim,7,Sim,6,"Empresa de Cloud",PJ
+28,27,Feminino,Alagoas,"Computação Forense",2020,Sim,Cybersecurity,"CEH Certified","Python, Bash","Wireshark, FTK",5,20,7,5,3,0,"Análise de malware",Sim,Não,16,Sim,5,"Consultoria Segurança",CLT
+29,25,Masculino,Sergipe,"Programação Competitiva",2021,Não,"Algoritmos Avançados","Google Code Jam","C++, Python",NULL,9,50,15,10,8,12,"Complexidade algorítmica",Sim,Não,5,Sim,9,"Big Tech",CLT
+30,22,Masculino,"São Paulo","Ciência da Computação",2022,Sim,"Curso de Python Avançado","AWS Certified Cloud Practitioner","Python, Java, SQL","Django, Spring Boot",3,15,5,3,2,2,"Entrevistas técnicas",Sim,Sim,10,Sim,3,Multinacional,CLT
+31,25,Feminino,"Rio de Janeiro","Engenharia de Software",2021,Não,"UX/UI Design","Scrum Master","JavaScript, HTML, CSS","React, Node.js",6,30,8,6,4,5,"Provas de algoritmos",Não,Não,5,Sim,6,Startup,PJ
+32,23,Não-binário,"Minas Gerais","Sistemas de Informação",2023,Sim,"Data Science Bootcamp","Google Data Analytics","Python, R, SQL","Pandas, TensorFlow",2,10,3,1,1,1,"Negociação salarial",Sim,Sim,8,Sim,2,Consultoria,CLT
+33,24,Masculino,"Santa Catarina","Análise e Desenvolvimento de Sistemas",2022,Não,"Programação em C++","Oracle Certified Associate","C++, Python","Docker, Kubernetes",12,50,10,8,3,3,"Falta de experiência",Não,Sim,7,Não,NULL,NULL,NULL
+34,26,Feminino,Paraná,"Ciência de Dados",2020,Sim,"Machine Learning","Microsoft Certified: Azure Data Scientist","Python, R, SQL","PyTorch, Spark",4,20,6,4,3,0,"Case interviews",Sim,Não,12,Sim,4,"Empresa de médio porte",CLT
+35,30,Masculino,Goiás,"Segurança da Informação",2018,Sim,"Ethical Hacking","Certified Ethical Hacker","Python, Bash","Metasploit, Wireshark",5,25,7,5,4,2,"Testes de penetração",Sim,Sim,20,Sim,5,Banco,CLT
+36,22,Feminino,Pernambuco,"Jogos Digitais",2023,Não,"Unity 3D","Unity Certified","C#, JavaScript","Unity, Unreal Engine",9,40,5,4,2,8,"Portfólio insuficiente",Não,Não,3,Não,NULL,NULL,NULL
+37,27,Masculino,Ceará,"Redes de Computadores",2020,Não,"Cloud Computing","Cisco CCNA","Python, Bash","AWS, Azure",6,15,4,3,1,0,"Configuração de redes",Sim,Não,25,Sim,6,Telecomunicações,CLT
+38,24,Feminino,"Distrito Federal","Engenharia da Computação",2022,Sim,"IoT Development","Certified IoT Practitioner","C, Python","Arduino, Raspberry Pi",3,12,5,2,2,1,"Hardware programming",Sim,Sim,18,Sim,3,"Indústria de Hardware",CLT
+39,21,Masculino,"São Paulo","Sistemas para Internet",2023,Sim,"Web Development","Oracle Certified","Java, JavaScript","Spring, Angular",2,8,3,1,1,2,"Testes técnicos",Sim,Sim,6,Sim,2,"Consultoria TI",PJ
+40,29,Feminino,"Rio Grande do Sul","Inteligência Artificial",2018,Sim,"Deep Learning","TensorFlow Developer","Python, R","Keras, OpenCV",7,35,9,7,4,5,"Modelos complexos",Sim,Não,14,Sim,7,"Startup de IA",CLT
+41,23,Masculino,"Espírito Santo","Banco de Dados",2022,Não,"Big Data","MongoDB Certified","SQL, Python","Hadoop, Cassandra",10,30,6,5,2,0,"Otimização de queries",Não,Não,9,Não,NULL,NULL,NULL
+42,26,Feminino,"Mato Grosso","Computação em Nuvem",2020,Sim,DevOps,"AWS Solutions Architect","Python, Go","Terraform, Ansible",4,18,7,4,3,0,"Arquitetura escalável",Sim,Sim,11,Sim,4,"Empresa de Cloud",CLT
+43,24,Feminino,Alagoas,"UX/UI Design",2022,Sim,"Design Thinking","Adobe XD Certified",JavaScript,"Figma, Sketch",5,22,6,4,3,4,"Testes de usabilidade",Sim,Não,8,Sim,5,"Agência Digital",PJ
+44,25,Masculino,Sergipe,"Engenharia de Dados",2021,Sim,"Data Pipelines","Google Cloud Data Engineer","Python, SQL","Airflow, Kafka",3,15,5,3,2,0,"ETL complexo",Sim,Sim,12,Sim,3,"Empresa de Analytics",CLT
+45,27,Feminino,Paraíba,"Computação Gráfica",2019,Não,"3D Modeling","Autodesk Certified","C++, Python","Blender, Maya",8,25,5,4,1,2,Renderização,Não,Não,7,Sim,8,"Estúdio de Animação",PJ
+46,23,Masculino,"Rio Grande do Norte","Sistemas Embarcados",2023,Sim,Robótica,NULL,"C, Assembly","ROS, Arduino",1,5,2,1,1,1,"Programação baixo nível",Sim,Sim,4,Sim,1,"Indústria Automotiva",Estágio
+47,26,Feminino,Tocantins,"Gestão da Tecnologia da Informação",2020,Sim,ITIL,"ITIL Foundation",NULL,ServiceNow,6,20,8,5,4,0,"Processos de TI",Sim,Sim,15,Sim,6,"Departamento de TI",CLT
+48,22,Masculino,Maranhão,"Desenvolvimento Mobile",2022,Sim,Flutter,"Google Mobile Web Specialist","Dart, JavaScript","Flutter, React Native",4,18,6,3,3,4,"Performance mobile",Sim,Sim,9,Sim,4,"Startup Mobile",PJ
+49,28,Feminino,Piauí,"Arquitetura de Software",2019,Sim,Microservices,"AWS Certified Solutions Architect","Java, Python","Kubernetes, Docker",7,30,10,6,5,2,"Design de sistemas",Sim,Não,22,Sim,7,"Empresa de SaaS",CLT
+50,24,Não-binário,Rondônia,DevOps,2021,Não,"Infra as Code","Red Hat Certified","Python, Bash","Terraform, Jenkins",5,25,7,5,2,3,"Automação CI/CD",Não,Sim,11,Sim,5,"Tech Unicorn",CLT
+51,25,Masculino,Acre,Blockchain,2020,Sim,"Smart Contracts","Ethereum Developer","Solidity, JavaScript","Ethereum, Hyperledger",8,35,9,7,3,5,"Segurança cripto",Sim,Não,8,Sim,8,"Startup Blockchain",PJ
+52,23,Feminino,Amapá,"Computação Quântica",2023,Não,Qiskit,"IBM Quantum Developer","Python, Q#","Qiskit, Cirq",3,12,2,1,1,0,"Conceitos teóricos",Não,Sim,6,Não,NULL,NULL,NULL
+53,29,Masculino,Roraima,"Realidade Virtual",2018,Sim,"Unity VR","Oculus Developer","C#, Python","Unity, Unreal",10,40,8,6,2,7,"Otimização 3D",Sim,Não,13,Sim,10,"Estúdio de Games",CLT
+54,26,Feminino,"Mato Grosso do Sul","Testes de Software",2021,Sim,"Automação de Testes","ISTQB Certified","Java, Python","Selenium, JMeter",4,22,6,4,3,1,"Cobertura de testes",Sim,Sim,10,Sim,4,"Empresa de QA",CLT
+55,24,Masculino,Pará,"Sistemas Distribuídos",2022,Não,"Cloud Native","CNCF Certified","Go, Python","Kubernetes, gRPC",6,28,5,4,1,2,"Latência em sistemas",Não,Sim,7,Sim,6,"Empresa de Cloud",PJ
+56,27,Feminino,Alagoas,"Computação Forense",2020,Sim,Cybersecurity,"CEH Certified","Python, Bash","Wireshark, FTK",5,20,7,5,3,0,"Análise de malware",Sim,Não,16,Sim,5,"Consultoria Segurança",CLT
+57,25,Masculino,Sergipe,"Programação Competitiva",2021,Não,"Algoritmos Avançados","Google Code Jam","C++, Python",NULL,9,50,15,10,8,12,"Complexidade algorítmica",Sim,Não,5,Sim,9,"Big Tech",CLT
+58,22,Feminino,Bahia,"Engenharia de Requisitos",2022,Sim,"Product Management","Certified Scrum Product Owner",NULL,"Jira, Confluence",3,18,6,3,3,0,"Comunicação com stakeholders",Sim,Sim,14,Sim,3,Consultoria,CLT
+59,31,Masculino,Amazonas,Bioinformática,2017,Não,"Computação Científica",NULL,"Python, R",Bioconductor,12,50,10,9,2,3,"Poucas vagas",Não,Sim,5,Não,NULL,NULL,NULL
+60,24,Feminino,"Espírito Santo","Administração de Redes",2022,Sim,"Segurança Ofensiva","CompTIA Security+","Python, Bash","Nmap, Burp Suite",5,25,7,4,3,2,"Firewalls complexos",Sim,Não,10,Sim,5,"Provedor de Internet",CLT
+61,26,Masculino,Goiás,"Desenvolvimento de Jogos",2020,Sim,"Game Design","Unreal Certified","C#, C++","Unity, Unreal",8,35,9,6,4,6,"Otimização gráfica",Sim,Sim,8,Sim,8,"Estúdio de Jogos",PJ
+62,23,Feminino,"Mato Grosso","Engenharia de Software",2023,Não,"Clean Code",NULL,"Java, Python","Spring, Django",2,12,3,2,1,1,"Padrões de projeto",Não,Sim,6,Sim,2,"Empresa de Tecnologia",CLT
+63,28,Masculino,"Minas Gerais","Ciência da Computação",2019,Sim,"Algoritmos Avançados","Google Hash Code","C++, Python",NULL,4,30,10,5,5,3,"Problemas NP-difíceis",Sim,Não,12,Sim,4,"Big Tech",CLT
+64,25,Feminino,Paraná,"Sistemas de Informação",2021,Sim,"Business Intelligence","Microsoft Power BI","SQL, Python","Tableau, Power BI",6,22,8,4,4,0,"Modelagem dimensional",Sim,Sim,15,Sim,6,"Empresa de Varejo",CLT
+65,22,Masculino,Pernambuco,"Inteligência Artificial",2022,Não,"Visão Computacional",NULL,"Python, MATLAB","OpenCV, TensorFlow",7,28,6,5,2,4,"Treinamento de modelos",Não,Sim,7,Sim,7,"Startup de IA",PJ
+66,27,Feminino,"Rio de Janeiro","Segurança da Informação",2020,Sim,Pentesting,"OSCP Certified","Python, Bash","Kali Linux, Metasploit",5,20,7,4,3,2,"Exploração de vulnerabilidades",Sim,Não,18,Sim,5,"Empresa de Segurança",CLT
+67,24,Masculino,"Rio Grande do Norte","Engenharia de Dados",2022,Sim,"Big Data","Cloudera Certified","Python, SQL","Hadoop, Spark",3,15,5,2,2,1,"Processamento distribuído",Sim,Sim,11,Sim,3,"Empresa de Analytics",CLT
+68,29,Feminino,"Rio Grande do Sul","Computação em Nuvem",2018,Sim,Multi-cloud,"AWS, Azure, GCP Certified","Python, Go","Terraform, Kubernetes",8,35,10,6,5,3,"Arquitetura cloud-native",Sim,Sim,20,Sim,8,"Fornecedor Cloud",CLT
+69,23,Masculino,"Santa Catarina",DevOps,2023,Não,GitOps,"Docker Certified","Python, Bash","Docker, Jenkins",1,8,2,1,1,0,"Pipeline de CI/CD",Não,Sim,5,Sim,1,"Empresa de Tecnologia",CLT
+70,26,Feminino,"São Paulo","UX/UI Design",2020,Sim,"Design de Interfaces","Adobe Certified",JavaScript,"Figma, Adobe XD",4,25,7,4,3,5,"Testes de usabilidade",Sim,Não,12,Sim,4,"Agência Digital",PJ
+71,24,Masculino,Sergipe,"Engenharia da Computação",2022,Sim,"Sistemas Embarcados",NULL,"C, Assembly","Arduino, Raspberry Pi",6,18,5,3,2,2,"Programação baixo nível",Sim,Sim,9,Sim,6,"Indústria Automotiva",CLT
+72,25,Feminino,Tocantins,"Gestão de TI",2021,Sim,"Governança de TI","COBIT Certified",NULL,"ServiceNow, Jira",5,20,6,4,2,0,"Alinhamento estratégico",Sim,Sim,14,Sim,5,"Departamento de TI",CLT
+73,22,Masculino,"Distrito Federal","Redes de Computadores",2022,Não,SD-WAN,"Cisco CCNP","Python, Bash","Cisco IOS, Ansible",7,25,6,5,2,1,"Configuração de roteadores",Não,Sim,8,Sim,7,"Provedor de Internet",CLT
+74,28,Feminino,"Espírito Santo","Banco de Dados",2019,Sim,"Data Warehousing","Oracle DBA Certified","SQL, Python","Oracle, PostgreSQL",6,22,7,4,3,0,"Otimização de queries",Sim,Não,16,Sim,6,"Empresa Financeira",CLT
+75,23,Masculino,Goiás,"Desenvolvimento Web",2023,Sim,"Frontend Avançado","Google Web Developer","JavaScript, TypeScript","React, Angular",2,15,5,2,2,3,"Performance web",Sim,Sim,7,Sim,2,"Agência Digital",PJ
+76,26,Feminino,Maranhão,"Testes de Software",2020,Sim,"Automação de Testes","ISTQB Advanced","Java, Python","Selenium, Cypress",4,18,6,3,3,1,"Cobertura de testes",Sim,Sim,10,Sim,4,"Empresa de QA",CLT
+77,24,Masculino,"Mato Grosso do Sul","Arquitetura de Software",2022,Sim,"Domain-Driven Design",NULL,"Java, C#","Spring, .NET",5,20,7,4,3,2,"Design de microsserviços",Sim,Não,12,Sim,5,"Empresa de Tecnologia",CLT
+78,27,Feminino,"Minas Gerais","Ciência de Dados",2020,Sim,"Processamento de Linguagem Natural","TensorFlow Developer","Python, R","NLTK, spaCy",7,25,8,5,4,3,"Pré-processamento de dados",Sim,Sim,14,Sim,7,"Startup de IA",PJ
+79,25,Masculino,Pará,Blockchain,2021,Sim,"Smart Contracts","Hyperledger Certified","Solidity, Go","Ethereum, Hyperledger",8,30,7,5,3,4,"Consenso distribuído",Sim,Não,9,Sim,8,"Startup Blockchain",CLT
+80,23,Feminino,Paraíba,"Computação Gráfica",2023,Não,"Realidade Aumentada","Unity Certified","C#, Python","Unity, ARKit",3,15,4,3,1,2,"Otimização 3D",Não,Sim,6,Sim,3,"Estúdio de Design",PJ
+81,26,Masculino,Pernambuco,"Engenharia de Software",2020,Sim,"Clean Architecture",NULL,"Java, TypeScript","Spring, NestJS",4,22,7,4,3,1,"Princípios SOLID",Sim,Sim,11,Sim,4,"Empresa de Tecnologia",CLT
+82,24,Feminino,Piauí,"Segurança Cibernética",2022,Sim,Forensics,"GIAC Certified","Python, Bash","FTK, Autopsy",6,20,6,4,2,0,"Análise forense",Sim,Não,13,Sim,6,"Empresa de Segurança",CLT
+83,28,Masculino,"Rio de Janeiro",DevOps,2019,Sim,GitOps,"CKAD Certified","Go, Python","Kubernetes, Helm",5,25,8,4,4,2,"Orquestração de containers",Sim,Sim,15,Sim,5,"Empresa de Cloud",CLT
+84,25,Feminino,"Rio Grande do Norte","UX Research",2021,Sim,"Design Thinking","NN/g Certified",NULL,"Figma, Miro",7,28,9,5,4,3,"Análise de personas",Sim,Não,10,Sim,7,"Agência Digital",PJ
+85,23,Masculino,"Rio Grande do Sul","Engenharia de Dados",2023,Não,"Data Streaming",NULL,"Python, SQL","Kafka, Spark Streaming",2,12,3,2,1,0,"Processamento em tempo real",Não,Sim,7,Sim,2,"Empresa de Analytics",CLT
+86,26,Feminino,"Santa Catarina","Computação em Nuvem",2020,Sim,Serverless,"AWS Certified","Python, JavaScript","Lambda, API Gateway",4,20,6,3,3,1,"Arquitetura sem servidor",Sim,Sim,12,Sim,4,"Fornecedor Cloud",CLT
+87,24,Masculino,"São Paulo","Inteligência Artificial",2022,Sim,"Deep Reinforcement Learning",NULL,"Python, R","TensorFlow, PyTorch",6,25,8,5,4,3,"Treinamento de RL",Sim,Não,14,Sim,6,"Laboratório de IA",CLT
+88,27,Feminino,Sergipe,"Banco de Dados",2020,Sim,"Data Modeling","MongoDB Certified","SQL, NoSQL","MongoDB, Cassandra",5,22,7,4,3,0,"Modelagem dimensional",Sim,Sim,11,Sim,5,"Empresa de Varejo",CLT
+89,25,Masculino,Tocantins,"Redes de Computadores",2021,Sim,"Segurança em Redes","CCNP Security","Python, Bash","Cisco Firepower",7,28,8,5,3,2,"Firewalls de próxima geração",Sim,Não,13,Sim,7,"Provedor de Internet",CLT
+90,23,Feminino,"Distrito Federal","Engenharia de Software",2023,Não,"Test-Driven Development",NULL,"Java, JavaScript","JUnit, Jest",3,15,4,3,1,1,"Cobertura de testes",Não,Sim,6,Sim,3,"Empresa de Tecnologia",CLT
+91,26,Masculino,Bahia,"Computação Gráfica",2020,Sim,Shaders,"NVIDIA Certified","C++, GLSL","OpenGL, Vulkan",8,30,7,5,2,4,"Otimização gráfica",Sim,Sim,9,Sim,8,"Estúdio de Jogos",PJ
+92,24,Feminino,"Espírito Santo","Ciência de Dados",2022,Sim,"Análise Preditiva","Microsoft Data Scientist","Python, R","Scikit-learn, XGBoost",5,22,7,4,3,2,"Feature engineering",Sim,Não,12,Sim,5,"Empresa Financeira",CLT
+93,28,Masculino,Goiás,DevOps,2019,Sim,"Infraestrutura como Código","Terraform Certified","Python, HCL","Terraform, Ansible",6,25,8,4,4,3,"Automação de infraestrutura",Sim,Sim,15,Sim,6,"Empresa de Cloud",CLT
+94,25,Feminino,Maranhão,"UX/UI Design",2021,Sim,"Design de Interação","Adobe Certified",JavaScript,"Figma, Adobe XD",7,30,9,6,5,4,"Testes A/B",Sim,Não,11,Sim,7,"Agência Digital",PJ
+95,23,Masculino,"Mato Grosso","Engenharia de Dados",2023,Não,"Data Lakes",NULL,"Python, SQL","Delta Lake, Iceberg",2,12,3,2,1,0,"Governança de dados",Não,Sim,7,Sim,2,"Empresa de Analytics",CLT
+96,26,Feminino,"Mato Grosso do Sul","Segurança da Informação",2020,Sim,"Red Team","OSCP Certified","Python, Bash","Metasploit, Cobalt Strike",5,20,6,4,2,1,"Exploração de vulnerabilidades",Sim,Sim,10,Sim,5,"Empresa de Segurança",CLT
+97,24,Masculino,"Minas Gerais","Computação em Nuvem",2022,Sim,Multi-cloud,"AWS, Azure Certified","Python, Go","Terraform, Kubernetes",7,28,9,5,4,3,"Arquitetura híbrida",Sim,Não,14,Sim,7,"Fornecedor Cloud",CLT
+98,27,Feminino,Pará,"Desenvolvimento Mobile",2020,Sim,"Flutter Avançado","Google Certified","Dart, Kotlin","Flutter, Android SDK",6,25,8,5,4,5,"Performance em dispositivos antigos",Sim,Sim,12,Sim,6,"Startup Mobile",PJ
+99,25,Masculino,Paraíba,"Engenharia de Software",2021,Sim,"Domain-Driven Design",NULL,"Java, C#","Spring, .NET",5,22,7,4,3,2,"Design de microsserviços",Sim,Sim,11,Sim,5,"Empresa de Tecnologia",CLT
+100,23,Feminino,Pernambuco,"Inteligência Artificial",2023,Não,"Processamento de Linguagem Natural",NULL,"Python, R","NLTK, spaCy",3,15,4,3,1,2,"Pré-processamento de texto",Não,Sim,6,Sim,3,"Startup de IA",PJ
+101,26,Masculino,Piauí,Blockchain,2020,Sim,"Smart Contracts","Ethereum Certified","Solidity, JavaScript","Ethereum, Hardhat",8,30,7,5,3,4,"Otimização de gas",Sim,Não,9,Sim,8,"Startup Blockchain",CLT
+102,24,Feminino,"Rio de Janeiro","Computação Forense",2022,Sim,"Análise de Malware","GIAC Certified","Python, Bash","IDA Pro, Ghidra",6,20,6,4,2,0,"Engenharia reversa",Sim,Sim,13,Sim,6,"Empresa de Segurança",CLT
+103,28,Masculino,"Rio Grande do Norte",DevOps,2019,Sim,"Platform Engineering","CKA Certified","Go, Python","Kubernetes, ArgoCD",7,28,9,5,4,3,"GitOps avançado",Sim,Sim,16,Sim,7,"Empresa de Cloud",CLT
+104,25,Feminino,"Rio Grande do Sul","UX Research",2021,Sim,"Pesquisa Qualitativa","NN/g Certified",NULL,"UserTesting, Hotjar",8,30,10,6,5,4,"Análise de jornada do usuário",Sim,Não,12,Sim,8,"Agência Digital",PJ
+105,23,Masculino,"Santa Catarina","Engenharia de Dados",2023,Não,"Data Mesh",NULL,"Python, SQL","Spark, dbt",2,12,3,2,1,0,"Arquitetura descentralizada",Não,Sim,7,Sim,2,"Empresa de Analytics",CLT
+106,26,Feminino,"São Paulo","Computação em Nuvem",2020,Sim,FinOps,"AWS Certified","Python, SQL","Cost Explorer, Kubecost",5,22,7,4,3,1,"Otimização de custos",Sim,Sim,14,Sim,5,"Fornecedor Cloud",CLT
+107,24,Masculino,Sergipe,"Inteligência Artificial",2022,Sim,"Visão Computacional","TensorFlow Developer","Python, C++","OpenCV, PyTorch",7,25,8,5,4,3,"Treinamento de modelos CNN",Sim,Não,15,Sim,7,"Laboratório de IA",CLT
+108,27,Feminino,Tocantins,"Banco de Dados",2020,Sim,"Data Warehousing","Snowflake Certified","SQL, Python","Snowflake, Redshift",6,23,8,4,4,0,"Modelagem de dados",Sim,Sim,12,Sim,6,"Empresa de Varejo",CLT
+109,25,Masculino,"Distrito Federal","Redes de Computadores",2021,Sim,SDN,"Cisco DevNet","Python, YAML","Cisco ACI, Ansible",8,30,9,6,4,3,"Automação de redes",Sim,Não,14,Sim,8,"Provedor de Internet",CLT
+110,22,Masculino,"São Paulo","Ciência da Computação",2022,Sim,"Curso de Python Avançado","AWS Certified Cloud Practitioner","Python, Java, SQL","Django, Spring Boot",3,15,5,3,2,2,"Entrevistas técnicas",Sim,Sim,10,Sim,3,Multinacional,CLT
+111,25,Feminino,"Rio de Janeiro","Engenharia de Software",2021,Não,"UX/UI Design","Scrum Master","JavaScript, HTML, CSS","React, Node.js",6,30,8,6,4,5,"Provas de algoritmos",Não,Não,5,Sim,6,Startup,PJ
+112,24,Masculino,"Minas Gerais","Sistemas de Informação",2021,Sim,"Data Analytics","Google Data Analytics","Python, SQL","Pandas, Tableau",4,18,6,3,3,2,"Análise exploratória",Sim,Sim,12,Sim,4,"Empresa de Consultoria",CLT
+113,27,Feminino,Bahia,"Engenharia de Dados",2020,Sim,"Big Data","Cloudera Certified","Python, Scala","Spark, Hadoop",5,22,7,4,3,1,"Processamento distribuído",Sim,Não,15,Sim,5,"Empresa de Tecnologia",PJ
+114,23,Não-binário,Pernambuco,"Segurança da Informação",2023,Não,"Ethical Hacking","CEH Certified","Python, Bash","Kali Linux, Metasploit",2,12,3,2,1,0,"Testes de penetração",Não,Sim,8,Sim,2,Banco,CLT
+115,26,Masculino,Paraná,"Computação em Nuvem",2020,Sim,DevOps,"AWS Certified","Python, Go","Terraform, Kubernetes",6,25,8,5,4,3,"Arquitetura cloud-native",Sim,Sim,14,Sim,6,"Fornecedor Cloud",CLT
+116,24,Feminino,Ceará,"UX/UI Design",2022,Sim,"Design Thinking","Adobe XD Certified",JavaScript,"Figma, Sketch",5,20,6,4,3,4,"Testes de usabilidade",Sim,Não,10,Sim,5,"Agência Digital",PJ
+117,28,Masculino,Amazonas,"Redes de Computadores",2019,Sim,"Segurança de Redes","CCNA Security","Python, Bash","Cisco IOS, Wireshark",7,28,8,6,3,2,Firewalls,Sim,Sim,16,Sim,7,"Provedor de Internet",CLT
+118,25,Feminino,Goiás,"Inteligência Artificial",2021,Sim,"Machine Learning","TensorFlow Developer","Python, R","PyTorch, Keras",4,18,6,3,3,2,"Treinamento de modelos",Sim,Sim,12,Sim,4,"Startup de IA",CLT
+119,23,Masculino,Maranhão,"Desenvolvimento Mobile",2023,Não,Flutter,NULL,"Dart, Kotlin","Flutter, Firebase",3,15,4,3,1,3,"Performance mobile",Não,Sim,7,Sim,3,"Agência Mobile",PJ
+120,27,Feminino,"Mato Grosso","Banco de Dados",2020,Sim,"Data Warehousing","Oracle Certified","SQL, Python","Oracle, PostgreSQL",5,20,7,4,3,0,"Otimização de queries",Sim,Não,13,Sim,5,"Empresa Financeira",CLT
+121,24,Masculino,Paraíba,"Computação Gráfica",2022,Sim,"3D Modeling","Autodesk Certified","C++, Python","Blender, Maya",6,22,6,4,2,3,Renderização,Sim,Sim,9,Sim,6,"Estúdio de Jogos",PJ
+122,26,Feminino,"Rio Grande do Sul","Testes de Software",2020,Sim,"Automação de Testes","ISTQB Certified","Java, Python","Selenium, Cypress",4,18,6,3,3,1,"Cobertura de testes",Sim,Não,11,Sim,4,"Empresa de QA",CLT
+123,25,Masculino,Sergipe,Blockchain,2021,Não,"Smart Contracts","Ethereum Developer","Solidity, JavaScript","Hardhat, Truffle",7,25,5,4,2,4,"Segurança de contratos",Não,Sim,8,Sim,7,"Startup Blockchain",CLT
+124,29,Outro,SP,"Análise de Sistemas",2022,0,"Curso de Dados","Certificado Azure",Ruby,.NET,23,71,27,21,8,1,"Despreparo técnico",1,0,25,0,NULL,"Grande Empresa",Temporário
+125,18,Masculino,RJ,"Análise de Sistemas",2025,1,"Curso de Cloud","Certificado Google",Go,Node.js,16,102,13,37,7,0,"Mercado competitivo",0,0,36,0,9,Startup,Freelancer
+126,24,Feminino,RS,"Ciência da Computação",2024,0,"Curso de Python","Certificado Google",Go,Angular,17,19,10,24,8,0,"Despreparo técnico",1,0,47,1,10,"Grande Empresa",Temporário
+127,20,Outro,PE,"Ciência da Computação",2021,1,"Curso de SQL","Certificado Oracle",Python,Node.js,18,162,21,7,11,0,"Pouco networking",0,1,43,0,6,"Empresa Média",Estágio
+128,31,Masculino,PE,"Sistemas de Informação",2025,1,"Curso de Dados","Certificado AWS",C#,React,14,147,26,9,6,0,"Despreparo técnico",1,1,25,1,10,"Órgão Público",Estágio
+129,32,Masculino,MG,"Sistemas de Informação",2021,1,"Curso de Cloud","Certificado Azure",JavaScript,Node.js,15,2,5,45,0,0,"Mercado competitivo",1,0,15,0,3,"Órgão Público",Temporário
+130,32,Outro,PR,"Análise de Sistemas",2022,1,"Curso de Frontend","Certificado Azure",Python,Node.js,14,3,7,7,0,1,"Mercado competitivo",0,1,22,0,10,Multinacional,Temporário
+131,27,Masculino,PE,"Redes de Computadores",2021,0,"Curso de Python","Certificado AWS",Python,Node.js,5,37,7,34,14,0,"Pouco networking",0,1,36,1,11,"Órgão Público",CLT
+132,26,Feminino,RJ,"Sistemas de Informação",2023,1,"Curso de Cloud",Nenhum,C#,React,13,78,9,21,4,1,"Não sei o que melhorar",1,0,46,0,7,Startup,Temporário
+133,23,Feminino,RJ,"Análise de Sistemas",2025,1,"Curso de Python","Certificado AWS",JavaScript,Django,22,171,12,23,3,0,"Mercado competitivo",0,0,48,0,4,Multinacional,Estágio
+134,22,Masculino,SP,"Redes de Computadores",2023,1,Nenhum,"Certificado Azure",Go,Django,11,35,14,39,11,0,"Falta de experiência",1,1,7,1,2,"Órgão Público",Freelancer
+135,22,Feminino,SC,"Engenharia da Computação",2016,1,"Curso de Frontend",Nenhum,Python,Spring,23,7,8,16,14,1,"Despreparo técnico",1,0,41,0,10,Multinacional,CLT
+136,20,Outro,DF,"Análise de Sistemas",2017,1,Nenhum,Nenhum,TypeScript,Flutter,1,114,19,26,13,1,"Falta de experiência",0,1,37,0,1,Multinacional,Temporário
+137,23,Feminino,PE,"Engenharia da Computação",2024,1,"Curso de Python","Certificado AWS",TypeScript,.NET,15,181,16,47,3,0,"Despreparo técnico",0,1,39,1,8,"Empresa Média",Freelancer
+138,22,Masculino,SP,"Sistemas de Informação",2023,1,"Curso de Frontend","Certificado AWS",C#,React,16,27,17,28,1,0,"Não sei o que melhorar",0,1,48,1,1,Startup,Estágio
+139,29,Outro,MG,"Ciência da Computação",2016,1,"Curso de Frontend",Nenhum,PHP,Angular,1,164,27,7,0,0,"Não sei o que melhorar",1,1,21,1,4,Multinacional,Estágio
+140,29,Masculino,PR,"Sistemas de Informação",2020,1,"Curso de SQL","Certificado Azure",PHP,Flutter,12,185,2,32,0,0,"Mercado competitivo",1,0,37,0,7,Startup,PJ
+141,27,Feminino,PR,"Redes de Computadores",2017,1,"Curso de Dados","Certificado AWS",PHP,Flutter,16,117,27,39,4,1,"Mercado competitivo",1,0,13,1,7,"Grande Empresa",PJ
+142,19,Feminino,PE,"Análise de Sistemas",2016,1,"Curso de Cloud","Certificado AWS",Java,Flutter,22,190,28,44,11,0,"Despreparo técnico",0,0,48,1,5,"Empresa Média",CLT
+143,32,Feminino,PE,"Análise de Sistemas",2021,1,"Curso de Dados","Certificado Google",JavaScript,Laravel,22,49,11,9,15,0,"Despreparo técnico",0,0,46,0,6,"Grande Empresa",Estágio
+144,27,Outro,PE,"Sistemas de Informação",2016,1,"Curso de SQL","Certificado Azure",Go,Django,3,151,9,17,15,1,"Falta de experiência",0,0,23,1,9,Startup,Estágio
+145,32,Feminino,BA,"Sistemas de Informação",2016,1,"Curso de Python","Certificado Oracle",C#,Angular,0,104,14,44,0,0,"Despreparo técnico",0,1,10,0,5,"Empresa Média",Freelancer
+146,21,Masculino,RS,"Sistemas de Informação",2020,1,"Curso de SQL","Certificado Google",JavaScript,Laravel,18,85,24,37,6,0,"Mercado competitivo",1,0,5,1,5,"Órgão Público",Temporário
+147,27,Masculino,PR,"Sistemas de Informação",2020,0,"Curso de Cloud","Certificado AWS",JavaScript,Laravel,19,141,2,14,4,0,"Despreparo técnico",0,0,26,0,10,"Órgão Público",Estágio
+148,30,Feminino,SP,"Ciência da Computação",2022,1,"Curso de SQL","Certificado AWS",TypeScript,Spring,7,180,15,45,19,0,"Falta de experiência",0,1,49,0,5,Multinacional,Freelancer
+149,26,Masculino,PR,"Redes de Computadores",2025,0,"Curso de Cloud",Nenhum,JavaScript,Laravel,20,134,25,12,13,0,"Falta de experiência",1,1,17,1,7,Startup,Temporário
+150,31,Outro,DF,"Ciência da Computação",2015,1,"Curso de Dados","Certificado AWS",Java,Spring,9,59,7,16,17,0,"Despreparo técnico",0,0,29,0,4,"Empresa Média",Temporário
+151,29,Feminino,PR,"Sistemas de Informação",2023,1,"Curso de Python",Nenhum,TypeScript,Laravel,4,121,14,33,17,0,"Despreparo técnico",1,1,0,0,7,"Empresa Média",CLT
+152,25,Masculino,BA,"Redes de Computadores",2016,1,"Curso de Dados","Certificado Oracle",Ruby,Laravel,18,47,27,40,6,0,"Falta de experiência",0,0,45,1,9,Multinacional,Freelancer
+153,31,Feminino,RJ,"Sistemas de Informação",2024,0,"Curso de Dados",Nenhum,Java,Angular,16,141,13,9,11,0,"Falta de experiência",1,0,32,1,8,"Órgão Público",Temporário
+154,26,Outro,PE,"Engenharia da Computação",2025,1,"Curso de Dados",Nenhum,PHP,Laravel,10,135,3,27,8,0,"Falta de experiência",1,1,9,0,5,"Empresa Média",PJ
+155,25,Outro,MG,"Redes de Computadores",2015,1,"Curso de Python","Certificado AWS",Java,.NET,23,96,13,38,9,0,"Falta de experiência",0,0,26,1,10,Startup,CLT
+156,19,Masculino,RJ,"Sistemas de Informação",2025,1,Nenhum,"Certificado Oracle",Ruby,.NET,19,156,13,47,7,1,"Não sei o que melhorar",0,0,20,1,11,Multinacional,Estágio
+157,25,Masculino,DF,"Ciência da Computação",2019,1,"Curso de Dados","Certificado Azure",Java,Angular,4,60,0,6,12,0,"Mercado competitivo",0,0,16,0,9,Startup,PJ
+158,28,Masculino,RJ,"Redes de Computadores",2016,1,"Curso de Python","Certificado Oracle",TypeScript,Node.js,15,76,29,41,2,0,"Mercado competitivo",1,1,41,0,8,"Grande Empresa",PJ
+159,29,Masculino,DF,"Sistemas de Informação",2018,1,"Curso de Frontend","Certificado Oracle",Java,Spring,8,19,10,24,7,0,"Falta de experiência",1,1,42,1,1,Startup,CLT
+160,22,Masculino,PE,"Sistemas de Informação",2019,1,"Curso de Dados","Certificado Oracle",Ruby,React,11,89,22,21,17,0,"Pouco networking",1,0,21,0,11,Startup,Temporário
+161,32,Outro,PE,"Ciência da Computação",2025,0,"Curso de Python","Certificado Google",C#,Node.js,19,185,7,22,9,0,"Falta de experiência",1,0,24,1,3,Startup,PJ
+162,26,Outro,RJ,"Análise de Sistemas",2019,1,Nenhum,"Certificado AWS",Python,Spring,16,172,6,25,17,1,"Mercado competitivo",0,0,21,1,5,"Órgão Público",Estágio
+163,18,Feminino,RJ,"Análise de Sistemas",2022,1,"Curso de Cloud","Certificado AWS",Ruby,Laravel,17,8,0,2,2,0,"Não sei o que melhorar",0,0,25,1,5,Startup,Freelancer
+164,21,Outro,PR,"Ciência da Computação",2025,1,"Curso de Cloud","Certificado AWS",Python,Spring,6,172,13,34,2,0,"Pouco networking",1,0,37,0,3,Multinacional,Estágio
+165,29,Masculino,MG,"Engenharia da Computação",2017,1,"Curso de Cloud","Certificado Oracle",Python,Spring,13,55,19,21,3,0,"Despreparo técnico",0,0,39,1,3,Multinacional,PJ
+166,21,Masculino,SP,"Redes de Computadores",2021,1,Nenhum,"Certificado Oracle",Python,React,16,82,29,36,13,0,"Não sei o que melhorar",0,0,21,1,8,Multinacional,PJ
+167,29,Outro,RS,"Redes de Computadores",2018,1,"Curso de Dados","Certificado AWS",JavaScript,Flutter,1,109,17,10,7,0,"Despreparo técnico",1,0,35,1,4,Multinacional,CLT
+168,29,Outro,BA,"Redes de Computadores",2022,0,"Curso de Python",Nenhum,Python,Flutter,6,110,29,12,5,1,"Não sei o que melhorar",1,0,14,1,2,"Empresa Média",CLT
+169,23,Outro,BA,"Sistemas de Informação",2020,1,Nenhum,"Certificado AWS",JavaScript,React,2,67,9,28,17,1,"Falta de experiência",1,0,33,0,5,"Órgão Público",PJ
+170,29,Masculino,RS,"Análise de Sistemas",2025,0,"Curso de Python","Certificado Oracle",PHP,Spring,19,87,21,14,5,0,"Pouco networking",0,1,21,0,12,"Grande Empresa",CLT
+171,29,Masculino,BA,"Engenharia da Computação",2022,1,"Curso de Cloud","Certificado Google",C#,Spring,23,49,7,23,12,0,"Despreparo técnico",0,0,42,0,8,"Órgão Público",Freelancer
+172,26,Masculino,DF,"Sistemas de Informação",2017,1,"Curso de Dados","Certificado Oracle",Java,Django,18,147,12,45,4,0,"Despreparo técnico",1,1,18,1,11,"Empresa Média",PJ
+173,24,Masculino,RS,"Ciência da Computação",2025,1,Nenhum,"Certificado Google",Go,Node.js,18,156,18,37,17,0,"Falta de experiência",1,0,11,1,8,Startup,Freelancer
+174,22,Feminino,PR,"Engenharia da Computação",2023,1,"Curso de Frontend","Certificado AWS",Ruby,Laravel,15,169,9,1,4,1,"Falta de experiência",0,1,30,1,5,"Grande Empresa",CLT
+175,28,Feminino,BA,"Redes de Computadores",2016,1,Nenhum,"Certificado Azure",C#,Flutter,14,54,15,41,11,0,"Não sei o que melhorar",1,0,47,1,6,"Empresa Média",PJ
+176,22,Outro,PR,"Ciência da Computação",2020,1,"Curso de SQL","Certificado Oracle",Ruby,Node.js,11,38,17,15,16,0,"Despreparo técnico",1,0,46,1,12,"Órgão Público",Estágio
+177,27,Outro,SC,"Engenharia da Computação",2024,1,"Curso de Python",Nenhum,Go,Django,15,19,16,22,12,0,"Mercado competitivo",1,1,7,0,7,"Empresa Média",Estágio
+178,18,Outro,PR,"Ciência da Computação",2019,1,"Curso de Dados",Nenhum,TypeScript,Django,19,17,29,32,6,0,"Falta de experiência",0,0,25,1,6,"Órgão Público",PJ
+179,25,Feminino,PE,"Sistemas de Informação",2020,1,Nenhum,Nenhum,Python,Node.js,16,82,29,30,2,1,"Pouco networking",1,0,37,0,11,"Órgão Público",Estágio
+180,19,Feminino,MG,"Análise de Sistemas",2017,0,"Curso de Dados","Certificado Oracle",Go,Django,8,148,18,43,9,1,"Não sei o que melhorar",1,0,49,0,3,"Órgão Público",Temporário
+181,31,Feminino,SP,"Sistemas de Informação",2016,1,"Curso de SQL","Certificado Azure",C#,Flutter,10,106,10,8,15,0,"Não sei o que melhorar",0,0,45,1,12,Startup,PJ
+182,29,Outro,DF,"Redes de Computadores",2025,0,"Curso de Python","Certificado Google",Go,Django,6,71,28,34,11,1,"Pouco networking",1,0,37,0,2,"Empresa Média",PJ
+183,31,Masculino,PR,"Redes de Computadores",2018,1,"Curso de Python","Certificado Google",Ruby,Spring,13,2,12,1,18,0,"Pouco networking",0,0,47,0,7,Multinacional,Estágio
+184,20,Outro,SC,"Engenharia da Computação",2025,1,"Curso de Dados","Certificado Azure",TypeScript,Laravel,14,106,23,18,9,0,"Falta de experiência",0,1,46,1,5,"Órgão Público",Temporário
+185,31,Masculino,MG,"Análise de Sistemas",2021,1,"Curso de Cloud","Certificado Azure",Ruby,React,0,168,5,15,0,0,"Não sei o que melhorar",1,0,18,1,10,"Grande Empresa",Estágio
+186,24,Outro,PR,"Sistemas de Informação",2023,1,"Curso de Dados","Certificado Google",Go,Django,6,58,20,27,13,0,"Pouco networking",0,0,39,0,3,Multinacional,Freelancer
+187,29,Outro,SP,"Análise de Sistemas",2015,0,"Curso de Dados","Certificado Azure",Java,Flutter,3,9,22,27,11,0,"Pouco networking",1,0,13,1,10,Multinacional,CLT
+188,26,Feminino,MG,"Sistemas de Informação",2020,1,"Curso de SQL","Certificado Oracle",JavaScript,Laravel,0,88,6,34,16,1,"Mercado competitivo",1,1,38,1,3,"Empresa Média",PJ
+189,18,Feminino,PE,"Engenharia da Computação",2024,0,"Curso de Cloud","Certificado AWS",Python,Django,7,101,18,28,19,0,"Não sei o que melhorar",0,0,17,0,5,"Órgão Público",Temporário
+190,31,Masculino,BA,"Análise de Sistemas",2016,1,"Curso de SQL","Certificado Azure",Python,Node.js,4,26,3,8,11,0,"Mercado competitivo",1,0,37,1,1,"Grande Empresa",Freelancer
+191,31,Masculino,RS,"Redes de Computadores",2019,0,"Curso de Cloud","Certificado Azure",TypeScript,React,21,15,22,25,6,0,"Mercado competitivo",1,0,42,1,2,"Empresa Média",Estágio
+192,20,Masculino,PR,"Análise de Sistemas",2021,1,"Curso de Frontend","Certificado Azure",C#,Laravel,1,180,9,40,2,0,"Mercado competitivo",1,1,39,0,5,Multinacional,Temporário
+193,24,Outro,RJ,"Sistemas de Informação",2018,0,Nenhum,Nenhum,Ruby,React,7,57,13,21,16,1,"Falta de experiência",1,1,17,1,3,Startup,Estágio
+194,29,Outro,PR,"Redes de Computadores",2023,1,"Curso de Frontend","Certificado Azure",JavaScript,Laravel,4,56,26,26,19,0,"Não sei o que melhorar",1,1,8,1,8,"Grande Empresa",Freelancer
+195,21,Masculino,BA,"Redes de Computadores",2022,1,"Curso de SQL","Certificado Azure",C#,Node.js,12,160,13,45,2,1,"Pouco networking",1,1,5,0,8,Startup,CLT
+196,25,Masculino,MG,"Análise de Sistemas",2016,1,"Curso de SQL","Certificado Oracle",Python,Spring,11,179,0,16,13,0,"Despreparo técnico",0,0,40,0,3,Multinacional,Temporário
+197,22,Feminino,SP,"Ciência da Computação",2021,0,"Curso de Cloud","Certificado Azure",Python,Laravel,3,48,22,4,3,0,"Não sei o que melhorar",0,1,45,1,6,"Grande Empresa",Temporário
+198,20,Outro,BA,"Sistemas de Informação",2017,1,"Curso de SQL","Certificado Azure",C#,Node.js,10,97,2,44,4,0,"Não sei o que melhorar",1,1,42,1,12,"Empresa Média",Temporário
+199,27,Outro,PE,"Ciência da Computação",2020,0,"Curso de Cloud","Certificado AWS",Java,Spring,20,155,9,11,5,0,"Falta de experiência",1,1,22,1,2,"Grande Empresa",Estágio
+200,22,Feminino,MG,"Redes de Computadores",2025,0,"Curso de Cloud","Certificado Oracle",TypeScript,Spring,6,96,18,33,9,0,"Mercado competitivo",1,0,5,0,4,Startup,Freelancer
+201,30,Feminino,PR,"Redes de Computadores",2024,1,"Curso de Python","Certificado AWS",Go,Laravel,21,19,25,46,1,0,"Não sei o que melhorar",1,0,29,1,5,"Grande Empresa",Estágio
+202,30,Feminino,BA,"Análise de Sistemas",2025,1,"Curso de Dados","Certificado Azure",Ruby,Angular,1,194,18,11,5,0,"Mercado competitivo",1,1,9,0,4,"Grande Empresa",CLT
+203,21,Outro,DF,"Análise de Sistemas",2023,1,"Curso de SQL","Certificado Azure",Ruby,.NET,14,145,24,42,17,1,"Não sei o que melhorar",1,1,48,0,6,"Grande Empresa",CLT
+204,19,Masculino,SC,"Engenharia da Computação",2025,0,"Curso de Cloud","Certificado Oracle",Java,.NET,5,0,9,25,12,0,"Falta de experiência",1,1,47,1,9,"Grande Empresa",CLT
+205,26,Masculino,PE,"Engenharia da Computação",2024,1,Nenhum,Nenhum,TypeScript,React,15,23,18,35,14,0,"Não sei o que melhorar",0,1,23,0,12,"Empresa Média",Temporário
+206,27,Outro,SC,"Engenharia da Computação",2019,1,"Curso de Python",Nenhum,Python,Laravel,13,126,12,7,10,0,"Pouco networking",1,0,42,0,7,"Órgão Público",PJ
+207,23,Masculino,BA,"Engenharia da Computação",2015,0,Nenhum,"Certificado AWS",C#,Spring,17,10,1,7,11,0,"Mercado competitivo",0,0,30,1,3,"Grande Empresa",PJ
+208,21,Feminino,RS,"Análise de Sistemas",2025,1,Nenhum,"Certificado Oracle",PHP,React,11,68,6,4,14,0,"Falta de experiência",1,1,42,1,10,"Órgão Público",PJ
+209,23,Masculino,MG,"Sistemas de Informação",2016,1,"Curso de Frontend","Certificado Azure",C#,Spring,22,195,1,19,14,0,"Mercado competitivo",1,1,43,0,1,"Empresa Média",CLT
+210,27,Outro,MG,"Redes de Computadores",2023,0,Nenhum,"Certificado Oracle",Go,Angular,12,43,14,41,13,1,"Pouco networking",0,1,40,0,8,"Órgão Público",PJ
+211,19,Feminino,SC,"Sistemas de Informação",2018,1,"Curso de Frontend","Certificado Oracle",PHP,Flutter,7,133,10,40,18,0,"Mercado competitivo",0,0,36,1,2,"Grande Empresa",Estágio
+212,29,Masculino,RS,"Análise de Sistemas",2020,1,"Curso de Python","Certificado Google",Java,Angular,5,96,23,23,19,0,"Não sei o que melhorar",1,0,10,0,10,"Grande Empresa",Estágio
+213,32,Masculino,BA,"Redes de Computadores",2020,0,"Curso de SQL","Certificado Google",TypeScript,Laravel,14,104,22,7,10,0,"Despreparo técnico",1,0,47,1,12,Startup,PJ
+214,24,Masculino,PE,"Análise de Sistemas",2021,1,Nenhum,"Certificado Google",Go,React,4,161,15,9,7,0,"Despreparo técnico",0,1,18,1,12,"Grande Empresa",PJ
+215,29,Masculino,PE,"Engenharia da Computação",2016,1,"Curso de Cloud","Certificado Azure",TypeScript,Flutter,0,57,10,47,13,0,"Mercado competitivo",0,0,1,0,4,Startup,CLT
+216,24,Masculino,DF,"Análise de Sistemas",2025,1,"Curso de SQL","Certificado Azure",C#,Spring,3,3,18,4,11,0,"Mercado competitivo",0,0,36,0,10,Multinacional,Estágio
+217,29,Feminino,RS,"Engenharia da Computação",2020,1,Nenhum,"Certificado AWS",Java,Node.js,6,36,4,7,5,0,"Pouco networking",1,1,44,1,8,"Empresa Média",PJ
+218,29,Outro,RS,"Engenharia da Computação",2018,1,Nenhum,Nenhum,Ruby,Spring,22,37,3,1,15,1,"Falta de experiência",1,0,27,0,8,Multinacional,Temporário
+219,21,Masculino,PE,"Redes de Computadores",2023,1,"Curso de Cloud","Certificado AWS",TypeScript,Django,22,81,7,3,11,0,"Despreparo técnico",1,1,48,1,12,Startup,Estágio
+220,20,Feminino,PE,"Redes de Computadores",2023,0,"Curso de Python",Nenhum,Ruby,Flutter,7,162,3,3,1,0,"Falta de experiência",0,1,41,0,8,"Órgão Público",PJ
+221,29,Masculino,RJ,"Análise de Sistemas",2020,1,"Curso de Frontend","Certificado Azure",PHP,Angular,3,27,6,34,15,1,"Mercado competitivo",0,1,21,0,8,"Órgão Público",Freelancer
+222,31,Feminino,SP,"Análise de Sistemas",2024,1,"Curso de Frontend","Certificado AWS",Python,Node.js,10,36,17,19,2,0,"Mercado competitivo",1,0,6,0,1,"Órgão Público",Temporário
+223,28,Masculino,BA,"Engenharia da Computação",2018,1,Nenhum,"Certificado AWS",PHP,Node.js,8,15,8,9,2,0,"Falta de experiência",0,0,9,0,1,"Empresa Média",CLT
+224,20,Masculino,RS,"Engenharia da Computação",2016,1,"Curso de Frontend","Certificado Oracle",Python,Flutter,14,8,12,45,7,0,"Pouco networking",0,1,44,0,8,"Órgão Público",Estágio
+225,20,Masculino,SC,"Engenharia da Computação",2023,0,Nenhum,"Certificado Google",TypeScript,Django,14,17,18,40,4,0,"Não sei o que melhorar",1,0,18,0,7,"Empresa Média",Temporário
+226,25,Feminino,PR,"Análise de Sistemas",2022,0,"Curso de Cloud","Certificado AWS",C#,React,7,87,6,42,11,0,"Não sei o que melhorar",1,0,0,1,1,"Órgão Público",Freelancer
+227,18,Feminino,RJ,"Análise de Sistemas",2024,0,Nenhum,"Certificado Azure",Ruby,Angular,15,98,16,16,18,0,"Despreparo técnico",0,1,12,0,3,Startup,PJ
+228,29,Outro,DF,"Engenharia da Computação",2016,0,"Curso de Python","Certificado Azure",C#,Spring,23,27,22,15,5,0,"Mercado competitivo",1,0,10,1,6,Multinacional,CLT
+229,21,Masculino,DF,"Sistemas de Informação",2024,0,"Curso de Frontend","Certificado AWS",JavaScript,.NET,6,188,26,27,2,1,"Pouco networking",0,1,41,0,11,"Grande Empresa",CLT
+230,21,Feminino,DF,"Engenharia da Computação",2025,1,"Curso de Cloud","Certificado Google",Java,Laravel,10,134,1,13,4,0,"Mercado competitivo",1,1,49,0,1,Startup,CLT
+231,22,Masculino,MG,"Análise de Sistemas",2025,1,"Curso de Cloud","Certificado Google",PHP,.NET,3,117,13,23,0,1,"Mercado competitivo",0,0,13,0,5,Multinacional,Temporário
+232,18,Masculino,MG,"Sistemas de Informação",2023,1,Nenhum,"Certificado Google",Go,React,14,152,28,26,15,0,"Falta de experiência",0,0,38,0,7,"Empresa Média",Freelancer
+233,26,Masculino,RJ,"Engenharia da Computação",2015,0,"Curso de Python","Certificado Google",Java,Django,20,60,28,43,9,1,"Mercado competitivo",1,0,2,0,7,"Empresa Média",Estágio
+234,18,Feminino,DF,"Análise de Sistemas",2022,1,"Curso de SQL",Nenhum,Go,Spring,21,161,9,11,2,0,"Despreparo técnico",1,1,42,0,10,"Órgão Público",CLT
+235,20,Masculino,SP,"Engenharia da Computação",2024,1,"Curso de Frontend","Certificado Oracle",C#,Laravel,11,137,1,9,15,0,"Pouco networking",1,0,19,1,1,Startup,Temporário
+236,29,Outro,BA,"Análise de Sistemas",2018,0,"Curso de Frontend","Certificado Azure",Python,Node.js,14,0,6,1,10,0,"Não sei o que melhorar",1,0,2,0,1,"Órgão Público",Temporário
+237,21,Masculino,MG,"Redes de Computadores",2021,0,"Curso de Python","Certificado Google",Ruby,Spring,12,188,2,33,1,0,"Mercado competitivo",0,0,24,1,7,"Grande Empresa",Estágio
+238,21,Outro,DF,"Engenharia da Computação",2025,1,"Curso de Python","Certificado Google",TypeScript,Spring,4,37,12,24,4,1,"Não sei o que melhorar",0,1,3,1,9,"Empresa Média",PJ
+239,32,Feminino,DF,"Redes de Computadores",2021,1,"Curso de Cloud","Certificado Oracle",Python,Django,2,99,5,19,8,1,"Despreparo técnico",0,0,27,1,3,Startup,Estágio
+240,29,Masculino,SC,"Engenharia da Computação",2023,1,"Curso de Frontend","Certificado AWS",PHP,Node.js,22,153,0,36,12,1,"Falta de experiência",0,1,43,1,9,"Grande Empresa",Estágio
+241,30,Outro,SP,"Engenharia da Computação",2024,1,"Curso de Python","Certificado AWS",Java,Spring,3,8,25,2,15,1,"Pouco networking",0,0,24,1,7,"Grande Empresa",Estágio
+242,23,Masculino,DF,"Sistemas de Informação",2022,1,"Curso de Dados","Certificado AWS",Python,React,3,113,11,7,12,0,"Mercado competitivo",1,1,34,1,10,Startup,Estágio
+243,29,Feminino,PR,"Engenharia da Computação",2020,1,"Curso de Dados","Certificado Google",Java,Flutter,23,35,28,8,0,1,"Mercado competitivo",0,0,46,1,2,"Órgão Público",Freelancer
+244,23,Outro,DF,"Ciência da Computação",2020,1,"Curso de SQL","Certificado Oracle",JavaScript,Flutter,2,156,19,46,14,1,"Mercado competitivo",1,1,33,0,3,Startup,Temporário
+245,24,Outro,SC,"Ciência da Computação",2017,1,"Curso de Cloud","Certificado AWS",PHP,Angular,0,128,3,35,3,0,"Não sei o que melhorar",1,0,14,0,7,"Grande Empresa",CLT
+246,29,Feminino,BA,"Análise de Sistemas",2025,1,"Curso de Cloud","Certificado Oracle",C#,React,14,155,1,48,13,0,"Despreparo técnico",1,0,42,0,2,Startup,Estágio
+247,28,Masculino,PE,"Redes de Computadores",2020,1,"Curso de Python","Certificado Azure",C#,Django,4,22,29,24,11,0,"Falta de experiência",1,0,44,1,1,Startup,PJ
+248,18,Feminino,RJ,"Ciência da Computação",2019,0,"Curso de SQL",Nenhum,TypeScript,Angular,2,31,13,36,5,0,"Despreparo técnico",1,0,4,0,11,"Órgão Público",Estágio
+249,27,Outro,BA,"Redes de Computadores",2017,0,Nenhum,Nenhum,C#,Django,10,27,11,28,13,0,"Não sei o que melhorar",1,1,6,1,1,Multinacional,Freelancer
+250,27,Feminino,SP,"Engenharia da Computação",2025,1,"Curso de Dados","Certificado Azure",JavaScript,Node.js,22,181,20,32,4,0,"Pouco networking",0,0,5,0,1,"Empresa Média",Estágio
+251,29,Masculino,BA,"Sistemas de Informação",2016,0,"Curso de Frontend","Certificado Oracle",Python,Laravel,2,199,20,21,2,0,"Despreparo técnico",0,0,12,1,12,Startup,CLT
+252,29,Outro,MG,"Engenharia da Computação",2024,0,Nenhum,"Certificado Oracle",Python,.NET,21,53,19,25,10,0,"Mercado competitivo",1,0,34,0,12,Multinacional,CLT
+253,18,Outro,PR,"Ciência da Computação",2019,1,"Curso de Frontend","Certificado AWS",Ruby,Laravel,18,64,9,34,9,0,"Não sei o que melhorar",1,1,47,1,6,"Grande Empresa",Temporário
+254,24,Masculino,SC,"Ciência da Computação",2015,1,"Curso de Dados","Certificado Oracle",TypeScript,Angular,1,170,1,33,3,1,"Falta de experiência",1,0,43,1,3,"Grande Empresa",Temporário
+255,30,Masculino,SP,"Sistemas de Informação",2018,1,"Curso de Dados","Certificado Azure",Go,Laravel,3,36,14,44,19,0,"Pouco networking",1,1,46,1,12,"Órgão Público",Freelancer
+256,23,Feminino,SC,"Redes de Computadores",2021,1,Nenhum,"Certificado Azure",Java,.NET,0,126,3,35,4,1,"Despreparo técnico",1,0,32,1,2,"Empresa Média",PJ
+257,21,Feminino,SC,"Análise de Sistemas",2015,1,"Curso de Cloud","Certificado Azure",Ruby,Angular,10,122,22,42,0,0,"Despreparo técnico",1,0,34,1,8,"Empresa Média",Freelancer
+258,32,Feminino,DF,"Redes de Computadores",2023,0,"Curso de Dados","Certificado Azure",Java,Angular,0,126,3,37,6,0,"Pouco networking",1,0,41,0,12,"Empresa Média",CLT
+259,23,Feminino,SP,"Engenharia da Computação",2023,0,"Curso de Python",Nenhum,Go,.NET,10,150,13,49,11,1,"Mercado competitivo",1,0,35,1,10,Startup,Temporário
+260,25,Outro,MG,"Sistemas de Informação",2025,1,"Curso de Python",Nenhum,C#,React,11,26,5,29,7,0,"Pouco networking",1,1,4,0,11,Multinacional,Temporário
+261,21,Feminino,RJ,"Ciência da Computação",2024,0,"Curso de SQL","Certificado Azure",Python,.NET,17,87,1,44,5,1,"Pouco networking",1,0,6,1,6,Multinacional,Freelancer
+262,23,Masculino,SC,"Análise de Sistemas",2015,0,"Curso de SQL","Certificado Azure",JavaScript,Angular,20,111,8,37,18,0,"Falta de experiência",1,1,29,1,7,"Órgão Público",PJ
+263,24,Feminino,SC,"Análise de Sistemas",2025,1,Nenhum,"Certificado Oracle",PHP,Angular,21,188,1,17,13,0,"Mercado competitivo",1,0,43,1,12,Startup,Freelancer
+264,31,Outro,RS,"Ciência da Computação",2015,0,"Curso de SQL","Certificado AWS",Ruby,Flutter,18,60,4,44,19,0,"Não sei o que melhorar",1,1,28,1,4,"Órgão Público",Freelancer
+265,23,Feminino,PE,"Sistemas de Informação",2021,1,Nenhum,"Certificado Oracle",TypeScript,.NET,13,76,7,6,18,0,"Falta de experiência",1,0,26,0,7,Multinacional,Temporário
+266,20,Outro,SP,"Engenharia da Computação",2023,1,"Curso de SQL","Certificado Azure",Go,Spring,22,174,16,2,13,0,"Mercado competitivo",1,1,6,1,4,"Órgão Público",Freelancer
+267,32,Outro,SC,"Sistemas de Informação",2017,1,"Curso de Dados",Nenhum,Java,Node.js,21,102,27,0,5,0,"Mercado competitivo",1,0,41,0,5,"Empresa Média",Estágio
+268,27,Feminino,BA,"Engenharia da Computação",2020,1,"Curso de Cloud","Certificado Oracle",Go,Flutter,20,54,25,17,5,0,"Despreparo técnico",1,1,12,1,8,"Grande Empresa",Estágio
+269,28,Feminino,PR,"Ciência da Computação",2025,1,"Curso de Cloud","Certificado Oracle",Java,.NET,12,52,22,49,13,0,"Despreparo técnico",0,0,40,0,7,"Grande Empresa",Estágio
+270,27,Feminino,RS,"Ciência da Computação",2018,0,"Curso de Cloud",Nenhum,JavaScript,Django,5,182,26,36,19,0,"Pouco networking",1,0,14,1,11,"Grande Empresa",Freelancer
+271,27,Outro,PR,"Engenharia da Computação",2019,0,Nenhum,"Certificado AWS",JavaScript,Angular,18,2,24,1,14,0,"Mercado competitivo",1,1,40,0,1,Startup,CLT
+272,20,Outro,RJ,"Ciência da Computação",2018,1,"Curso de Cloud","Certificado AWS",Ruby,Laravel,16,2,28,35,14,0,"Pouco networking",1,0,32,1,7,Multinacional,Freelancer
+273,18,Outro,MG,"Engenharia da Computação",2024,1,"Curso de Python","Certificado AWS",C#,.NET,9,99,9,5,11,0,"Pouco networking",1,0,19,0,10,Multinacional,Estágio
+274,18,Outro,RJ,"Engenharia da Computação",2023,0,"Curso de Python",Nenhum,Ruby,Node.js,5,191,4,43,17,1,"Mercado competitivo",0,1,26,1,9,"Grande Empresa",Freelancer
+275,24,Feminino,RJ,"Análise de Sistemas",2019,1,"Curso de Dados","Certificado Azure",C#,Spring,1,117,21,44,5,0,"Pouco networking",1,0,28,0,9,Startup,CLT
+276,24,Outro,RS,"Análise de Sistemas",2023,1,Nenhum,"Certificado Azure",C#,Angular,9,62,9,35,10,0,"Mercado competitivo",0,0,15,1,8,Multinacional,Temporário
+277,19,Feminino,SC,"Engenharia da Computação",2021,0,"Curso de Cloud",Nenhum,C#,Node.js,23,152,28,19,2,0,"Mercado competitivo",0,0,12,1,3,Multinacional,Estágio
+278,30,Feminino,RJ,"Ciência da Computação",2019,1,Nenhum,"Certificado Azure",PHP,.NET,16,7,2,14,3,0,"Mercado competitivo",1,0,15,1,7,"Empresa Média",CLT
+279,24,Outro,PR,"Sistemas de Informação",2016,1,"Curso de SQL","Certificado Google",JavaScript,.NET,16,32,23,18,10,0,"Pouco networking",1,0,42,0,4,"Órgão Público",CLT
+280,25,Masculino,RS,"Engenharia da Computação",2020,1,"Curso de Python","Certificado AWS",PHP,Laravel,5,142,24,47,6,1,"Falta de experiência",1,0,22,1,3,"Órgão Público",Temporário
+281,19,Masculino,SP,"Ciência da Computação",2017,1,"Curso de Frontend","Certificado Oracle",Python,Angular,10,143,8,14,11,1,"Falta de experiência",1,0,40,1,3,Multinacional,CLT
+282,27,Feminino,RJ,"Redes de Computadores",2015,1,"Curso de Dados",Nenhum,Go,React,6,20,21,17,11,1,"Falta de experiência",0,0,25,1,3,Startup,Estágio
+283,31,Outro,RS,"Ciência da Computação",2021,1,"Curso de Dados",Nenhum,PHP,React,9,172,4,11,12,0,"Mercado competitivo",1,0,34,0,1,Multinacional,PJ
+284,18,Feminino,DF,"Redes de Computadores",2019,1,Nenhum,"Certificado Azure",Python,.NET,23,120,1,20,17,0,"Mercado competitivo",0,0,46,1,8,"Órgão Público",CLT
+285,22,Masculino,PR,"Análise de Sistemas",2020,0,"Curso de SQL",Nenhum,Ruby,Angular,14,88,12,33,3,1,"Mercado competitivo",0,1,21,0,5,Multinacional,Temporário
+286,18,Masculino,DF,"Sistemas de Informação",2020,1,"Curso de Cloud","Certificado Google",PHP,Angular,3,66,5,42,15,0,"Não sei o que melhorar",1,1,29,1,2,"Órgão Público",Freelancer
+287,26,Feminino,PR,"Redes de Computadores",2021,0,"Curso de Cloud",Nenhum,Ruby,Django,14,12,15,20,9,0,"Mercado competitivo",0,0,30,1,7,"Órgão Público",Estágio
+288,32,Masculino,BA,"Ciência da Computação",2020,1,Nenhum,"Certificado AWS",Go,Flutter,22,141,21,25,7,0,"Mercado competitivo",1,0,0,0,2,"Grande Empresa",Estágio
+289,29,Masculino,MG,"Engenharia da Computação",2023,0,Nenhum,"Certificado Azure",Go,Laravel,1,164,25,42,13,1,"Despreparo técnico",1,1,42,0,8,Multinacional,PJ
+290,19,Masculino,PR,"Engenharia da Computação",2023,0,"Curso de SQL","Certificado AWS",PHP,React,7,128,6,8,4,0,"Falta de experiência",1,0,33,1,11,"Grande Empresa",PJ
+291,32,Outro,SC,"Redes de Computadores",2019,0,"Curso de Dados","Certificado AWS",PHP,Laravel,8,21,15,10,10,1,"Não sei o que melhorar",0,0,12,1,8,Startup,Temporário
+292,21,Outro,DF,"Redes de Computadores",2025,1,Nenhum,Nenhum,Java,Django,12,129,21,32,2,0,"Mercado competitivo",1,1,31,0,8,Multinacional,Temporário
+293,22,Feminino,RS,"Análise de Sistemas",2024,1,"Curso de Frontend",Nenhum,Ruby,React,17,118,23,6,6,0,"Não sei o que melhorar",0,0,38,1,12,"Órgão Público",Estágio
+294,26,Feminino,BA,"Engenharia da Computação",2016,1,"Curso de Cloud",Nenhum,Java,Flutter,23,59,15,31,12,0,"Pouco networking",1,0,0,1,2,Startup,PJ
+295,23,Outro,PE,"Sistemas de Informação",2016,1,"Curso de Python","Certificado AWS",Java,Spring,15,86,5,28,7,0,"Falta de experiência",1,0,16,0,2,"Empresa Média",Freelancer
+296,20,Outro,PR,"Redes de Computadores",2020,1,"Curso de Cloud","Certificado Oracle",C#,Angular,20,149,6,40,9,1,"Despreparo técnico",1,1,0,1,7,Multinacional,Estágio
+297,30,Feminino,BA,"Ciência da Computação",2023,1,"Curso de Dados",Nenhum,PHP,React,13,127,14,28,7,0,"Falta de experiência",1,0,26,0,5,"Órgão Público",CLT
+298,26,Outro,DF,"Engenharia da Computação",2025,1,"Curso de Cloud","Certificado AWS",TypeScript,.NET,16,7,3,25,3,0,"Despreparo técnico",0,0,4,0,4,"Grande Empresa",Temporário
+299,28,Feminino,MG,"Análise de Sistemas",2017,1,"Curso de Frontend","Certificado Oracle",Go,Spring,22,193,29,4,9,0,"Não sei o que melhorar",0,1,44,0,6,"Empresa Média",Temporário
+300,21,Outro,PR,"Análise de Sistemas",2023,1,"Curso de SQL","Certificado AWS",JavaScript,React,5,142,28,29,2,1,"Não sei o que melhorar",1,0,10,0,1,"Empresa Média",PJ
+301,31,Feminino,PR,"Engenharia da Computação",2024,1,"Curso de Frontend","Certificado Google",JavaScript,Django,3,147,8,8,19,0,"Mercado competitivo",1,1,15,0,6,"Grande Empresa",Estágio
+302,22,Feminino,SP,"Sistemas de Informação",2021,1,Nenhum,"Certificado Azure",JavaScript,Angular,19,80,17,37,19,0,"Não sei o que melhorar",1,1,15,1,9,"Empresa Média",Temporário
+303,25,Feminino,MG,"Ciência da Computação",2019,1,"Curso de Frontend","Certificado Azure",C#,Django,16,57,10,45,10,1,"Pouco networking",1,1,35,0,4,"Órgão Público",CLT
+304,26,Feminino,RJ,"Sistemas de Informação",2019,0,"Curso de SQL","Certificado Google",TypeScript,Spring,5,100,23,21,16,1,"Pouco networking",1,1,28,0,8,"Empresa Média",PJ
+305,30,Masculino,DF,"Sistemas de Informação",2018,0,"Curso de Frontend","Certificado Oracle",Python,Django,12,88,19,46,14,1,"Não sei o que melhorar",0,1,4,1,7,"Órgão Público",Freelancer
+306,25,Outro,SC,"Ciência da Computação",2017,1,"Curso de Python","Certificado Oracle",Java,Django,0,192,21,31,1,0,"Falta de experiência",1,0,33,0,11,Multinacional,CLT
+307,24,Outro,SC,"Redes de Computadores",2019,1,"Curso de Cloud","Certificado Google",C#,Laravel,3,52,25,23,16,0,"Não sei o que melhorar",0,0,33,1,6,"Empresa Média",PJ
+308,29,Outro,RJ,"Análise de Sistemas",2017,1,"Curso de Cloud","Certificado Oracle",JavaScript,Laravel,21,185,29,3,8,1,"Não sei o que melhorar",0,0,39,1,6,"Órgão Público",PJ
+309,30,Masculino,RS,"Engenharia da Computação",2023,1,"Curso de Dados","Certificado Oracle",PHP,Spring,18,48,26,30,9,0,"Não sei o que melhorar",1,1,42,1,3,"Empresa Média",Temporário
+310,28,Feminino,DF,"Análise de Sistemas",2018,1,"Curso de Frontend","Certificado AWS",JavaScript,Django,6,35,2,48,10,1,"Falta de experiência",0,1,41,0,1,"Empresa Média",Temporário
+311,24,Masculino,RJ,"Ciência da Computação",2017,1,"Curso de Frontend",Nenhum,C#,Django,16,86,1,49,16,0,"Não sei o que melhorar",0,0,28,0,10,"Órgão Público",Estágio
+312,21,Outro,RJ,"Análise de Sistemas",2018,1,"Curso de Dados","Certificado Oracle",TypeScript,React,19,177,28,3,9,0,"Não sei o que melhorar",1,0,26,0,12,"Empresa Média",CLT
+313,26,Feminino,RS,"Ciência da Computação",2019,1,"Curso de SQL","Certificado AWS",JavaScript,Flutter,7,158,2,49,15,1,"Falta de experiência",1,0,0,1,8,Multinacional,Estágio
+314,24,Outro,SP,"Sistemas de Informação",2021,1,"Curso de Python",Nenhum,Java,React,18,151,12,44,3,0,"Falta de experiência",1,1,43,1,5,"Grande Empresa",Estágio
+315,28,Masculino,PR,"Sistemas de Informação",2019,1,"Curso de Cloud","Certificado Azure",Java,Django,23,178,15,41,12,1,"Despreparo técnico",0,1,47,1,12,Multinacional,PJ
+316,25,Feminino,PR,"Análise de Sistemas",2018,1,"Curso de SQL","Certificado Azure",PHP,Spring,20,132,23,46,5,0,"Falta de experiência",1,0,49,1,10,"Empresa Média",CLT
+317,27,Outro,PE,"Engenharia da Computação",2023,1,"Curso de Cloud",Nenhum,TypeScript,Laravel,20,113,9,47,15,1,"Mercado competitivo",0,0,48,1,3,Startup,Temporário
+318,26,Feminino,RJ,"Engenharia da Computação",2025,1,"Curso de Frontend","Certificado Azure",Ruby,Laravel,19,117,13,23,0,0,"Falta de experiência",1,0,24,0,10,"Grande Empresa",Freelancer
+319,25,Feminino,SP,"Análise de Sistemas",2022,0,"Curso de Python","Certificado Oracle",Ruby,React,18,184,7,22,9,0,"Pouco networking",1,1,20,0,10,"Grande Empresa",Temporário
+320,31,Feminino,RJ,"Sistemas de Informação",2015,1,"Curso de Cloud","Certificado AWS",Java,Flutter,22,8,10,32,3,1,"Falta de experiência",0,1,4,1,11,"Grande Empresa",Estágio
+321,20,Masculino,DF,"Redes de Computadores",2015,0,"Curso de SQL","Certificado Oracle",Ruby,Django,0,178,12,20,16,1,"Falta de experiência",0,1,22,0,1,Startup,PJ
+322,21,Masculino,BA,"Sistemas de Informação",2018,1,"Curso de Dados","Certificado Azure",C#,Django,11,55,29,8,16,1,"Não sei o que melhorar",1,0,49,1,8,"Órgão Público",Freelancer
+323,26,Masculino,SC,"Sistemas de Informação",2019,1,"Curso de Cloud",Nenhum,PHP,Angular,17,59,8,26,15,0,"Não sei o que melhorar",1,1,12,0,1,Multinacional,CLT
+324,22,Feminino,PE,"Análise de Sistemas",2020,1,Nenhum,"Certificado AWS",C#,Django,14,151,1,44,7,0,"Despreparo técnico",1,1,48,1,10,"Grande Empresa",Temporário
+325,22,Masculino,RJ,"Engenharia da Computação",2018,1,"Curso de Python","Certificado AWS",Go,Django,11,64,5,0,9,0,"Pouco networking",1,0,32,1,9,Startup,Freelancer
+326,26,Masculino,DF,"Sistemas de Informação",2024,0,Nenhum,"Certificado Azure",Ruby,Flutter,7,164,4,11,15,0,"Falta de experiência",1,0,4,0,12,"Grande Empresa",Freelancer
+327,28,Outro,DF,"Ciência da Computação",2019,1,"Curso de SQL","Certificado Google",Java,.NET,15,186,22,49,14,0,"Não sei o que melhorar",0,0,31,0,10,"Empresa Média",Estágio
+328,29,Masculino,RJ,"Ciência da Computação",2015,1,"Curso de Python","Certificado AWS",Ruby,Django,20,36,12,25,5,1,"Mercado competitivo",0,0,33,1,4,"Grande Empresa",Freelancer
+329,21,Masculino,SP,"Análise de Sistemas",2023,1,"Curso de Frontend","Certificado Oracle",Ruby,Flutter,2,141,7,9,3,0,"Despreparo técnico",1,1,33,0,12,Multinacional,Freelancer
+330,23,Outro,BA,"Redes de Computadores",2025,0,Nenhum,"Certificado AWS",PHP,Node.js,11,139,29,43,7,0,"Falta de experiência",1,0,34,0,4,"Grande Empresa",Estágio
+331,25,Outro,RS,"Análise de Sistemas",2019,1,"Curso de Frontend","Certificado AWS",Go,Laravel,7,176,15,47,3,0,"Não sei o que melhorar",1,0,41,0,2,"Empresa Média",PJ
+332,29,Outro,RJ,"Análise de Sistemas",2024,0,"Curso de Frontend","Certificado Google",Python,Angular,15,164,4,14,19,1,"Falta de experiência",0,0,22,1,5,Multinacional,Estágio
+333,23,Feminino,PE,"Sistemas de Informação",2017,0,"Curso de Python",Nenhum,C#,Django,11,80,17,38,0,1,"Falta de experiência",0,1,36,0,11,"Órgão Público",PJ
+334,22,Outro,BA,"Sistemas de Informação",2022,0,"Curso de Cloud","Certificado Azure",Go,Django,15,11,9,17,16,0,"Não sei o que melhorar",1,0,20,1,8,Startup,Estágio
+335,27,Feminino,PE,"Análise de Sistemas",2021,1,"Curso de SQL","Certificado Oracle",Java,.NET,11,35,12,26,8,0,"Mercado competitivo",1,0,30,1,2,Startup,Estágio
+336,27,Outro,SP,"Sistemas de Informação",2018,1,"Curso de Dados","Certificado Azure",PHP,Django,9,198,23,44,3,0,"Falta de experiência",0,0,12,1,3,Startup,PJ
+337,18,Masculino,SP,"Análise de Sistemas",2019,1,"Curso de Frontend",Nenhum,JavaScript,.NET,20,196,9,34,8,0,"Pouco networking",0,0,35,0,7,Multinacional,Estágio
+338,30,Feminino,PE,"Engenharia da Computação",2020,1,"Curso de Python","Certificado Azure",Java,React,23,118,29,8,18,0,"Mercado competitivo",1,0,7,1,6,"Grande Empresa",PJ
+339,25,Outro,MG,"Engenharia da Computação",2016,0,"Curso de Dados","Certificado AWS",Python,Laravel,3,61,1,16,10,0,"Despreparo técnico",1,0,0,0,11,"Órgão Público",Freelancer
+340,25,Outro,SP,"Análise de Sistemas",2017,0,Nenhum,"Certificado AWS",TypeScript,Django,22,97,19,35,13,0,"Falta de experiência",1,1,37,0,9,"Órgão Público",Temporário
+341,32,Feminino,SC,"Ciência da Computação",2023,1,"Curso de SQL","Certificado Oracle",Ruby,Django,19,37,13,32,17,0,"Não sei o que melhorar",1,0,4,0,9,"Grande Empresa",CLT
+342,28,Feminino,DF,"Redes de Computadores",2022,1,"Curso de Cloud",Nenhum,Ruby,React,2,37,19,37,16,1,"Pouco networking",0,0,6,0,9,"Órgão Público",Temporário
+343,28,Feminino,SC,"Redes de Computadores",2017,0,"Curso de SQL","Certificado Google",Ruby,Angular,1,188,15,39,7,0,"Não sei o que melhorar",0,1,32,1,11,Multinacional,Temporário
+344,28,Feminino,PR,"Ciência da Computação",2024,0,"Curso de Dados",Nenhum,Python,Django,12,75,9,22,5,0,"Pouco networking",1,0,41,1,1,Startup,Estágio
+345,23,Masculino,SC,"Ciência da Computação",2018,1,"Curso de SQL","Certificado Google",PHP,.NET,11,191,12,7,10,0,"Pouco networking",1,0,0,1,10,Startup,Temporário
+346,28,Masculino,RJ,"Redes de Computadores",2016,0,"Curso de Dados","Certificado Google",PHP,.NET,20,173,21,0,18,0,"Despreparo técnico",0,0,34,0,4,"Órgão Público",Freelancer
+347,31,Feminino,PE,"Redes de Computadores",2022,1,"Curso de SQL","Certificado Oracle",Java,Angular,7,16,13,1,16,1,"Pouco networking",1,0,44,0,2,Startup,PJ
+348,23,Outro,RJ,"Engenharia da Computação",2025,1,"Curso de SQL","Certificado Oracle",Ruby,.NET,22,61,22,43,1,0,"Pouco networking",0,0,42,1,9,Multinacional,CLT
+349,31,Masculino,RS,"Redes de Computadores",2018,1,Nenhum,"Certificado Oracle",JavaScript,React,20,8,20,10,1,0,"Não sei o que melhorar",0,0,27,0,5,Multinacional,PJ
+350,30,Outro,MG,"Engenharia da Computação",2016,1,"Curso de SQL","Certificado Azure",C#,Django,3,158,15,12,12,0,"Pouco networking",1,1,19,0,7,Startup,CLT
+351,22,Outro,SP,"Ciência da Computação",2017,1,"Curso de Dados",Nenhum,JavaScript,React,8,71,23,38,10,0,"Falta de experiência",1,0,1,1,6,Startup,Freelancer
+352,26,Masculino,DF,"Engenharia da Computação",2018,0,"Curso de SQL","Certificado Google",Python,.NET,13,135,21,25,7,0,"Não sei o que melhorar",1,1,47,0,5,"Órgão Público",CLT
+353,22,Outro,SC,"Ciência da Computação",2021,1,"Curso de Cloud",Nenhum,Ruby,React,3,99,1,34,7,1,"Despreparo técnico",0,1,34,1,11,Multinacional,Estágio
+354,21,Outro,SC,"Ciência da Computação",2019,0,"Curso de Frontend","Certificado Google",C#,Node.js,18,183,7,23,13,1,"Pouco networking",0,0,26,0,10,Startup,CLT
+355,19,Masculino,SP,"Análise de Sistemas",2025,1,Nenhum,"Certificado AWS",Python,Flutter,7,174,12,26,7,0,"Pouco networking",1,1,20,1,2,"Órgão Público",Estágio
+356,30,Feminino,MG,"Redes de Computadores",2022,1,"Curso de Cloud","Certificado Azure",PHP,Laravel,1,189,16,47,1,0,"Pouco networking",0,0,2,1,10,Startup,Estágio
+357,18,Outro,BA,"Ciência da Computação",2024,1,Nenhum,Nenhum,JavaScript,Spring,7,184,21,43,2,0,"Não sei o que melhorar",0,0,38,1,9,"Órgão Público",Temporário
+358,30,Masculino,BA,"Ciência da Computação",2016,0,"Curso de Dados",Nenhum,Java,Flutter,9,5,29,45,10,0,"Pouco networking",1,0,13,0,10,"Grande Empresa",PJ
+359,29,Outro,BA,"Análise de Sistemas",2015,0,"Curso de Dados","Certificado Oracle",Go,Node.js,11,71,11,44,4,0,"Não sei o que melhorar",1,1,38,0,6,"Órgão Público",Estágio
+360,22,Masculino,PR,"Engenharia da Computação",2015,1,"Curso de SQL","Certificado AWS",Go,Node.js,6,81,7,0,5,0,"Falta de experiência",0,0,38,1,8,"Grande Empresa",CLT
+361,21,Feminino,PR,"Sistemas de Informação",2020,0,"Curso de Dados",Nenhum,Python,Django,8,134,7,10,6,1,"Não sei o que melhorar",0,0,18,1,3,Startup,Temporário
+362,23,Outro,PE,"Redes de Computadores",2025,1,Nenhum,"Certificado Oracle",PHP,Node.js,11,122,17,3,11,1,"Falta de experiência",0,0,31,0,10,Multinacional,Freelancer
+363,20,Masculino,SP,"Engenharia da Computação",2016,1,"Curso de Dados","Certificado Azure",C#,.NET,8,83,1,3,2,0,"Despreparo técnico",0,0,2,1,1,"Grande Empresa",Freelancer
+364,28,Outro,PE,"Sistemas de Informação",2021,1,"Curso de Cloud",Nenhum,Go,Laravel,21,3,14,15,1,0,"Mercado competitivo",1,0,39,1,2,Startup,PJ
+365,31,Outro,RS,"Análise de Sistemas",2025,1,"Curso de Dados","Certificado Azure",JavaScript,Angular,21,156,6,38,3,0,"Despreparo técnico",1,1,33,1,4,"Órgão Público",PJ
+366,27,Feminino,RJ,"Ciência da Computação",2019,1,"Curso de Python",Nenhum,PHP,.NET,0,4,29,44,8,0,"Mercado competitivo",1,0,9,1,6,"Órgão Público",Freelancer
+367,28,Outro,MG,"Análise de Sistemas",2023,1,"Curso de Python","Certificado Azure",PHP,Node.js,20,82,14,5,2,0,"Falta de experiência",1,0,6,0,2,"Empresa Média",Freelancer
+368,31,Outro,DF,"Análise de Sistemas",2019,0,"Curso de Dados",Nenhum,Java,.NET,12,76,9,22,6,0,"Não sei o que melhorar",1,0,38,1,6,Multinacional,PJ
+369,21,Masculino,RJ,"Engenharia da Computação",2025,0,"Curso de Frontend","Certificado Oracle",PHP,Django,12,135,25,9,8,0,"Despreparo técnico",0,0,7,1,4,Multinacional,Freelancer
+370,18,Feminino,BA,"Redes de Computadores",2025,0,"Curso de Python","Certificado AWS",C#,Angular,0,97,10,18,14,0,"Mercado competitivo",1,0,12,0,7,"Empresa Média",CLT
+371,25,Masculino,SC,"Ciência da Computação",2022,1,"Curso de Cloud","Certificado Azure",PHP,Django,19,168,22,13,1,0,"Pouco networking",0,1,23,1,7,Multinacional,Temporário
+372,29,Feminino,RJ,"Ciência da Computação",2021,1,"Curso de SQL","Certificado Oracle",JavaScript,Laravel,19,110,11,9,16,0,"Despreparo técnico",1,1,48,0,1,Multinacional,Freelancer
+373,31,Feminino,MG,"Ciência da Computação",2024,1,"Curso de Frontend","Certificado Google",C#,.NET,8,58,13,18,10,0,"Mercado competitivo",1,1,33,1,4,"Órgão Público",Temporário
+374,19,Masculino,DF,"Redes de Computadores",2016,0,"Curso de Cloud","Certificado Azure",Ruby,React,1,194,21,32,2,1,"Falta de experiência",1,0,14,0,11,"Órgão Público",Freelancer
+375,27,Feminino,SC,"Ciência da Computação",2019,1,"Curso de Frontend","Certificado AWS",Python,React,4,131,23,47,7,0,"Falta de experiência",0,1,27,1,2,Multinacional,PJ
+376,27,Masculino,SC,"Redes de Computadores",2021,1,"Curso de SQL","Certificado AWS",PHP,Spring,18,42,22,8,12,0,"Mercado competitivo",0,0,9,1,6,Startup,Temporário
+377,28,Masculino,RS,"Redes de Computadores",2016,1,"Curso de Frontend","Certificado Azure",PHP,Angular,1,132,4,36,4,1,"Despreparo técnico",1,0,28,1,2,Multinacional,Temporário
+378,31,Feminino,DF,"Redes de Computadores",2021,0,"Curso de SQL","Certificado Azure",Python,React,13,86,14,9,9,1,"Mercado competitivo",1,0,30,1,8,"Empresa Média",CLT
+379,25,Masculino,PR,"Ciência da Computação",2020,1,"Curso de Cloud","Certificado AWS",C#,React,11,37,13,36,5,0,"Mercado competitivo",1,1,9,0,3,"Grande Empresa",Temporário
+380,30,Masculino,RS,"Ciência da Computação",2020,1,Nenhum,Nenhum,Python,Node.js,4,24,2,1,18,0,"Despreparo técnico",0,1,5,1,10,Startup,Estágio
+381,26,Outro,PR,"Engenharia da Computação",2024,0,"Curso de Dados","Certificado Google",Python,Angular,20,142,0,49,17,0,"Despreparo técnico",1,1,21,1,7,Multinacional,Temporário
+382,23,Outro,DF,"Sistemas de Informação",2025,1,"Curso de Cloud","Certificado Oracle",Ruby,Spring,3,45,19,26,15,0,"Despreparo técnico",0,1,44,1,8,"Empresa Média",Estágio
+383,31,Outro,SC,"Redes de Computadores",2015,1,"Curso de Frontend","Certificado Oracle",JavaScript,.NET,19,179,1,23,5,1,"Não sei o que melhorar",1,0,35,0,11,Startup,Temporário
+384,27,Outro,RS,"Engenharia da Computação",2019,0,Nenhum,"Certificado Oracle",PHP,Laravel,13,40,11,16,9,0,"Pouco networking",1,1,25,1,4,Multinacional,Estágio
+385,26,Masculino,RJ,"Ciência da Computação",2016,0,"Curso de SQL","Certificado AWS",Java,Django,1,37,23,15,4,0,"Mercado competitivo",1,1,47,0,6,Startup,Temporário
+386,24,Outro,RS,"Engenharia da Computação",2015,1,"Curso de Cloud","Certificado AWS",TypeScript,Laravel,11,172,25,33,16,0,"Não sei o que melhorar",0,0,29,0,4,"Empresa Média",PJ
+387,30,Masculino,RJ,"Ciência da Computação",2016,0,"Curso de Dados","Certificado Google",TypeScript,Django,9,26,12,36,7,1,"Despreparo técnico",1,1,34,0,6,"Órgão Público",CLT
+388,32,Feminino,BA,"Engenharia da Computação",2021,0,"Curso de Frontend","Certificado Oracle",PHP,.NET,9,124,27,36,17,0,"Despreparo técnico",1,1,15,1,3,Startup,PJ
+389,30,Masculino,DF,"Sistemas de Informação",2018,1,Nenhum,Nenhum,Java,Spring,1,140,9,22,5,0,"Não sei o que melhorar",1,1,2,0,1,Startup,PJ
+390,28,Masculino,SC,"Análise de Sistemas",2023,1,"Curso de Python","Certificado Oracle",Java,Spring,10,82,21,20,17,0,"Falta de experiência",0,0,40,1,7,Startup,Temporário
+391,31,Outro,PR,"Análise de Sistemas",2017,0,Nenhum,"Certificado Oracle",C#,Node.js,18,162,21,9,14,0,"Mercado competitivo",1,0,26,1,6,"Empresa Média",PJ
+392,31,Masculino,PR,"Análise de Sistemas",2019,1,"Curso de Cloud","Certificado AWS",Python,Laravel,22,36,3,47,9,0,"Não sei o que melhorar",0,0,37,0,10,"Empresa Média",CLT
+393,23,Outro,SC,"Análise de Sistemas",2024,1,"Curso de Dados","Certificado AWS",PHP,Laravel,1,172,5,17,4,1,"Falta de experiência",1,0,49,0,6,Multinacional,CLT
+394,24,Outro,SP,"Análise de Sistemas",2023,1,"Curso de Frontend","Certificado AWS",Python,Angular,22,1,6,49,6,1,"Mercado competitivo",1,0,36,1,8,Multinacional,Freelancer
+395,22,Outro,BA,"Redes de Computadores",2021,1,"Curso de Dados","Certificado AWS",PHP,Laravel,0,161,28,14,11,0,"Não sei o que melhorar",1,0,3,1,4,"Órgão Público",PJ
+396,29,Masculino,PE,"Ciência da Computação",2020,0,"Curso de Python","Certificado Azure",JavaScript,React,23,156,27,13,11,1,"Pouco networking",0,0,10,1,9,"Grande Empresa",CLT
+397,31,Masculino,SC,"Sistemas de Informação",2015,0,Nenhum,Nenhum,Java,.NET,19,141,1,5,7,0,"Não sei o que melhorar",1,0,31,0,5,"Grande Empresa",Freelancer
+398,29,Outro,PR,"Sistemas de Informação",2022,1,"Curso de Cloud","Certificado AWS",TypeScript,Flutter,14,77,2,16,7,1,"Pouco networking",1,0,46,0,6,"Órgão Público",PJ
+399,32,Outro,BA,"Ciência da Computação",2025,1,"Curso de Dados","Certificado Google",C#,Spring,19,64,6,4,16,1,"Pouco networking",1,1,8,1,3,"Grande Empresa",PJ
+400,28,Feminino,DF,"Engenharia da Computação",2025,1,"Curso de Frontend","Certificado Oracle",JavaScript,Node.js,6,89,14,1,14,0,"Pouco networking",0,0,30,1,10,"Empresa Média",Estágio
+401,21,Outro,RJ,"Análise de Sistemas",2023,1,"Curso de SQL","Certificado AWS",TypeScript,Django,23,120,3,41,15,0,"Falta de experiência",1,0,21,0,7,"Empresa Média",Freelancer
+402,30,Masculino,SP,"Engenharia da Computação",2017,0,"Curso de Frontend","Certificado Google",Go,Laravel,1,130,3,33,19,1,"Despreparo técnico",1,1,3,0,1,Multinacional,Freelancer
+403,32,Masculino,DF,"Ciência da Computação",2016,1,"Curso de Frontend","Certificado Azure",Java,Laravel,8,105,16,7,2,0,"Pouco networking",1,0,19,1,1,"Grande Empresa",Temporário
+404,18,Masculino,RJ,"Análise de Sistemas",2024,0,Nenhum,"Certificado Oracle",Go,Angular,17,10,3,21,16,1,"Despreparo técnico",1,0,22,0,11,"Órgão Público",Estágio
+405,18,Outro,MG,"Análise de Sistemas",2018,1,Nenhum,Nenhum,Python,Django,23,5,5,37,4,1,"Não sei o que melhorar",0,0,5,1,12,Startup,Freelancer
+406,27,Outro,DF,"Análise de Sistemas",2016,1,Nenhum,Nenhum,Java,React,19,167,21,1,1,0,"Despreparo técnico",1,0,42,0,11,"Empresa Média",Temporário
+407,30,Masculino,BA,"Engenharia da Computação",2020,1,"Curso de Cloud","Certificado Oracle",Go,Laravel,0,160,27,8,2,0,"Mercado competitivo",0,1,13,1,2,Startup,PJ
+408,23,Outro,RJ,"Sistemas de Informação",2016,1,"Curso de Dados","Certificado Azure",TypeScript,Spring,6,145,23,36,5,0,"Falta de experiência",0,0,2,1,1,"Empresa Média",CLT
+409,18,Outro,SP,"Ciência da Computação",2020,0,"Curso de Cloud","Certificado AWS",Go,Flutter,14,74,29,39,0,1,"Despreparo técnico",1,0,43,1,9,Startup,CLT
+410,27,Feminino,RS,"Redes de Computadores",2023,1,"Curso de Cloud","Certificado Google",Go,Node.js,20,46,16,3,13,0,"Não sei o que melhorar",1,1,26,1,7,"Empresa Média",Freelancer
+411,25,Outro,PE,"Análise de Sistemas",2025,1,"Curso de Dados","Certificado Azure",Python,Spring,12,1,12,5,4,1,"Despreparo técnico",1,0,35,1,3,"Grande Empresa",Freelancer
+412,31,Outro,RJ,"Engenharia da Computação",2020,0,Nenhum,"Certificado AWS",Java,Laravel,17,27,13,44,1,0,"Não sei o que melhorar",1,1,1,1,2,Startup,CLT
+413,29,Outro,BA,"Análise de Sistemas",2024,1,"Curso de SQL","Certificado Azure",Go,Node.js,20,31,6,34,14,0,"Mercado competitivo",0,0,43,0,4,Multinacional,CLT
+414,20,Feminino,PR,"Engenharia da Computação",2017,1,"Curso de SQL",Nenhum,TypeScript,Spring,18,71,13,5,4,1,"Despreparo técnico",0,1,24,1,6,Multinacional,Temporário
+415,31,Masculino,RS,"Engenharia da Computação",2015,1,"Curso de Python",Nenhum,C#,React,12,65,0,6,11,0,"Pouco networking",0,1,44,0,1,Multinacional,Temporário
+416,31,Feminino,RJ,"Redes de Computadores",2019,0,"Curso de Frontend","Certificado Azure",Ruby,Angular,10,111,14,36,3,1,"Falta de experiência",1,1,15,1,2,Multinacional,Freelancer
+417,24,Feminino,PE,"Engenharia da Computação",2021,0,"Curso de SQL","Certificado Google",JavaScript,Angular,13,69,1,7,12,0,"Falta de experiência",1,0,32,0,3,"Órgão Público",Freelancer
+418,31,Outro,SP,"Sistemas de Informação",2016,1,"Curso de Frontend","Certificado AWS",C#,Node.js,18,151,13,2,17,0,"Despreparo técnico",0,0,43,0,11,"Grande Empresa",Freelancer
+419,21,Feminino,DF,"Análise de Sistemas",2021,1,"Curso de SQL","Certificado AWS",PHP,Angular,2,196,17,48,2,0,"Falta de experiência",1,1,22,0,5,Multinacional,Estágio
+420,25,Outro,DF,"Engenharia da Computação",2019,0,"Curso de Python","Certificado Oracle",PHP,.NET,4,154,8,6,16,0,"Não sei o que melhorar",1,1,47,1,9,Multinacional,PJ
+421,29,Outro,SC,"Análise de Sistemas",2017,1,Nenhum,"Certificado Oracle",Ruby,Django,19,3,19,13,7,1,"Despreparo técnico",1,0,43,1,8,"Empresa Média",Estágio
+422,28,Outro,RJ,"Engenharia da Computação",2019,1,"Curso de Frontend",Nenhum,PHP,Node.js,18,168,27,2,10,0,"Despreparo técnico",1,1,13,1,2,"Órgão Público",CLT
+423,26,Feminino,MG,"Ciência da Computação",2020,0,"Curso de Dados","Certificado Azure",PHP,Spring,10,76,17,36,17,0,"Despreparo técnico",1,1,18,1,2,"Órgão Público",PJ
+424,25,Outro,SP,"Engenharia da Computação",2020,1,Nenhum,"Certificado Google",Go,.NET,22,73,1,9,16,0,"Despreparo técnico",1,1,15,1,12,"Grande Empresa",CLT
+425,28,Outro,PR,"Redes de Computadores",2025,1,"Curso de Dados","Certificado Azure",PHP,Spring,17,8,2,13,2,1,"Mercado competitivo",0,1,20,0,3,Multinacional,Freelancer
+426,18,Feminino,SC,"Ciência da Computação",2021,1,"Curso de Cloud","Certificado AWS",TypeScript,Spring,23,79,29,36,13,0,"Não sei o que melhorar",0,0,13,0,11,Multinacional,Estágio
+427,31,Masculino,BA,"Ciência da Computação",2018,1,"Curso de Dados","Certificado AWS",Python,Angular,17,195,21,35,7,0,"Pouco networking",0,1,24,0,1,"Grande Empresa",Temporário
+428,22,Outro,SP,"Ciência da Computação",2024,1,"Curso de SQL","Certificado Azure",Ruby,Flutter,6,110,0,20,19,0,"Pouco networking",1,0,23,1,2,Startup,Estágio
+429,32,Masculino,MG,"Redes de Computadores",2017,1,"Curso de Python","Certificado Azure",Java,Flutter,7,142,17,38,2,0,"Despreparo técnico",1,0,43,0,8,"Órgão Público",PJ
+430,28,Outro,DF,"Engenharia da Computação",2015,0,"Curso de SQL",Nenhum,TypeScript,Spring,22,0,5,48,5,0,"Pouco networking",1,0,30,1,2,"Empresa Média",Estágio
+431,19,Masculino,MG,"Engenharia da Computação",2019,0,"Curso de Cloud","Certificado Oracle",TypeScript,Node.js,3,118,17,3,12,0,"Falta de experiência",1,1,12,0,7,Startup,PJ
+432,26,Feminino,SP,"Engenharia da Computação",2018,1,"Curso de Dados",Nenhum,TypeScript,React,19,151,10,20,1,0,"Pouco networking",1,0,6,0,12,Multinacional,Estágio
+433,21,Outro,SC,"Engenharia da Computação",2022,1,"Curso de Dados","Certificado Azure",JavaScript,Flutter,19,4,21,29,14,1,"Falta de experiência",0,0,3,0,9,"Empresa Média",CLT
+434,29,Feminino,BA,"Análise de Sistemas",2015,0,Nenhum,Nenhum,TypeScript,Node.js,14,43,7,26,19,0,"Pouco networking",1,0,32,0,11,Multinacional,PJ
+435,32,Masculino,RS,"Redes de Computadores",2018,1,"Curso de Dados",Nenhum,Ruby,Django,19,17,29,30,2,1,"Despreparo técnico",1,1,24,0,10,"Grande Empresa",CLT
+436,28,Feminino,PR,"Análise de Sistemas",2016,1,Nenhum,Nenhum,TypeScript,Angular,9,77,21,22,2,0,"Não sei o que melhorar",1,0,47,0,5,"Grande Empresa",Estágio
+437,30,Outro,PR,"Redes de Computadores",2018,0,"Curso de SQL","Certificado AWS",PHP,React,20,199,11,45,8,0,"Despreparo técnico",0,0,39,0,1,Startup,Freelancer
+438,22,Feminino,SP,"Engenharia da Computação",2024,0,"Curso de Frontend","Certificado Google",Python,Node.js,9,194,20,24,8,0,"Despreparo técnico",1,0,14,1,9,Multinacional,Temporário
+439,26,Feminino,BA,"Engenharia da Computação",2016,1,"Curso de Python","Certificado Azure",Python,Django,2,95,2,47,10,1,"Mercado competitivo",0,0,11,0,3,Startup,PJ
+440,28,Feminino,RJ,"Ciência da Computação",2019,0,"Curso de Frontend","Certificado Oracle",TypeScript,React,23,101,18,28,19,0,"Falta de experiência",0,0,3,0,3,Multinacional,Temporário
+441,24,Masculino,DF,"Redes de Computadores",2022,1,"Curso de Dados","Certificado Azure",Go,Node.js,10,51,29,9,0,0,"Falta de experiência",1,0,48,0,12,Startup,Temporário
+442,31,Feminino,DF,"Engenharia da Computação",2017,1,"Curso de SQL","Certificado Oracle",C#,Node.js,12,124,17,4,14,0,"Falta de experiência",0,0,14,0,9,"Grande Empresa",Temporário
+443,24,Masculino,RJ,"Análise de Sistemas",2019,1,"Curso de Cloud","Certificado Google",JavaScript,.NET,17,64,13,13,19,0,"Despreparo técnico",0,0,30,1,3,Multinacional,Estágio
+444,26,Feminino,MG,"Sistemas de Informação",2020,1,Nenhum,"Certificado AWS",JavaScript,Flutter,6,143,22,31,18,0,"Mercado competitivo",1,0,49,0,2,"Grande Empresa",CLT
+445,30,Masculino,PR,"Análise de Sistemas",2023,0,"Curso de Cloud",Nenhum,Java,Angular,11,149,8,10,2,0,"Falta de experiência",1,1,9,0,1,Multinacional,Temporário
+446,27,Outro,PE,"Redes de Computadores",2023,1,"Curso de Cloud","Certificado Azure",Java,.NET,16,5,2,15,5,0,"Mercado competitivo",1,1,49,1,7,Startup,Estágio
+447,19,Masculino,MG,"Engenharia da Computação",2023,1,"Curso de Frontend",Nenhum,PHP,.NET,12,78,10,24,9,1,"Não sei o que melhorar",0,0,20,0,10,"Empresa Média",Estágio
+448,32,Feminino,BA,"Engenharia da Computação",2015,0,"Curso de SQL","Certificado Oracle",TypeScript,Spring,20,131,22,37,9,0,"Pouco networking",0,0,36,1,7,"Empresa Média",Freelancer
+449,29,Outro,BA,"Análise de Sistemas",2021,0,"Curso de Frontend","Certificado AWS",TypeScript,Django,10,35,17,22,8,1,"Despreparo técnico",0,0,4,1,1,Multinacional,PJ
+450,23,Outro,RJ,"Ciência da Computação",2022,0,"Curso de Dados","Certificado AWS",Python,Flutter,20,83,14,6,4,1,"Falta de experiência",0,0,23,1,5,"Órgão Público",Temporário
+451,25,Feminino,RS,"Redes de Computadores",2020,1,"Curso de Frontend","Certificado AWS",C#,Spring,20,89,21,11,0,0,"Não sei o que melhorar",1,0,7,1,5,"Órgão Público",Estágio
+452,19,Outro,PR,"Sistemas de Informação",2017,1,"Curso de Dados","Certificado Azure",Python,Angular,0,81,1,47,12,0,"Pouco networking",1,0,15,0,1,Multinacional,CLT
+453,22,Feminino,SC,"Sistemas de Informação",2022,1,"Curso de Cloud",Nenhum,Python,.NET,3,89,22,20,16,1,"Não sei o que melhorar",0,1,12,0,11,"Órgão Público",Freelancer
+454,20,Outro,SC,"Análise de Sistemas",2015,1,"Curso de Cloud","Certificado Azure",C#,Flutter,16,115,26,31,10,1,"Pouco networking",0,0,13,0,8,Multinacional,Freelancer
+455,28,Feminino,SP,"Engenharia da Computação",2025,0,"Curso de SQL","Certificado Azure",Go,Node.js,16,109,18,22,7,0,"Não sei o que melhorar",1,1,3,1,5,"Empresa Média",CLT
+456,25,Feminino,MG,"Engenharia da Computação",2024,0,"Curso de Python","Certificado AWS",TypeScript,.NET,10,166,25,38,5,0,"Mercado competitivo",1,1,33,0,3,"Órgão Público",Freelancer
+457,29,Masculino,BA,"Redes de Computadores",2015,1,"Curso de Python","Certificado AWS",JavaScript,Laravel,22,16,18,38,1,0,"Não sei o que melhorar",0,1,49,1,4,Multinacional,PJ
+458,21,Feminino,RJ,"Engenharia da Computação",2020,1,"Curso de Cloud","Certificado AWS",Java,.NET,13,118,8,28,0,0,"Não sei o que melhorar",1,0,15,1,11,Multinacional,Estágio
+459,23,Feminino,BA,"Análise de Sistemas",2020,1,"Curso de Python","Certificado Google",Python,Angular,13,88,14,6,2,0,"Pouco networking",0,0,28,0,3,"Grande Empresa",Freelancer
+460,31,Outro,PE,"Ciência da Computação",2019,1,"Curso de Cloud","Certificado Oracle",TypeScript,Spring,22,32,28,13,10,1,"Pouco networking",1,0,9,1,2,"Órgão Público",Temporário
+461,22,Masculino,MG,"Redes de Computadores",2020,1,"Curso de SQL",Nenhum,Ruby,Spring,9,26,15,7,4,1,"Falta de experiência",0,0,7,0,5,"Órgão Público",Freelancer
+462,21,Masculino,PE,"Ciência da Computação",2019,1,"Curso de SQL","Certificado Azure",TypeScript,Angular,22,48,11,11,19,0,"Falta de experiência",1,0,15,0,3,Startup,Estágio
+463,23,Feminino,SP,"Redes de Computadores",2021,1,Nenhum,"Certificado Google",Java,Laravel,9,94,5,27,3,0,"Despreparo técnico",0,1,32,0,7,"Empresa Média",Freelancer
+464,28,Outro,SP,"Redes de Computadores",2025,0,"Curso de Cloud",Nenhum,TypeScript,Node.js,16,108,19,34,9,0,"Despreparo técnico",0,0,27,1,2,"Órgão Público",CLT
+465,30,Outro,SC,"Ciência da Computação",2025,1,"Curso de Python",Nenhum,Go,Spring,16,143,17,41,6,0,"Falta de experiência",1,0,23,0,7,Startup,CLT
+466,21,Outro,RJ,"Análise de Sistemas",2024,0,"Curso de Frontend","Certificado Oracle",C#,Laravel,5,138,24,49,9,0,"Despreparo técnico",0,0,33,0,2,"Órgão Público",PJ
+467,31,Feminino,DF,"Redes de Computadores",2016,1,"Curso de SQL",Nenhum,PHP,Flutter,2,113,15,41,12,0,"Pouco networking",1,0,27,0,10,Multinacional,CLT
+468,30,Feminino,SC,"Redes de Computadores",2016,1,"Curso de Dados","Certificado AWS",JavaScript,React,15,45,4,5,1,0,"Falta de experiência",0,0,36,1,9,Multinacional,Estágio
+469,28,Outro,BA,"Engenharia da Computação",2019,1,"Curso de Dados","Certificado Azure",TypeScript,Django,17,115,22,47,11,0,"Pouco networking",1,1,36,1,10,"Órgão Público",PJ
+470,18,Masculino,DF,"Análise de Sistemas",2022,1,"Curso de SQL","Certificado Oracle",Python,Laravel,16,18,12,37,10,0,"Não sei o que melhorar",1,0,6,1,6,"Empresa Média",PJ
+471,22,Outro,BA,"Ciência da Computação",2016,1,"Curso de Frontend","Certificado AWS",Java,Laravel,15,124,5,6,0,1,"Despreparo técnico",1,1,27,1,6,"Órgão Público",CLT
+472,24,Masculino,SP,"Sistemas de Informação",2023,0,"Curso de SQL","Certificado Azure",Python,Laravel,1,139,8,19,1,0,"Não sei o que melhorar",0,0,6,0,11,"Grande Empresa",Freelancer
+473,19,Outro,RJ,"Análise de Sistemas",2024,1,"Curso de Python","Certificado Oracle",Ruby,Django,3,142,2,11,19,0,"Mercado competitivo",1,0,39,0,3,"Órgão Público",CLT
+474,27,Outro,BA,"Sistemas de Informação",2021,1,"Curso de Frontend","Certificado Azure",Java,Angular,10,116,18,15,13,0,"Despreparo técnico",1,0,46,0,5,"Empresa Média",Freelancer
+475,29,Masculino,RS,"Análise de Sistemas",2020,0,"Curso de Cloud","Certificado AWS",Java,Node.js,20,98,26,47,2,1,"Mercado competitivo",0,1,16,0,8,"Órgão Público",CLT
+476,25,Outro,DF,"Sistemas de Informação",2018,1,"Curso de Frontend","Certificado AWS",Python,Angular,18,55,1,19,16,1,"Falta de experiência",0,1,27,1,8,Multinacional,PJ
+477,29,Outro,SC,"Análise de Sistemas",2024,1,"Curso de Python","Certificado Azure",Go,.NET,20,27,2,49,13,0,"Pouco networking",1,0,4,0,7,"Empresa Média",Estágio
+478,21,Feminino,BA,"Redes de Computadores",2019,0,"Curso de Dados","Certificado Azure",PHP,Flutter,17,1,24,49,10,0,"Pouco networking",0,0,42,1,11,Startup,CLT
+479,24,Feminino,PR,"Análise de Sistemas",2024,1,"Curso de Cloud","Certificado Google",C#,Django,6,78,5,36,1,0,"Despreparo técnico",0,1,27,1,4,"Grande Empresa",Temporário
+480,19,Masculino,RJ,"Redes de Computadores",2021,1,"Curso de Cloud",Nenhum,TypeScript,Node.js,23,182,17,8,1,1,"Pouco networking",1,1,7,1,8,"Empresa Média",Estágio
+481,27,Feminino,SP,"Ciência da Computação",2023,0,Nenhum,"Certificado Google",Ruby,Spring,14,70,27,25,16,0,"Pouco networking",1,0,5,0,10,"Grande Empresa",Temporário
+482,31,Feminino,MG,"Ciência da Computação",2021,1,"Curso de Frontend","Certificado AWS",TypeScript,Angular,12,171,22,12,19,0,"Despreparo técnico",0,0,30,1,4,"Órgão Público",Freelancer
+483,29,Masculino,RJ,"Ciência da Computação",2015,1,"Curso de Dados","Certificado Azure",JavaScript,Angular,19,89,22,20,15,1,"Pouco networking",0,1,34,0,12,"Órgão Público",CLT
+484,22,Masculino,RJ,"Redes de Computadores",2023,1,"Curso de Dados","Certificado Oracle",JavaScript,Spring,10,103,8,41,6,0,"Falta de experiência",1,0,14,0,11,Startup,Temporário
+485,31,Feminino,SC,"Redes de Computadores",2025,0,"Curso de Cloud","Certificado Oracle",Go,Angular,23,45,5,8,5,0,"Falta de experiência",1,0,24,0,7,"Grande Empresa",Freelancer
+486,20,Outro,RS,"Análise de Sistemas",2025,1,"Curso de Frontend","Certificado Oracle",Ruby,Angular,8,69,20,18,15,1,"Despreparo técnico",1,0,30,0,5,Multinacional,CLT
+487,18,Feminino,DF,"Redes de Computadores",2018,1,Nenhum,"Certificado AWS",C#,Spring,21,155,4,17,7,1,"Não sei o que melhorar",0,0,38,0,2,Multinacional,CLT
+488,25,Masculino,SC,"Sistemas de Informação",2016,1,"Curso de Cloud","Certificado Google",Python,Angular,10,157,17,31,7,1,"Não sei o que melhorar",0,1,24,0,1,"Grande Empresa",Freelancer
+489,24,Feminino,DF,"Redes de Computadores",2019,1,Nenhum,"Certificado Oracle",C#,Angular,3,12,27,16,18,0,"Pouco networking",1,0,34,0,3,Multinacional,Estágio
+490,27,Feminino,DF,"Sistemas de Informação",2015,1,"Curso de Cloud","Certificado Google",Python,React,23,169,7,34,13,0,"Mercado competitivo",1,1,36,1,6,"Grande Empresa",CLT
+491,22,Masculino,MG,"Ciência da Computação",2019,1,"Curso de Frontend",Nenhum,Java,React,20,35,7,40,4,0,"Mercado competitivo",1,0,46,1,1,"Empresa Média",PJ
+492,27,Feminino,RJ,"Engenharia da Computação",2016,1,"Curso de Python",Nenhum,PHP,Angular,0,124,0,8,16,0,"Despreparo técnico",0,0,49,1,8,"Empresa Média",Estágio
+493,24,Outro,RJ,"Redes de Computadores",2018,1,"Curso de Dados",Nenhum,JavaScript,Node.js,10,15,3,17,7,1,"Falta de experiência",1,0,28,0,9,"Grande Empresa",Freelancer
+494,26,Outro,DF,"Redes de Computadores",2022,1,"Curso de Python","Certificado Azure",Ruby,Laravel,10,175,2,43,1,0,"Falta de experiência",1,1,13,1,9,Startup,PJ
+495,30,Feminino,SC,"Redes de Computadores",2018,1,"Curso de Cloud","Certificado Google",Go,Angular,20,163,15,9,6,0,"Não sei o que melhorar",1,1,49,1,2,"Órgão Público",Temporário
+496,21,Masculino,PR,"Análise de Sistemas",2018,1,"Curso de Frontend",Nenhum,Python,Spring,15,102,19,36,14,0,"Mercado competitivo",0,0,39,1,3,Multinacional,Estágio
+497,26,Feminino,DF,"Redes de Computadores",2021,1,"Curso de Dados",Nenhum,Python,Laravel,17,37,23,18,10,0,"Mercado competitivo",0,0,14,0,11,"Empresa Média",Temporário
+498,31,Masculino,RJ,"Ciência da Computação",2016,0,"Curso de SQL","Certificado Google",TypeScript,React,10,24,7,44,13,1,"Não sei o que melhorar",0,1,38,1,3,"Grande Empresa",Estágio
+499,18,Outro,SP,"Redes de Computadores",2020,1,Nenhum,"Certificado Azure",PHP,Spring,0,116,23,11,15,0,"Pouco networking",1,0,38,0,12,"Grande Empresa",Temporário
+500,27,Masculino,SC,"Sistemas de Informação",2019,1,"Curso de Dados","Certificado Oracle",JavaScript,Spring,16,119,29,4,10,0,"Pouco networking",1,0,17,1,4,"Grande Empresa",CLT
+501,21,Masculino,SP,"Análise de Sistemas",2024,1,"Curso de Python","Certificado Oracle",Python,Django,4,181,0,21,1,0,"Falta de experiência",1,0,7,1,7,Multinacional,Temporário
+502,31,Masculino,SC,"Sistemas de Informação",2022,0,"Curso de Dados","Certificado AWS",Ruby,Node.js,1,109,15,45,0,0,"Falta de experiência",0,0,13,1,9,"Grande Empresa",Freelancer
+503,28,Feminino,SP,"Engenharia da Computação",2023,0,"Curso de Dados","Certificado Oracle",TypeScript,Laravel,0,157,26,3,13,0,"Despreparo técnico",1,1,15,1,9,"Empresa Média",Estágio
+504,32,Outro,SP,"Sistemas de Informação",2023,1,"Curso de Frontend","Certificado Azure",Java,Angular,4,94,22,17,9,0,"Pouco networking",1,1,23,1,12,"Empresa Média",CLT
+505,19,Masculino,DF,"Engenharia da Computação",2017,0,"Curso de Cloud","Certificado Oracle",PHP,React,16,21,15,12,14,1,"Mercado competitivo",0,0,38,1,5,"Grande Empresa",Estágio
+506,32,Masculino,MG,"Análise de Sistemas",2021,1,"Curso de Dados","Certificado Azure",Java,Laravel,18,42,24,20,11,1,"Não sei o que melhorar",0,1,2,1,5,Startup,Estágio
+507,31,Masculino,SP,"Análise de Sistemas",2018,1,"Curso de SQL",Nenhum,Java,Angular,4,87,17,33,11,1,"Mercado competitivo",1,0,17,1,6,"Empresa Média",PJ
+508,28,Masculino,PE,"Redes de Computadores",2016,1,"Curso de Frontend",Nenhum,TypeScript,Node.js,23,185,21,36,11,0,"Falta de experiência",1,0,34,1,2,"Empresa Média",Temporário
+509,20,Feminino,DF,"Sistemas de Informação",2017,1,"Curso de Python","Certificado Oracle",Java,Angular,15,132,9,33,6,1,"Mercado competitivo",1,1,12,0,11,"Grande Empresa",Temporário
+510,31,Feminino,RS,"Redes de Computadores",2020,1,Nenhum,Nenhum,PHP,Django,13,185,27,38,1,0,"Mercado competitivo",1,0,30,0,3,Startup,Estágio
+511,32,Outro,SC,"Sistemas de Informação",2019,0,"Curso de Frontend","Certificado Google",Ruby,.NET,12,60,29,1,3,1,"Mercado competitivo",0,1,8,0,9,Multinacional,Estágio
+512,21,Outro,SP,"Sistemas de Informação",2022,1,"Curso de SQL","Certificado Google",TypeScript,Laravel,3,94,27,6,17,0,"Não sei o que melhorar",0,1,8,0,10,Multinacional,PJ
+513,21,Feminino,SP,"Sistemas de Informação",2015,0,"Curso de Python",Nenhum,PHP,Flutter,22,164,10,14,8,0,"Não sei o que melhorar",0,1,2,1,6,Multinacional,Estágio
+514,21,Feminino,BA,"Ciência da Computação",2017,1,"Curso de Dados","Certificado Oracle",Java,Node.js,19,41,19,32,5,0,"Não sei o que melhorar",1,0,48,1,3,Startup,CLT
+515,18,Masculino,DF,"Ciência da Computação",2021,1,"Curso de Cloud","Certificado Oracle",Go,Node.js,0,85,0,43,5,1,"Falta de experiência",1,1,0,0,5,Multinacional,Temporário
+516,20,Outro,PR,"Redes de Computadores",2015,1,"Curso de Cloud","Certificado Google",Ruby,Laravel,23,59,17,1,8,1,"Mercado competitivo",1,1,25,1,5,Startup,Estágio
+517,26,Outro,MG,"Ciência da Computação",2024,1,"Curso de Frontend","Certificado Oracle",TypeScript,Angular,5,112,3,47,8,0,"Mercado competitivo",0,1,31,0,3,"Órgão Público",CLT
+518,20,Outro,SP,"Análise de Sistemas",2015,1,"Curso de Dados","Certificado Azure",TypeScript,Laravel,10,149,12,38,13,1,"Não sei o que melhorar",0,0,33,0,5,Startup,Estágio
+519,19,Outro,RJ,"Engenharia da Computação",2023,0,"Curso de Cloud","Certificado Azure",Ruby,React,16,80,28,28,19,0,"Não sei o que melhorar",0,0,32,1,9,"Órgão Público",PJ
+520,18,Masculino,MG,"Engenharia da Computação",2021,0,"Curso de SQL","Certificado Google",TypeScript,Flutter,22,178,18,21,4,1,"Não sei o que melhorar",0,0,33,1,10,"Empresa Média",Temporário
+521,26,Outro,RJ,"Análise de Sistemas",2020,1,"Curso de Cloud",Nenhum,PHP,Flutter,17,169,2,43,2,1,"Pouco networking",0,0,1,0,4,"Órgão Público",Temporário
+522,26,Outro,MG,"Redes de Computadores",2020,0,"Curso de SQL","Certificado Oracle",Java,Angular,5,127,16,41,9,1,"Mercado competitivo",1,1,6,1,9,"Grande Empresa",Temporário
+523,32,Feminino,PR,"Engenharia da Computação",2018,1,"Curso de Cloud",Nenhum,TypeScript,Flutter,7,130,9,33,7,1,"Despreparo técnico",0,0,0,1,6,"Empresa Média",Freelancer
+524,26,Masculino,BA,"Análise de Sistemas",2015,0,"Curso de Python","Certificado Azure",Python,.NET,7,35,26,45,17,0,"Pouco networking",0,0,44,0,10,Multinacional,Freelancer
+525,23,Masculino,BA,"Ciência da Computação",2018,1,"Curso de Frontend","Certificado Azure",TypeScript,Laravel,5,167,14,41,15,0,"Mercado competitivo",1,0,1,0,5,"Grande Empresa",PJ
+526,29,Masculino,SP,"Engenharia da Computação",2022,1,"Curso de SQL",Nenhum,Ruby,Angular,18,35,16,11,9,1,"Pouco networking",0,0,41,1,2,Startup,CLT
+527,29,Outro,SC,"Redes de Computadores",2024,1,"Curso de SQL","Certificado Google",Go,Django,5,23,26,1,9,0,"Pouco networking",1,1,43,1,3,"Grande Empresa",Temporário
+528,28,Outro,PR,"Engenharia da Computação",2025,0,"Curso de Cloud","Certificado Oracle",JavaScript,React,2,45,24,21,12,1,"Não sei o que melhorar",1,0,5,1,7,"Órgão Público",Freelancer
+529,24,Outro,SP,"Ciência da Computação",2017,1,"Curso de Frontend","Certificado Azure",Python,Angular,4,61,27,32,9,0,"Falta de experiência",1,1,24,0,1,Multinacional,Freelancer
+530,30,Feminino,RS,"Engenharia da Computação",2015,1,"Curso de Dados","Certificado AWS",Java,Django,22,128,9,35,11,1,"Falta de experiência",1,1,43,1,7,"Empresa Média",Estágio
+531,28,Masculino,SP,"Engenharia da Computação",2018,1,"Curso de Python","Certificado Oracle",PHP,Django,15,37,1,35,7,1,"Despreparo técnico",0,0,18,1,1,Multinacional,Freelancer
+532,19,Feminino,PE,"Sistemas de Informação",2024,1,Nenhum,Nenhum,Java,Django,2,79,20,12,3,0,"Não sei o que melhorar",1,0,26,1,2,"Grande Empresa",PJ
+533,26,Masculino,BA,"Engenharia da Computação",2024,1,"Curso de Frontend","Certificado AWS",Python,Angular,12,45,15,47,3,1,"Pouco networking",1,0,47,0,6,Startup,Temporário
+534,30,Outro,RS,"Análise de Sistemas",2025,1,"Curso de Cloud","Certificado Azure",Ruby,Flutter,13,187,28,47,17,0,"Não sei o que melhorar",0,0,40,1,4,Multinacional,PJ
+535,29,Outro,MG,"Ciência da Computação",2018,1,"Curso de Cloud",Nenhum,TypeScript,Angular,1,187,14,30,11,0,"Mercado competitivo",0,0,44,0,7,"Grande Empresa",PJ
+536,28,Feminino,PR,"Ciência da Computação",2023,1,"Curso de Frontend","Certificado AWS",JavaScript,React,20,16,25,48,6,0,"Pouco networking",1,0,22,1,4,Startup,Temporário
+537,21,Masculino,SP,"Análise de Sistemas",2020,1,"Curso de Python","Certificado Azure",Go,Angular,21,181,26,36,19,0,"Pouco networking",1,0,26,0,6,Startup,Temporário
+538,28,Feminino,RJ,"Engenharia da Computação",2015,1,"Curso de Python","Certificado Azure",Go,React,23,172,9,47,16,0,"Não sei o que melhorar",1,0,14,1,12,"Órgão Público",Estágio
+539,29,Feminino,RS,"Sistemas de Informação",2021,1,"Curso de SQL","Certificado Azure",TypeScript,Django,22,114,2,32,0,0,"Pouco networking",1,0,13,1,4,Startup,Freelancer
+540,30,Feminino,SC,"Análise de Sistemas",2018,1,"Curso de SQL",Nenhum,Go,Laravel,22,45,10,2,4,0,"Mercado competitivo",0,1,27,1,7,Startup,CLT
+541,22,Masculino,RS,"Análise de Sistemas",2019,0,"Curso de Python","Certificado AWS",Go,Flutter,8,22,15,9,8,0,"Falta de experiência",0,1,40,0,1,"Órgão Público",PJ
+542,28,Outro,MG,"Ciência da Computação",2024,1,"Curso de Python","Certificado Azure",JavaScript,Node.js,21,128,16,41,10,0,"Despreparo técnico",0,0,9,1,12,"Empresa Média",PJ
+543,28,Outro,RS,"Análise de Sistemas",2016,1,Nenhum,"Certificado Azure",Java,Django,0,10,5,41,10,0,"Falta de experiência",0,0,17,0,2,Startup,Estágio
+544,21,Feminino,DF,"Engenharia da Computação",2021,0,"Curso de Frontend","Certificado AWS",PHP,Laravel,0,132,7,17,18,0,"Não sei o que melhorar",0,1,19,1,9,Multinacional,Temporário
+545,19,Feminino,SP,"Redes de Computadores",2025,1,"Curso de Frontend","Certificado Google",C#,Node.js,15,75,27,18,3,1,"Pouco networking",0,1,25,0,7,"Grande Empresa",Freelancer
+546,30,Feminino,MG,"Redes de Computadores",2019,1,"Curso de Cloud","Certificado AWS",Python,Laravel,15,178,17,10,7,0,"Mercado competitivo",1,0,0,1,4,"Grande Empresa",PJ
+547,22,Feminino,SP,"Ciência da Computação",2016,1,"Curso de Cloud","Certificado AWS",Python,.NET,15,33,25,35,0,0,"Não sei o que melhorar",1,0,27,0,6,Startup,Freelancer
+548,21,Feminino,BA,"Engenharia da Computação",2021,0,"Curso de SQL","Certificado Azure",C#,Angular,9,68,13,15,2,1,"Despreparo técnico",1,0,25,1,3,Multinacional,PJ
+549,18,Feminino,DF,"Análise de Sistemas",2018,1,"Curso de Dados",Nenhum,TypeScript,.NET,16,183,16,3,12,1,"Não sei o que melhorar",1,1,12,1,1,Startup,CLT
+550,29,Masculino,RJ,"Análise de Sistemas",2016,1,"Curso de Frontend","Certificado AWS",C#,Spring,20,98,27,1,9,0,"Mercado competitivo",0,0,48,1,2,Startup,CLT
+551,24,Outro,SC,"Ciência da Computação",2015,1,Nenhum,Nenhum,PHP,Angular,4,28,6,32,12,0,"Mercado competitivo",0,0,21,1,4,"Grande Empresa",CLT
+552,23,Outro,SC,"Redes de Computadores",2017,0,"Curso de Dados","Certificado Google",C#,Node.js,10,72,15,27,3,0,"Despreparo técnico",1,0,45,0,12,"Grande Empresa",CLT
+553,26,Masculino,PR,"Análise de Sistemas",2017,1,"Curso de Dados",Nenhum,Ruby,Laravel,16,172,7,34,13,0,"Não sei o que melhorar",0,0,41,1,3,"Grande Empresa",Freelancer
+554,21,Feminino,SP,"Redes de Computadores",2024,1,"Curso de Cloud","Certificado Azure",Java,Laravel,13,83,10,28,14,0,"Não sei o que melhorar",1,1,0,1,10,Startup,Temporário
+555,23,Outro,SC,"Redes de Computadores",2025,0,"Curso de Dados","Certificado Oracle",Ruby,Flutter,6,99,19,37,15,0,"Falta de experiência",0,0,32,0,9,"Empresa Média",Freelancer
+556,24,Feminino,BA,"Ciência da Computação",2018,1,"Curso de Frontend","Certificado Azure",JavaScript,Flutter,16,84,2,7,9,0,"Mercado competitivo",1,1,48,1,4,"Grande Empresa",Freelancer
+557,20,Outro,MG,"Ciência da Computação",2022,1,"Curso de Python","Certificado Azure",PHP,Django,23,123,5,3,15,1,"Falta de experiência",1,0,38,0,11,"Grande Empresa",CLT
+558,28,Feminino,RJ,"Engenharia da Computação",2016,1,"Curso de Cloud","Certificado AWS",JavaScript,React,21,89,15,13,16,0,"Não sei o que melhorar",1,1,47,0,9,Multinacional,Estágio
+559,31,Masculino,PE,"Sistemas de Informação",2024,0,"Curso de Cloud","Certificado Google",Java,Spring,2,179,5,14,16,0,"Pouco networking",1,1,21,1,1,Multinacional,Freelancer
+560,19,Feminino,BA,"Sistemas de Informação",2020,1,"Curso de Dados","Certificado Azure",JavaScript,Angular,15,144,19,0,2,0,"Não sei o que melhorar",1,0,3,0,4,"Empresa Média",PJ
+561,27,Masculino,MG,"Análise de Sistemas",2019,0,"Curso de Cloud","Certificado Oracle",PHP,React,6,61,21,34,6,0,"Mercado competitivo",1,1,2,0,1,"Grande Empresa",CLT
+562,21,Outro,BA,"Sistemas de Informação",2017,1,"Curso de SQL","Certificado Google",Python,Laravel,20,190,4,48,6,1,"Despreparo técnico",1,0,34,1,9,Multinacional,CLT
+563,28,Masculino,SP,"Sistemas de Informação",2022,1,"Curso de Dados","Certificado AWS",Java,.NET,20,183,29,10,1,0,"Falta de experiência",1,0,38,0,9,"Empresa Média",Temporário
+564,32,Masculino,RJ,"Redes de Computadores",2018,1,Nenhum,"Certificado Google",Java,Django,23,139,17,37,0,1,"Despreparo técnico",1,0,25,0,12,Multinacional,CLT
+565,25,Masculino,SP,"Engenharia da Computação",2022,1,"Curso de Dados","Certificado Google",PHP,Flutter,13,43,10,5,9,0,"Pouco networking",1,0,41,0,9,"Empresa Média",Estágio
+566,26,Masculino,RJ,"Ciência da Computação",2024,1,Nenhum,Nenhum,C#,React,11,31,10,16,10,1,"Falta de experiência",0,1,32,1,5,Multinacional,Estágio
+567,25,Masculino,PE,"Sistemas de Informação",2019,1,"Curso de SQL","Certificado Oracle",TypeScript,.NET,16,196,25,17,4,1,"Falta de experiência",1,1,0,1,12,Multinacional,Freelancer
+568,30,Outro,SP,"Sistemas de Informação",2020,0,"Curso de Frontend","Certificado Azure",TypeScript,Spring,10,62,9,28,19,0,"Despreparo técnico",0,0,25,0,7,"Grande Empresa",Freelancer
+569,24,Masculino,RS,"Ciência da Computação",2021,1,Nenhum,"Certificado Oracle",TypeScript,Node.js,21,107,1,30,19,1,"Despreparo técnico",1,1,29,0,8,"Órgão Público",PJ
+570,18,Masculino,DF,"Redes de Computadores",2024,1,"Curso de Cloud","Certificado Azure",Java,.NET,12,74,7,5,15,0,"Despreparo técnico",1,1,3,0,5,"Órgão Público",PJ
+571,29,Masculino,PR,"Análise de Sistemas",2018,1,"Curso de Dados",Nenhum,Ruby,Flutter,5,98,21,4,7,0,"Pouco networking",1,1,17,0,4,Startup,Freelancer
+572,22,Feminino,SP,"Análise de Sistemas",2018,1,"Curso de Python","Certificado AWS",Java,Flutter,4,8,18,47,17,0,"Não sei o que melhorar",0,1,12,0,10,Startup,CLT
+573,24,Outro,MG,"Engenharia da Computação",2021,0,"Curso de Frontend","Certificado Azure",C#,Spring,20,137,24,3,18,0,"Despreparo técnico",1,0,10,0,2,"Grande Empresa",Temporário
+574,29,Masculino,RS,"Redes de Computadores",2022,1,Nenhum,"Certificado Azure",C#,React,17,67,15,27,4,0,"Falta de experiência",1,1,36,1,3,"Empresa Média",Freelancer
+575,31,Feminino,RJ,"Engenharia da Computação",2025,1,"Curso de Cloud","Certificado Google",Ruby,Laravel,17,56,5,6,1,1,"Despreparo técnico",1,0,38,0,7,Multinacional,Temporário
+576,22,Feminino,RJ,"Análise de Sistemas",2018,0,Nenhum,"Certificado Google",Java,Flutter,4,196,10,40,0,0,"Não sei o que melhorar",1,1,8,1,1,Multinacional,Temporário
+577,31,Feminino,MG,"Análise de Sistemas",2018,1,Nenhum,"Certificado Azure",Python,Django,3,147,7,3,11,0,"Despreparo técnico",1,1,36,1,2,Multinacional,Estágio
+578,31,Masculino,RJ,"Ciência da Computação",2020,0,"Curso de SQL","Certificado AWS",Java,React,13,147,29,31,4,0,"Falta de experiência",0,0,3,1,2,Multinacional,Temporário
+579,26,Outro,MG,"Redes de Computadores",2015,1,"Curso de Cloud","Certificado Oracle",Python,Flutter,12,146,2,11,17,1,"Não sei o que melhorar",1,0,24,1,10,Startup,CLT
+580,22,Masculino,BA,"Engenharia da Computação",2021,0,"Curso de Python","Certificado Azure",PHP,Django,22,80,7,4,14,0,"Falta de experiência",1,1,32,1,11,"Órgão Público",CLT
+581,19,Outro,DF,"Engenharia da Computação",2021,0,"Curso de Frontend",Nenhum,TypeScript,Flutter,22,181,22,48,12,0,"Pouco networking",1,1,15,1,12,"Grande Empresa",Freelancer
+582,25,Outro,MG,"Análise de Sistemas",2020,1,"Curso de Python","Certificado Oracle",JavaScript,Flutter,6,102,22,7,10,0,"Despreparo técnico",1,1,27,0,4,"Órgão Público",CLT
+583,26,Masculino,PR,"Análise de Sistemas",2019,1,"Curso de Cloud","Certificado Azure",C#,Django,8,141,14,13,17,0,"Pouco networking",1,0,2,1,9,Startup,Temporário
+584,22,Masculino,SP,"Análise de Sistemas",2015,0,"Curso de Frontend","Certificado AWS",PHP,.NET,10,180,6,18,3,1,"Despreparo técnico",0,0,8,1,12,"Grande Empresa",Freelancer
+585,31,Feminino,PR,"Ciência da Computação",2023,1,"Curso de Cloud",Nenhum,C#,Node.js,19,26,5,29,6,1,"Não sei o que melhorar",1,1,46,1,7,"Órgão Público",Estágio
+586,28,Masculino,DF,"Engenharia da Computação",2021,0,"Curso de Frontend",Nenhum,Ruby,Flutter,1,118,21,39,15,0,"Mercado competitivo",1,0,21,0,2,"Grande Empresa",Temporário
+587,25,Masculino,DF,"Análise de Sistemas",2023,1,"Curso de SQL","Certificado AWS",Go,React,9,165,27,2,10,0,"Pouco networking",1,1,30,1,4,Multinacional,Freelancer
+588,18,Feminino,SC,"Engenharia da Computação",2017,0,"Curso de Cloud","Certificado AWS",Java,Flutter,20,114,9,45,11,0,"Falta de experiência",1,0,30,1,2,"Órgão Público",Freelancer
+589,32,Masculino,RS,"Análise de Sistemas",2016,1,"Curso de Python","Certificado Azure",Python,.NET,3,82,17,37,19,0,"Pouco networking",0,0,23,0,1,"Órgão Público",CLT
+590,18,Outro,RJ,"Ciência da Computação",2021,1,"Curso de Dados","Certificado Oracle",Ruby,Spring,8,38,26,45,17,0,"Pouco networking",0,0,32,0,6,Startup,CLT
+591,29,Outro,DF,"Sistemas de Informação",2022,1,Nenhum,"Certificado Oracle",JavaScript,Angular,10,146,9,16,14,1,"Mercado competitivo",1,0,46,1,10,"Empresa Média",PJ
+592,19,Outro,RS,"Redes de Computadores",2023,0,"Curso de Dados","Certificado Oracle",Go,Django,12,100,27,5,15,0,"Não sei o que melhorar",0,1,42,0,2,Startup,Estágio
+593,19,Outro,PR,"Engenharia da Computação",2017,1,"Curso de Python","Certificado AWS",Java,Django,2,86,23,31,16,0,"Mercado competitivo",1,1,38,1,6,"Grande Empresa",Freelancer
+594,19,Outro,BA,"Engenharia da Computação",2025,1,"Curso de Dados",Nenhum,Java,Angular,5,150,2,6,8,1,"Mercado competitivo",1,1,13,0,7,Startup,PJ
+595,31,Feminino,PE,"Redes de Computadores",2023,0,"Curso de Dados","Certificado AWS",Python,React,7,56,14,25,3,0,"Falta de experiência",0,0,6,0,1,Startup,Estágio
+596,28,Feminino,PR,"Engenharia da Computação",2017,0,"Curso de Dados","Certificado AWS",Ruby,Node.js,15,98,15,3,16,1,"Falta de experiência",0,1,18,1,10,"Grande Empresa",Freelancer
+597,20,Masculino,RS,"Engenharia da Computação",2019,0,Nenhum,"Certificado Google",TypeScript,Laravel,2,46,25,31,10,1,"Pouco networking",0,0,43,1,11,Startup,PJ
+598,31,Outro,RJ,"Ciência da Computação",2023,1,"Curso de Frontend","Certificado Azure",Ruby,.NET,17,60,9,36,13,0,"Pouco networking",1,1,45,1,7,Startup,Freelancer
+599,25,Feminino,SP,"Redes de Computadores",2020,1,Nenhum,"Certificado AWS",TypeScript,Spring,22,50,12,13,2,1,"Não sei o que melhorar",0,0,4,0,10,"Órgão Público",Estágio
+600,27,Outro,PR,"Ciência da Computação",2024,0,Nenhum,"Certificado Azure",TypeScript,Laravel,9,135,4,39,8,1,"Não sei o que melhorar",1,1,24,1,5,Startup,CLT
+601,26,Masculino,PE,"Engenharia da Computação",2022,1,"Curso de Python","Certificado AWS",TypeScript,React,22,96,16,17,1,0,"Mercado competitivo",1,0,19,0,6,"Empresa Média",Freelancer
+602,31,Outro,RS,"Ciência da Computação",2016,0,Nenhum,Nenhum,PHP,Flutter,17,178,7,32,8,0,"Falta de experiência",1,0,36,1,11,"Grande Empresa",Estágio
+603,26,Masculino,RS,"Engenharia da Computação",2021,1,"Curso de Frontend","Certificado Google",Ruby,Node.js,4,175,25,27,5,0,"Mercado competitivo",1,1,17,1,2,"Empresa Média",Temporário
+604,27,Masculino,BA,"Engenharia da Computação",2018,1,Nenhum,"Certificado Google",Ruby,React,19,171,25,37,3,0,"Pouco networking",1,0,38,1,7,"Órgão Público",Temporário
+605,32,Outro,PE,"Redes de Computadores",2025,1,Nenhum,"Certificado Azure",C#,.NET,7,44,5,9,8,0,"Despreparo técnico",1,1,33,0,1,Startup,CLT
+606,28,Masculino,MG,"Redes de Computadores",2022,1,"Curso de Python",Nenhum,Go,Angular,15,140,18,45,15,0,"Falta de experiência",0,0,17,0,5,"Órgão Público",PJ
+607,25,Outro,PR,"Sistemas de Informação",2016,1,"Curso de SQL","Certificado Google",TypeScript,Flutter,21,152,2,3,3,0,"Mercado competitivo",1,0,2,0,11,"Empresa Média",Freelancer
+608,26,Masculino,SC,"Análise de Sistemas",2017,1,Nenhum,"Certificado Google",PHP,Node.js,20,69,5,43,15,0,"Pouco networking",1,1,47,1,2,Startup,Temporário
+609,18,Masculino,RJ,"Redes de Computadores",2015,1,"Curso de Python","Certificado Oracle",PHP,Angular,3,39,17,18,2,0,"Despreparo técnico",0,1,3,0,4,"Grande Empresa",PJ
+610,18,Masculino,BA,"Ciência da Computação",2023,1,"Curso de Python","Certificado Oracle",PHP,React,17,72,19,12,4,0,"Falta de experiência",0,0,32,0,3,"Órgão Público",CLT
+611,18,Feminino,DF,"Redes de Computadores",2023,1,"Curso de Cloud","Certificado Azure",PHP,.NET,6,16,19,1,2,0,"Não sei o que melhorar",0,1,49,1,7,"Grande Empresa",CLT
+612,22,Outro,DF,"Redes de Computadores",2021,0,"Curso de SQL","Certificado Oracle",Ruby,Spring,10,111,12,21,18,0,"Pouco networking",1,1,41,1,5,Startup,CLT
+613,21,Outro,RJ,"Redes de Computadores",2023,1,"Curso de Python",Nenhum,Python,Spring,12,21,28,20,4,1,"Mercado competitivo",1,1,4,1,12,"Órgão Público",PJ
+614,21,Outro,MG,"Ciência da Computação",2021,1,"Curso de Frontend","Certificado Google",Java,Angular,2,196,18,9,2,1,"Pouco networking",1,0,6,1,1,"Grande Empresa",PJ
+615,29,Masculino,PR,"Redes de Computadores",2021,0,"Curso de Dados","Certificado AWS",Ruby,Node.js,11,62,3,33,19,1,"Despreparo técnico",1,1,29,0,3,"Órgão Público",Temporário
+616,20,Feminino,PE,"Sistemas de Informação",2025,1,Nenhum,"Certificado Azure",Java,Laravel,11,10,23,34,3,0,"Não sei o que melhorar",1,0,10,0,11,"Grande Empresa",Temporário
+617,23,Feminino,PR,"Análise de Sistemas",2021,1,"Curso de Frontend","Certificado Google",PHP,Laravel,5,141,24,0,12,0,"Pouco networking",0,1,44,1,11,Multinacional,PJ
+618,28,Outro,SC,"Sistemas de Informação",2019,1,"Curso de Dados",Nenhum,JavaScript,Node.js,9,198,21,32,1,0,"Não sei o que melhorar",1,1,26,0,3,"Grande Empresa",Temporário
+619,25,Masculino,MG,"Redes de Computadores",2024,1,Nenhum,Nenhum,Ruby,Node.js,7,109,23,17,6,0,"Falta de experiência",1,1,19,0,10,Multinacional,Freelancer
+620,25,Outro,DF,"Sistemas de Informação",2023,1,"Curso de Frontend","Certificado AWS",Ruby,Django,17,150,15,19,7,0,"Pouco networking",0,1,7,1,4,Startup,Estágio
+621,21,Outro,PE,"Sistemas de Informação",2017,1,"Curso de Frontend","Certificado AWS",Go,Laravel,4,94,22,19,13,0,"Falta de experiência",1,1,37,1,7,Multinacional,PJ
+622,26,Masculino,PE,"Redes de Computadores",2020,1,"Curso de SQL","Certificado Azure",Go,.NET,5,149,2,7,9,1,"Pouco networking",1,0,48,1,9,"Órgão Público",CLT
+623,22,Outro,PR,"Análise de Sistemas",2021,1,"Curso de Python",Nenhum,C#,React,10,190,12,8,13,1,"Falta de experiência",1,0,38,1,7,Multinacional,PJ
+624,30,Feminino,RJ,"Engenharia da Computação",2025,0,"Curso de Python","Certificado Google",Python,.NET,18,106,11,15,7,0,"Não sei o que melhorar",1,1,18,1,8,"Empresa Média",CLT
+625,24,Outro,MG,"Ciência da Computação",2020,0,"Curso de SQL",Nenhum,TypeScript,Flutter,10,28,13,37,8,1,"Mercado competitivo",1,1,6,0,7,Startup,CLT
+626,21,Feminino,PE,"Sistemas de Informação",2023,1,"Curso de Frontend","Certificado Azure",Python,Spring,14,54,16,48,4,0,"Falta de experiência",1,1,8,1,6,"Empresa Média",PJ
+627,29,Outro,RJ,"Análise de Sistemas",2016,1,Nenhum,"Certificado Azure",Python,.NET,21,22,27,12,9,0,"Despreparo técnico",1,0,2,1,2,"Grande Empresa",CLT
+628,22,Outro,SP,"Ciência da Computação",2019,1,"Curso de Python",Nenhum,JavaScript,Django,17,157,20,6,11,0,"Despreparo técnico",0,0,17,0,6,"Grande Empresa",CLT
+629,28,Masculino,BA,"Análise de Sistemas",2025,1,Nenhum,"Certificado Azure",Ruby,React,4,93,25,39,8,1,"Pouco networking",1,1,3,0,10,Multinacional,Estágio
+630,24,Feminino,BA,"Redes de Computadores",2015,1,"Curso de Frontend","Certificado Azure",C#,Laravel,0,122,1,22,1,1,"Despreparo técnico",0,1,20,0,11,"Empresa Média",Estágio
+631,29,Feminino,PE,"Redes de Computadores",2020,0,Nenhum,"Certificado Azure",C#,Flutter,17,169,1,34,6,0,"Mercado competitivo",1,0,19,0,2,"Órgão Público",CLT
+632,18,Outro,PR,"Sistemas de Informação",2023,1,"Curso de Frontend",Nenhum,Python,Flutter,14,23,22,18,12,1,"Despreparo técnico",1,0,2,0,3,Multinacional,Freelancer
+633,21,Feminino,RJ,"Engenharia da Computação",2023,0,"Curso de Frontend","Certificado Azure",JavaScript,React,8,82,1,46,10,1,"Não sei o que melhorar",1,1,2,1,10,"Grande Empresa",Estágio
+634,19,Outro,PE,"Ciência da Computação",2022,0,"Curso de SQL","Certificado AWS",C#,Django,15,1,2,21,17,0,"Pouco networking",1,0,23,1,7,Startup,PJ
+635,30,Masculino,RJ,"Engenharia da Computação",2018,1,Nenhum,"Certificado Azure",C#,Node.js,13,193,3,37,7,0,"Falta de experiência",0,0,12,1,5,"Órgão Público",Temporário
+636,28,Masculino,MG,"Ciência da Computação",2020,0,"Curso de Dados","Certificado Google",Python,.NET,23,101,18,31,4,0,"Pouco networking",0,0,35,1,4,Multinacional,Temporário
+637,26,Feminino,RS,"Sistemas de Informação",2025,1,"Curso de Python",Nenhum,JavaScript,Spring,8,37,24,27,4,0,"Pouco networking",1,1,33,1,10,Multinacional,CLT
+638,29,Masculino,BA,"Engenharia da Computação",2020,1,"Curso de Python","Certificado Oracle",Ruby,React,18,161,22,15,5,0,"Pouco networking",0,1,43,1,2,"Grande Empresa",CLT
+639,32,Feminino,DF,"Sistemas de Informação",2023,1,"Curso de SQL","Certificado Azure",JavaScript,Flutter,8,192,23,48,11,1,"Despreparo técnico",0,1,2,0,12,Multinacional,CLT
+640,29,Outro,DF,"Redes de Computadores",2015,1,"Curso de Cloud",Nenhum,PHP,Flutter,21,135,21,25,7,0,"Não sei o que melhorar",0,1,16,1,6,Multinacional,CLT
+641,24,Outro,RS,"Redes de Computadores",2022,1,"Curso de Cloud","Certificado Azure",TypeScript,Laravel,15,113,28,1,6,0,"Falta de experiência",1,1,26,1,8,Startup,Estágio
+642,28,Outro,MG,"Ciência da Computação",2023,1,"Curso de Frontend",Nenhum,JavaScript,Angular,17,23,11,29,16,0,"Despreparo técnico",0,0,44,0,8,"Órgão Público",Temporário
+643,19,Masculino,SC,"Análise de Sistemas",2023,1,"Curso de Frontend","Certificado AWS",Go,Node.js,17,131,1,15,7,1,"Despreparo técnico",1,0,20,1,4,Startup,CLT
+644,19,Masculino,PR,"Sistemas de Informação",2017,1,"Curso de Python","Certificado Oracle",Python,Angular,11,174,28,8,18,0,"Pouco networking",1,1,17,0,9,Startup,Temporário
+645,32,Outro,SC,"Sistemas de Informação",2023,1,"Curso de Python","Certificado Azure",Java,Flutter,10,52,29,8,18,1,"Pouco networking",0,1,37,1,9,"Órgão Público",Freelancer
+646,24,Masculino,SP,"Engenharia da Computação",2019,0,"Curso de SQL","Certificado AWS",C#,Spring,21,145,29,34,10,0,"Despreparo técnico",0,1,11,0,1,Multinacional,CLT
+647,30,Outro,PR,"Redes de Computadores",2019,1,"Curso de Dados","Certificado Azure",C#,Spring,19,115,12,14,4,0,"Falta de experiência",0,1,5,1,2,"Grande Empresa",CLT
+648,21,Outro,MG,"Sistemas de Informação",2021,1,"Curso de Python","Certificado Oracle",C#,Flutter,3,131,26,25,17,1,"Mercado competitivo",0,0,42,1,10,"Órgão Público",CLT
+649,21,Feminino,RJ,"Engenharia da Computação",2021,0,"Curso de Dados","Certificado Azure",TypeScript,React,7,76,1,2,2,0,"Mercado competitivo",1,1,24,1,9,"Grande Empresa",Estágio
+650,31,Outro,MG,"Ciência da Computação",2018,0,Nenhum,"Certificado Oracle",C#,React,8,117,27,42,9,1,"Despreparo técnico",0,0,45,0,11,"Órgão Público",Temporário
+651,29,Outro,BA,"Sistemas de Informação",2018,0,"Curso de Frontend","Certificado AWS",Go,Flutter,17,145,13,5,4,1,"Não sei o que melhorar",1,1,3,0,12,Startup,Estágio
+652,23,Masculino,SC,"Redes de Computadores",2021,1,"Curso de Cloud","Certificado Google",JavaScript,Flutter,18,169,28,12,7,0,"Mercado competitivo",1,0,47,0,7,Startup,CLT
+653,19,Masculino,SC,"Ciência da Computação",2021,1,"Curso de SQL",Nenhum,Java,.NET,18,104,6,29,5,0,"Pouco networking",1,1,32,0,1,"Órgão Público",Temporário
+654,18,Outro,DF,"Ciência da Computação",2021,1,Nenhum,Nenhum,C#,Angular,18,80,20,10,0,0,"Falta de experiência",1,0,45,0,9,Multinacional,CLT
+655,25,Masculino,RS,"Engenharia da Computação",2018,1,"Curso de Python","Certificado AWS",Python,Node.js,5,32,4,14,19,1,"Não sei o que melhorar",1,1,8,0,9,"Empresa Média",Freelancer
+656,20,Masculino,RJ,"Análise de Sistemas",2022,1,"Curso de Python",Nenhum,Ruby,Flutter,4,37,12,25,6,0,"Mercado competitivo",0,0,2,1,12,Startup,PJ
+657,19,Outro,BA,"Sistemas de Informação",2023,1,"Curso de Cloud",Nenhum,JavaScript,.NET,2,25,9,8,18,0,"Despreparo técnico",1,1,47,1,9,Startup,Estágio
+658,20,Masculino,RS,"Ciência da Computação",2021,1,"Curso de Python",Nenhum,Go,Laravel,19,125,21,33,4,0,"Despreparo técnico",0,1,7,1,7,Startup,PJ
+659,22,Masculino,BA,"Análise de Sistemas",2019,1,"Curso de Cloud","Certificado Azure",Ruby,Spring,22,18,20,8,15,0,"Não sei o que melhorar",0,0,42,0,10,"Órgão Público",Freelancer
+660,19,Outro,RJ,"Redes de Computadores",2022,0,Nenhum,"Certificado Google",JavaScript,.NET,16,28,19,42,5,1,"Pouco networking",1,1,11,0,7,"Órgão Público",CLT
+661,22,Feminino,PE,"Análise de Sistemas",2021,0,"Curso de SQL",Nenhum,Go,React,2,58,5,5,19,0,"Mercado competitivo",1,0,28,1,4,Startup,PJ
+662,25,Feminino,DF,"Sistemas de Informação",2024,1,"Curso de Frontend","Certificado Google",Go,React,6,45,8,33,10,0,"Pouco networking",1,1,24,0,9,"Empresa Média",Freelancer
+663,19,Masculino,SC,"Sistemas de Informação",2025,1,Nenhum,"Certificado AWS",C#,Spring,14,76,5,34,18,0,"Mercado competitivo",0,0,38,0,10,"Grande Empresa",Temporário
+664,28,Feminino,SC,"Sistemas de Informação",2018,1,Nenhum,"Certificado Google",Python,Flutter,12,169,19,32,6,0,"Falta de experiência",0,0,21,1,5,"Grande Empresa",Estágio
+665,20,Masculino,DF,"Análise de Sistemas",2022,0,"Curso de Frontend","Certificado Oracle",Ruby,Flutter,8,151,22,23,1,0,"Não sei o que melhorar",1,1,4,1,8,"Grande Empresa",Temporário
+666,19,Masculino,PR,"Redes de Computadores",2016,0,Nenhum,"Certificado Oracle",Go,Angular,13,79,7,6,16,1,"Falta de experiência",1,0,5,0,6,"Empresa Média",Estágio
+667,21,Outro,PR,"Engenharia da Computação",2024,0,"Curso de Frontend","Certificado Oracle",TypeScript,Node.js,12,162,14,0,12,1,"Falta de experiência",1,0,1,1,7,Startup,PJ
+668,32,Outro,RS,"Engenharia da Computação",2022,0,Nenhum,Nenhum,Java,Angular,3,44,20,40,19,0,"Mercado competitivo",1,0,36,0,1,"Órgão Público",Estágio
+669,31,Outro,MG,"Redes de Computadores",2019,1,"Curso de Python",Nenhum,PHP,Spring,18,54,0,9,19,0,"Falta de experiência",0,1,42,0,7,"Empresa Média",Freelancer
+670,30,Masculino,PE,"Análise de Sistemas",2017,0,"Curso de Cloud","Certificado Azure",JavaScript,Spring,15,73,27,23,11,0,"Falta de experiência",1,0,14,1,1,Multinacional,Freelancer
+671,22,Masculino,PE,"Ciência da Computação",2017,0,"Curso de SQL","Certificado Google",TypeScript,Django,21,91,16,20,7,0,"Falta de experiência",1,0,32,1,4,"Órgão Público",PJ
+672,19,Outro,SP,"Sistemas de Informação",2020,0,"Curso de Cloud",Nenhum,JavaScript,Flutter,11,132,25,12,14,1,"Despreparo técnico",0,0,1,1,10,"Órgão Público",CLT
+673,29,Feminino,SC,"Sistemas de Informação",2019,1,"Curso de Frontend","Certificado Azure",Ruby,Django,23,192,25,20,10,0,"Não sei o que melhorar",1,1,6,0,12,"Grande Empresa",Temporário
+674,22,Masculino,SP,"Análise de Sistemas",2022,0,"Curso de Dados","Certificado Oracle",Go,.NET,22,65,26,17,3,1,"Mercado competitivo",1,1,38,0,2,"Órgão Público",Freelancer
+675,30,Feminino,PE,"Redes de Computadores",2021,0,"Curso de SQL","Certificado Oracle",JavaScript,Angular,16,138,12,2,0,1,"Pouco networking",0,0,27,0,5,Multinacional,Temporário
+676,24,Masculino,DF,"Engenharia da Computação",2024,1,"Curso de Python","Certificado Google",C#,.NET,0,183,16,49,5,0,"Pouco networking",0,0,17,0,2,"Empresa Média",PJ
+677,21,Masculino,DF,"Análise de Sistemas",2015,1,"Curso de Dados","Certificado Google",PHP,Laravel,6,182,22,0,16,0,"Não sei o que melhorar",0,0,17,0,2,Multinacional,Temporário
+678,19,Masculino,MG,"Engenharia da Computação",2024,1,"Curso de SQL",Nenhum,Ruby,.NET,13,114,6,19,6,0,"Não sei o que melhorar",0,1,4,1,9,"Grande Empresa",Freelancer
+679,29,Masculino,PE,"Análise de Sistemas",2019,0,"Curso de SQL","Certificado AWS",Ruby,Laravel,7,43,5,10,11,0,"Falta de experiência",1,1,47,1,4,Startup,CLT
+680,30,Feminino,RJ,"Sistemas de Informação",2019,1,"Curso de Python","Certificado Azure",C#,.NET,1,16,8,6,17,1,"Não sei o que melhorar",0,1,18,1,10,"Empresa Média",CLT
+681,26,Feminino,SP,"Redes de Computadores",2024,1,"Curso de SQL","Certificado AWS",TypeScript,.NET,11,43,18,21,6,0,"Mercado competitivo",0,1,46,1,3,"Grande Empresa",PJ
+682,18,Masculino,SP,"Engenharia da Computação",2025,0,"Curso de Frontend","Certificado AWS",TypeScript,Node.js,21,112,3,42,19,0,"Falta de experiência",0,1,14,0,6,"Órgão Público",CLT
+683,20,Feminino,RJ,"Sistemas de Informação",2020,1,"Curso de Dados","Certificado Google",Go,Node.js,20,25,4,14,1,0,"Pouco networking",0,0,5,0,12,Multinacional,Temporário
+684,25,Masculino,DF,"Redes de Computadores",2020,1,"Curso de Python","Certificado Oracle",PHP,Angular,5,101,26,48,3,1,"Não sei o que melhorar",1,0,11,1,9,"Órgão Público",CLT
+685,30,Outro,DF,"Engenharia da Computação",2019,0,"Curso de Dados","Certificado Azure",TypeScript,Django,19,3,17,43,12,0,"Mercado competitivo",1,0,18,0,5,"Órgão Público",CLT
+686,32,Feminino,PR,"Redes de Computadores",2023,0,Nenhum,"Certificado Google",C#,Django,15,198,1,11,1,0,"Não sei o que melhorar",0,0,41,1,5,"Órgão Público",Freelancer
+687,28,Outro,DF,"Engenharia da Computação",2019,0,"Curso de Dados","Certificado AWS",PHP,Django,15,14,14,8,8,0,"Despreparo técnico",1,0,21,1,6,"Órgão Público",PJ
+688,23,Masculino,RS,"Sistemas de Informação",2017,1,Nenhum,"Certificado Oracle",TypeScript,.NET,17,29,16,17,2,0,"Falta de experiência",1,0,30,0,9,"Grande Empresa",PJ
+689,30,Feminino,PE,"Redes de Computadores",2021,1,"Curso de Dados",Nenhum,Java,.NET,9,154,19,46,14,1,"Falta de experiência",0,1,28,1,10,Multinacional,Temporário
+690,29,Masculino,DF,"Engenharia da Computação",2024,1,"Curso de Dados","Certificado AWS",TypeScript,Spring,20,138,27,21,8,1,"Falta de experiência",1,0,40,1,11,Multinacional,Freelancer
+691,24,Feminino,BA,"Análise de Sistemas",2024,1,"Curso de SQL",Nenhum,C#,Node.js,23,166,7,34,14,0,"Falta de experiência",0,0,21,0,12,"Empresa Média",Freelancer
+692,28,Outro,BA,"Sistemas de Informação",2016,0,Nenhum,"Certificado Google",TypeScript,React,12,72,8,18,19,1,"Falta de experiência",1,1,21,0,11,"Grande Empresa",Estágio
+693,22,Masculino,MG,"Análise de Sistemas",2018,1,Nenhum,"Certificado AWS",TypeScript,Laravel,3,79,16,29,5,0,"Pouco networking",1,1,1,0,5,"Órgão Público",PJ
+694,20,Outro,SP,"Sistemas de Informação",2025,1,Nenhum,"Certificado Oracle",C#,Spring,13,46,13,30,14,0,"Falta de experiência",1,0,44,1,6,"Órgão Público",Freelancer
+695,26,Masculino,PE,"Engenharia da Computação",2020,1,"Curso de Python","Certificado Azure",C#,Spring,16,184,16,46,0,0,"Mercado competitivo",1,0,24,0,8,Startup,Temporário
+696,32,Outro,RS,"Engenharia da Computação",2018,1,"Curso de Cloud",Nenhum,Ruby,Angular,14,85,10,27,13,0,"Pouco networking",1,0,29,0,9,"Órgão Público",Temporário
+697,21,Feminino,PR,"Sistemas de Informação",2016,1,"Curso de Frontend","Certificado Azure",PHP,Node.js,9,25,14,47,7,0,"Falta de experiência",0,1,45,1,1,"Grande Empresa",Estágio
+698,29,Feminino,MG,"Redes de Computadores",2021,0,"Curso de Dados","Certificado Azure",TypeScript,Flutter,3,155,12,38,12,1,"Pouco networking",1,0,18,0,5,"Grande Empresa",Freelancer
+699,24,Feminino,PR,"Engenharia da Computação",2022,1,Nenhum,"Certificado Google",JavaScript,Angular,8,69,21,23,4,0,"Mercado competitivo",1,0,27,0,9,"Órgão Público",Freelancer
+700,20,Outro,MG,"Análise de Sistemas",2018,1,"Curso de Dados","Certificado Azure",C#,Spring,17,18,7,1,7,0,"Mercado competitivo",1,1,21,0,4,"Empresa Média",PJ
+701,31,Feminino,PR,"Redes de Computadores",2024,1,"Curso de SQL","Certificado AWS",JavaScript,React,19,4,20,16,12,0,"Falta de experiência",1,0,9,0,6,"Órgão Público",Temporário
+702,30,Masculino,BA,"Sistemas de Informação",2021,1,"Curso de Cloud","Certificado Oracle",C#,Spring,12,9,19,4,10,0,"Mercado competitivo",1,0,35,1,10,Startup,CLT
+703,23,Feminino,SP,"Análise de Sistemas",2024,1,Nenhum,"Certificado AWS",PHP,Flutter,1,98,8,45,13,1,"Despreparo técnico",0,0,20,0,9,"Grande Empresa",Freelancer
+704,23,Outro,PR,"Ciência da Computação",2024,1,Nenhum,"Certificado AWS",Java,Angular,18,19,6,41,9,1,"Mercado competitivo",0,0,48,0,4,Multinacional,PJ
+705,28,Feminino,SC,"Ciência da Computação",2024,1,Nenhum,"Certificado Google",Java,.NET,22,31,1,36,10,0,"Não sei o que melhorar",0,1,1,0,12,"Empresa Média",PJ
+706,20,Feminino,SC,"Sistemas de Informação",2023,1,Nenhum,"Certificado Google",Python,Node.js,4,12,22,24,5,1,"Pouco networking",0,0,10,1,3,"Grande Empresa",Estágio
+707,23,Masculino,MG,"Ciência da Computação",2024,1,"Curso de SQL","Certificado AWS",Go,React,10,175,2,36,9,0,"Falta de experiência",1,1,48,0,4,"Órgão Público",PJ
+708,26,Masculino,RS,"Engenharia da Computação",2022,1,"Curso de Dados","Certificado Google",Python,Angular,2,142,8,14,11,0,"Pouco networking",1,0,20,0,4,"Grande Empresa",Estágio
+709,30,Outro,SC,"Análise de Sistemas",2016,1,"Curso de Cloud","Certificado Google",C#,.NET,21,72,2,19,12,0,"Pouco networking",0,1,7,0,9,"Órgão Público",PJ
+710,30,Masculino,PR,"Redes de Computadores",2025,1,"Curso de Dados","Certificado Google",PHP,Django,14,14,15,20,10,0,"Falta de experiência",1,0,42,0,1,Multinacional,PJ
+711,31,Feminino,RJ,"Redes de Computadores",2025,1,"Curso de Frontend","Certificado Oracle",PHP,Node.js,22,126,11,3,2,0,"Falta de experiência",1,0,13,1,7,"Empresa Média",Estágio
+712,18,Feminino,SC,"Engenharia da Computação",2023,1,"Curso de Cloud","Certificado Azure",C#,Flutter,22,133,16,38,3,0,"Não sei o que melhorar",0,0,25,0,6,"Órgão Público",Temporário
+713,20,Feminino,MG,"Análise de Sistemas",2025,1,"Curso de Dados","Certificado Azure",JavaScript,Laravel,3,31,10,11,3,0,"Não sei o que melhorar",1,0,10,1,2,"Grande Empresa",CLT
+714,21,Feminino,BA,"Ciência da Computação",2018,1,"Curso de Dados","Certificado Google",Python,Node.js,13,164,12,29,15,1,"Mercado competitivo",1,0,18,0,8,Multinacional,PJ
+715,29,Outro,RS,"Análise de Sistemas",2022,1,"Curso de Cloud","Certificado Oracle",C#,Angular,19,147,5,35,19,1,"Falta de experiência",1,1,26,0,12,Multinacional,CLT
+716,22,Masculino,PR,"Sistemas de Informação",2015,0,"Curso de Python","Certificado Oracle",JavaScript,Angular,23,31,26,0,8,1,"Despreparo técnico",0,0,49,1,7,Startup,Temporário
+717,18,Masculino,MG,"Ciência da Computação",2023,0,"Curso de Python","Certificado Azure",Go,.NET,19,196,13,13,0,0,"Mercado competitivo",1,0,46,0,12,"Empresa Média",Freelancer
+718,24,Feminino,SC,"Análise de Sistemas",2019,1,"Curso de SQL","Certificado Oracle",Python,.NET,0,165,2,49,13,0,"Não sei o que melhorar",1,0,33,1,10,"Grande Empresa",Estágio
+719,28,Masculino,DF,"Redes de Computadores",2019,1,"Curso de Python","Certificado AWS",C#,Node.js,18,164,22,13,1,0,"Despreparo técnico",1,1,49,1,11,"Grande Empresa",Freelancer
+720,30,Feminino,RJ,"Engenharia da Computação",2018,1,"Curso de SQL","Certificado Oracle",JavaScript,Node.js,2,135,3,27,7,0,"Falta de experiência",1,0,0,1,6,"Grande Empresa",PJ
+721,18,Masculino,PR,"Engenharia da Computação",2019,0,"Curso de Python","Certificado Azure",Python,.NET,0,153,24,35,3,0,"Despreparo técnico",0,1,7,0,8,"Grande Empresa",Temporário
+722,32,Outro,SP,"Sistemas de Informação",2017,1,"Curso de Cloud","Certificado Azure",Ruby,Flutter,4,37,11,15,9,0,"Mercado competitivo",0,1,30,0,10,Multinacional,Temporário
+723,28,Masculino,MG,"Ciência da Computação",2025,1,Nenhum,"Certificado AWS",Go,Flutter,17,145,15,18,7,0,"Falta de experiência",1,1,29,0,7,Multinacional,PJ
+724,31,Outro,DF,"Análise de Sistemas",2022,1,"Curso de Frontend","Certificado Oracle",JavaScript,Laravel,10,171,29,16,13,0,"Não sei o que melhorar",1,0,12,1,1,"Empresa Média",PJ
+725,24,Feminino,RJ,"Engenharia da Computação",2018,1,"Curso de SQL","Certificado Azure",PHP,Spring,5,57,23,3,19,0,"Mercado competitivo",0,0,34,1,5,"Empresa Média",CLT
+726,30,Outro,BA,"Redes de Computadores",2018,1,"Curso de Cloud",Nenhum,C#,Angular,20,148,5,32,15,1,"Despreparo técnico",1,0,39,0,1,"Órgão Público",Temporário
+727,27,Masculino,BA,"Ciência da Computação",2022,0,"Curso de Frontend","Certificado Google",TypeScript,Django,21,32,5,19,7,1,"Falta de experiência",1,1,5,1,6,Multinacional,CLT
+728,23,Feminino,SP,"Sistemas de Informação",2023,1,"Curso de Frontend","Certificado Google",TypeScript,Django,20,22,0,35,10,0,"Pouco networking",1,0,22,1,6,Multinacional,PJ
+729,25,Feminino,RS,"Redes de Computadores",2019,0,"Curso de Frontend","Certificado AWS",Go,.NET,22,79,6,45,17,0,"Pouco networking",1,0,4,0,11,"Órgão Público",PJ
+730,32,Outro,SC,"Sistemas de Informação",2020,1,"Curso de Python","Certificado Google",TypeScript,Angular,5,144,27,21,8,1,"Despreparo técnico",0,0,16,1,1,"Empresa Média",Estágio
+731,28,Outro,SC,"Redes de Computadores",2015,1,"Curso de Frontend",Nenhum,Go,Flutter,18,1,20,20,19,0,"Pouco networking",1,0,12,1,5,"Órgão Público",PJ
+732,20,Feminino,PR,"Redes de Computadores",2017,0,"Curso de Cloud","Certificado Oracle",PHP,Flutter,23,2,3,29,10,1,"Falta de experiência",1,0,47,0,1,Startup,CLT
+733,25,Masculino,RJ,"Ciência da Computação",2025,1,Nenhum,"Certificado Google",PHP,Spring,21,144,28,28,19,0,"Pouco networking",0,0,22,0,9,"Órgão Público",CLT
+734,31,Masculino,PE,"Engenharia da Computação",2020,1,"Curso de Dados",Nenhum,C#,React,22,139,19,11,2,1,"Falta de experiência",0,0,48,1,4,"Grande Empresa",CLT
+735,27,Masculino,SP,"Engenharia da Computação",2020,1,"Curso de Dados","Certificado Oracle",Java,Django,13,157,8,2,8,1,"Pouco networking",0,1,40,0,10,Multinacional,Estágio
+736,23,Masculino,PR,"Redes de Computadores",2021,1,Nenhum,Nenhum,Java,.NET,12,83,14,8,7,0,"Não sei o que melhorar",1,0,18,0,8,"Órgão Público",CLT
+737,21,Feminino,BA,"Ciência da Computação",2024,0,Nenhum,"Certificado Azure",JavaScript,Spring,10,112,13,27,8,0,"Despreparo técnico",0,0,25,1,12,Startup,Temporário
+738,18,Masculino,RJ,"Redes de Computadores",2022,1,Nenhum,"Certificado Oracle",Ruby,Django,21,88,15,14,17,0,"Despreparo técnico",1,1,36,1,1,"Grande Empresa",Estágio
+739,19,Outro,SC,"Análise de Sistemas",2016,1,"Curso de Cloud",Nenhum,Ruby,Node.js,21,150,0,42,3,0,"Mercado competitivo",1,0,31,0,6,Startup,Estágio
+740,28,Masculino,DF,"Sistemas de Informação",2023,1,"Curso de Dados","Certificado Google",Go,Laravel,8,51,6,13,13,0,"Pouco networking",1,0,16,0,5,Multinacional,CLT
+741,20,Outro,RS,"Ciência da Computação",2016,1,"Curso de SQL","Certificado Oracle",Go,Angular,18,60,5,1,11,1,"Despreparo técnico",1,1,18,1,2,"Órgão Público",Temporário
+742,23,Feminino,DF,"Ciência da Computação",2024,1,"Curso de Cloud","Certificado AWS",Python,Angular,8,55,11,4,6,0,"Pouco networking",1,0,22,1,8,Multinacional,Estágio
+743,23,Feminino,SP,"Análise de Sistemas",2023,1,"Curso de Dados","Certificado AWS",Ruby,Laravel,22,26,24,37,4,1,"Não sei o que melhorar",1,1,48,0,1,Multinacional,Temporário
+744,21,Masculino,PE,"Redes de Computadores",2024,1,"Curso de SQL","Certificado Oracle",Go,React,9,145,11,39,16,0,"Despreparo técnico",1,1,19,1,4,"Empresa Média",Temporário
+745,31,Masculino,RJ,"Ciência da Computação",2019,0,"Curso de Dados","Certificado AWS",Go,Spring,15,114,26,35,17,0,"Despreparo técnico",0,1,26,1,12,"Empresa Média",PJ
+746,28,Feminino,DF,"Redes de Computadores",2018,1,"Curso de Cloud","Certificado Google",Ruby,Angular,10,121,21,37,12,1,"Mercado competitivo",1,0,14,1,2,"Grande Empresa",Estágio
+747,27,Feminino,RS,"Ciência da Computação",2022,1,"Curso de Python","Certificado AWS",Go,.NET,3,67,8,23,9,0,"Despreparo técnico",0,1,27,0,2,Multinacional,Freelancer
+748,28,Feminino,SP,"Ciência da Computação",2015,1,"Curso de Cloud","Certificado Google",Python,Flutter,16,135,7,14,13,0,"Não sei o que melhorar",1,0,18,0,5,"Empresa Média",Estágio
+749,24,Outro,PE,"Ciência da Computação",2022,1,"Curso de Dados","Certificado Azure",Go,Spring,17,18,7,46,19,1,"Não sei o que melhorar",1,0,13,0,7,"Órgão Público",CLT
+750,28,Masculino,RS,"Análise de Sistemas",2025,1,Nenhum,"Certificado Google",Go,.NET,18,132,0,6,11,0,"Despreparo técnico",1,1,48,0,8,"Grande Empresa",Estágio
+751,18,Outro,SC,"Análise de Sistemas",2023,1,"Curso de SQL","Certificado Google",Go,Node.js,13,147,2,5,7,0,"Não sei o que melhorar",1,0,13,1,7,"Órgão Público",PJ
+752,24,Feminino,PR,"Ciência da Computação",2020,1,Nenhum,"Certificado Google",JavaScript,Angular,19,74,13,7,8,0,"Despreparo técnico",1,0,27,0,1,Startup,PJ
+753,27,Masculino,MG,"Engenharia da Computação",2025,1,"Curso de Python","Certificado Google",Java,React,8,153,23,28,11,0,"Despreparo técnico",1,0,17,0,5,"Órgão Público",Estágio
+754,31,Outro,BA,"Sistemas de Informação",2025,1,"Curso de Dados",Nenhum,JavaScript,Node.js,1,106,13,35,2,0,"Mercado competitivo",1,1,49,1,1,"Empresa Média",Freelancer
+755,20,Masculino,RJ,"Ciência da Computação",2015,1,"Curso de Dados","Certificado Google",TypeScript,Node.js,14,36,1,38,12,1,"Despreparo técnico",1,1,30,1,6,"Grande Empresa",Temporário
+756,18,Masculino,SP,"Análise de Sistemas",2025,1,"Curso de Python",Nenhum,Go,Django,0,41,29,12,5,1,"Despreparo técnico",1,0,7,0,10,"Grande Empresa",Freelancer
+757,27,Masculino,SC,"Análise de Sistemas",2017,1,"Curso de SQL",Nenhum,PHP,React,7,88,8,0,4,0,"Mercado competitivo",1,0,31,0,10,"Órgão Público",Freelancer
+758,27,Outro,PE,"Redes de Computadores",2022,1,Nenhum,"Certificado Azure",JavaScript,Spring,7,189,24,8,9,1,"Mercado competitivo",0,0,25,1,5,"Órgão Público",PJ
+759,28,Outro,SP,"Ciência da Computação",2025,1,"Curso de Python","Certificado Azure",Go,React,4,132,23,43,0,0,"Falta de experiência",1,0,25,1,9,Startup,Estágio
+760,18,Feminino,RJ,"Redes de Computadores",2025,0,"Curso de Python","Certificado Google",TypeScript,Django,17,108,15,46,3,1,"Pouco networking",1,0,11,1,4,"Grande Empresa",PJ
+761,30,Feminino,PE,"Redes de Computadores",2020,1,"Curso de Frontend","Certificado AWS",Python,Angular,9,115,21,38,14,0,"Mercado competitivo",0,0,18,0,4,Startup,Estágio
+762,27,Feminino,RJ,"Engenharia da Computação",2021,1,"Curso de Cloud","Certificado Azure",C#,Django,12,110,6,22,10,0,"Pouco networking",1,1,38,0,9,Multinacional,PJ
+763,24,Masculino,MG,"Sistemas de Informação",2018,1,"Curso de Cloud","Certificado Oracle",JavaScript,Django,1,74,19,6,13,0,"Falta de experiência",1,1,2,1,12,"Empresa Média",Temporário
+764,24,Masculino,PR,"Redes de Computadores",2020,1,"Curso de Cloud","Certificado Google",TypeScript,Laravel,9,94,5,24,18,0,"Despreparo técnico",0,0,9,1,12,"Grande Empresa",Freelancer
+765,32,Masculino,PE,"Análise de Sistemas",2022,0,"Curso de Python",Nenhum,PHP,React,17,63,12,5,5,0,"Não sei o que melhorar",0,0,17,0,5,"Grande Empresa",PJ
+766,31,Feminino,PE,"Redes de Computadores",2022,1,"Curso de Python","Certificado Google",TypeScript,.NET,11,8,24,47,5,0,"Não sei o que melhorar",0,1,39,0,4,"Órgão Público",CLT
+767,25,Masculino,PR,"Redes de Computadores",2017,1,"Curso de Dados",Nenhum,Ruby,Flutter,7,159,1,46,9,0,"Despreparo técnico",1,0,20,1,3,"Empresa Média",Temporário
+768,24,Feminino,BA,"Sistemas de Informação",2021,1,"Curso de Dados",Nenhum,TypeScript,Laravel,8,92,7,43,12,0,"Pouco networking",1,1,41,0,12,Multinacional,CLT
+769,31,Outro,SP,"Ciência da Computação",2021,1,Nenhum,Nenhum,Java,Spring,1,139,9,22,6,0,"Pouco networking",1,0,15,0,1,"Grande Empresa",PJ
+770,25,Feminino,PR,"Engenharia da Computação",2020,0,Nenhum,"Certificado AWS",TypeScript,Django,17,93,5,25,19,0,"Falta de experiência",1,0,42,1,8,"Empresa Média",Estágio
+771,21,Masculino,PE,"Análise de Sistemas",2025,1,"Curso de Cloud","Certificado Google",Python,React,7,56,12,15,4,0,"Despreparo técnico",1,0,2,1,2,Startup,CLT
+772,26,Feminino,RJ,"Análise de Sistemas",2024,0,"Curso de Cloud","Certificado Oracle",Go,Laravel,23,93,12,34,4,0,"Pouco networking",1,1,8,0,3,"Grande Empresa",CLT
+773,22,Outro,DF,"Redes de Computadores",2025,1,"Curso de Python","Certificado AWS",PHP,.NET,13,82,12,38,12,1,"Mercado competitivo",0,1,47,0,3,"Grande Empresa",Temporário
+774,21,Outro,SP,"Ciência da Computação",2016,0,"Curso de Python","Certificado Azure",C#,Flutter,19,6,23,39,12,1,"Não sei o que melhorar",1,1,4,0,4,"Grande Empresa",Temporário
+775,28,Feminino,SC,"Sistemas de Informação",2021,1,"Curso de Frontend","Certificado Oracle",Java,.NET,17,56,8,25,13,1,"Não sei o que melhorar",0,1,23,1,5,Startup,Temporário
+776,21,Outro,RS,"Ciência da Computação",2023,0,Nenhum,"Certificado Azure",Python,Node.js,2,139,6,49,5,0,"Pouco networking",0,0,35,0,3,Multinacional,Estágio
+777,31,Outro,BA,"Redes de Computadores",2015,1,"Curso de Dados",Nenhum,Go,Angular,16,195,24,3,18,0,"Falta de experiência",0,0,17,1,11,"Empresa Média",CLT
+778,22,Masculino,RS,"Ciência da Computação",2024,1,"Curso de SQL","Certificado Google",TypeScript,.NET,20,152,8,10,2,0,"Despreparo técnico",1,1,20,0,12,"Órgão Público",CLT
+779,28,Masculino,SC,"Análise de Sistemas",2015,1,"Curso de SQL","Certificado Google",Go,Node.js,8,6,1,7,11,0,"Despreparo técnico",0,0,24,0,6,Startup,PJ
+780,21,Masculino,MG,"Redes de Computadores",2023,0,"Curso de Dados",Nenhum,TypeScript,Laravel,3,91,25,42,14,0,"Falta de experiência",1,1,41,1,5,Multinacional,Freelancer
+781,29,Feminino,RJ,"Ciência da Computação",2022,1,"Curso de Cloud","Certificado Azure",Python,Angular,14,117,2,33,1,0,"Pouco networking",1,1,10,1,4,Multinacional,CLT
+782,29,Feminino,PE,"Engenharia da Computação",2020,1,"Curso de SQL","Certificado Azure",Python,.NET,18,148,10,24,8,0,"Não sei o que melhorar",1,1,17,1,10,Multinacional,CLT
+783,18,Masculino,SP,"Análise de Sistemas",2017,0,Nenhum,"Certificado Azure",Go,Spring,14,86,10,19,18,0,"Despreparo técnico",0,0,29,0,9,"Órgão Público",Temporário
+784,25,Feminino,MG,"Ciência da Computação",2023,1,Nenhum,"Certificado Oracle",Ruby,Node.js,23,8,9,20,1,0,"Falta de experiência",1,0,21,1,11,"Grande Empresa",Estágio
+785,20,Masculino,SP,"Engenharia da Computação",2016,1,"Curso de Python",Nenhum,C#,Spring,4,23,1,41,0,1,"Mercado competitivo",0,1,18,0,8,"Grande Empresa",Freelancer
+786,21,Masculino,PR,"Redes de Computadores",2024,0,"Curso de Frontend","Certificado Azure",C#,Node.js,15,87,5,32,14,0,"Não sei o que melhorar",1,1,19,1,5,"Órgão Público",Freelancer
+787,30,Outro,RJ,"Engenharia da Computação",2019,0,"Curso de Python",Nenhum,C#,React,8,123,29,2,6,0,"Despreparo técnico",1,0,13,1,11,Multinacional,Freelancer
+788,27,Masculino,DF,"Engenharia da Computação",2020,1,"Curso de Frontend","Certificado Oracle",PHP,Spring,1,107,15,45,0,0,"Mercado competitivo",1,1,44,1,7,Multinacional,Temporário
+789,30,Outro,RJ,"Redes de Computadores",2024,1,"Curso de Frontend","Certificado Oracle",TypeScript,Angular,6,165,8,48,0,0,"Pouco networking",1,0,38,1,4,Startup,Freelancer
+790,29,Masculino,RS,"Redes de Computadores",2020,1,"Curso de Python","Certificado Oracle",Ruby,Spring,14,59,19,17,16,1,"Mercado competitivo",1,1,25,0,8,"Grande Empresa",Freelancer
+791,32,Outro,SP,"Ciência da Computação",2015,1,"Curso de Cloud","Certificado Oracle",Python,Spring,16,158,26,1,9,0,"Não sei o que melhorar",0,0,3,1,3,"Órgão Público",CLT
+792,28,Masculino,RS,"Sistemas de Informação",2018,0,"Curso de Python","Certificado Google",JavaScript,React,4,132,20,25,8,0,"Mercado competitivo",0,0,20,1,8,"Empresa Média",Estágio
+793,24,Outro,RJ,"Engenharia da Computação",2024,1,"Curso de Frontend","Certificado AWS",C#,Angular,22,57,17,48,3,0,"Mercado competitivo",1,1,11,0,1,"Órgão Público",Freelancer
+794,28,Outro,DF,"Sistemas de Informação",2019,0,"Curso de SQL","Certificado Google",Java,Laravel,11,159,18,35,13,0,"Não sei o que melhorar",0,1,25,0,8,"Órgão Público",Freelancer
+795,27,Masculino,PR,"Redes de Computadores",2016,0,Nenhum,"Certificado Google",TypeScript,Flutter,13,42,10,7,13,1,"Mercado competitivo",0,0,20,0,2,Startup,CLT
+796,23,Feminino,BA,"Análise de Sistemas",2019,1,"Curso de SQL","Certificado Oracle",Go,Django,8,148,20,12,2,1,"Pouco networking",0,1,38,1,1,"Empresa Média",PJ
+797,27,Masculino,DF,"Engenharia da Computação",2023,1,"Curso de Frontend","Certificado Azure",C#,Spring,15,128,9,35,10,0,"Pouco networking",1,1,34,1,2,Multinacional,CLT
+798,19,Masculino,RJ,"Engenharia da Computação",2019,1,"Curso de Cloud","Certificado AWS",JavaScript,Angular,5,155,5,32,12,0,"Mercado competitivo",0,0,16,1,8,"Empresa Média",Estágio
+799,25,Masculino,PE,"Engenharia da Computação",2018,1,"Curso de Dados",Nenhum,TypeScript,Flutter,17,10,1,5,7,0,"Falta de experiência",0,0,15,0,10,Multinacional,Estágio
+800,20,Masculino,PR,"Ciência da Computação",2022,1,"Curso de Dados","Certificado Azure",PHP,Laravel,8,79,25,6,1,0,"Não sei o que melhorar",1,0,43,1,5,Startup,Temporário
+801,23,Feminino,PR,"Análise de Sistemas",2016,1,"Curso de SQL",Nenhum,Java,Angular,2,9,27,25,15,0,"Falta de experiência",1,0,45,0,4,"Empresa Média",Estágio
+802,27,Outro,SP,"Análise de Sistemas",2023,1,"Curso de Dados",Nenhum,PHP,.NET,22,118,3,41,15,0,"Falta de experiência",1,0,37,1,6,"Grande Empresa",CLT
+803,28,Feminino,BA,"Sistemas de Informação",2020,0,Nenhum,"Certificado AWS",C#,Angular,2,197,19,12,6,1,"Não sei o que melhorar",0,1,18,0,7,"Órgão Público",Temporário
+804,27,Feminino,PR,"Análise de Sistemas",2018,0,"Curso de Frontend","Certificado Azure",Go,Node.js,5,69,1,11,0,0,"Despreparo técnico",1,1,17,1,12,"Empresa Média",Estágio
+805,19,Outro,PR,"Engenharia da Computação",2018,1,"Curso de SQL","Certificado AWS",Go,Angular,22,41,5,12,14,1,"Mercado competitivo",1,1,10,0,7,"Órgão Público",CLT
+806,23,Outro,PR,"Sistemas de Informação",2020,0,"Curso de SQL",Nenhum,Ruby,Angular,12,199,14,18,8,0,"Pouco networking",0,0,48,0,6,"Grande Empresa",Freelancer
+807,25,Feminino,PR,"Ciência da Computação",2017,1,"Curso de Frontend","Certificado Azure",JavaScript,Angular,12,46,17,6,19,0,"Falta de experiência",1,1,21,1,6,"Grande Empresa",Temporário
+808,28,Masculino,SP,"Sistemas de Informação",2021,1,"Curso de Frontend","Certificado AWS",PHP,Node.js,1,45,28,2,8,1,"Despreparo técnico",0,1,27,1,11,Multinacional,Temporário
+809,28,Masculino,RS,"Sistemas de Informação",2022,1,"Curso de Python","Certificado Google",Java,Flutter,23,39,2,38,12,1,"Despreparo técnico",1,0,25,0,5,"Grande Empresa",CLT
+810,18,Outro,MG,"Ciência da Computação",2016,1,"Curso de Cloud","Certificado Google",Python,Node.js,5,43,12,17,10,0,"Mercado competitivo",1,0,44,0,8,Startup,CLT
+811,27,Outro,PE,"Sistemas de Informação",2025,0,"Curso de Python",Nenhum,JavaScript,Angular,13,89,14,7,4,0,"Despreparo técnico",0,1,15,0,9,Multinacional,CLT
+812,31,Outro,DF,"Sistemas de Informação",2020,0,"Curso de Dados","Certificado Azure",Go,Django,14,171,13,36,6,0,"Despreparo técnico",1,0,0,0,12,"Grande Empresa",CLT
+813,24,Masculino,RS,"Engenharia da Computação",2021,1,"Curso de Python","Certificado Oracle",Python,React,20,40,13,32,18,0,"Pouco networking",0,0,11,0,11,"Grande Empresa",CLT
+814,32,Feminino,PE,"Engenharia da Computação",2022,1,"Curso de SQL","Certificado AWS",JavaScript,Node.js,7,104,20,40,0,0,"Mercado competitivo",1,0,28,0,6,Startup,PJ
+815,27,Feminino,PE,"Análise de Sistemas",2017,1,"Curso de SQL","Certificado Azure",Go,Angular,2,194,15,35,19,1,"Despreparo técnico",1,1,38,0,11,Startup,CLT
+816,19,Masculino,PR,"Análise de Sistemas",2024,1,"Curso de Cloud","Certificado Azure",Python,Angular,20,132,23,43,19,0,"Falta de experiência",1,1,14,1,2,Multinacional,CLT
+817,24,Outro,PE,"Redes de Computadores",2025,1,Nenhum,"Certificado Oracle",JavaScript,Django,3,128,25,12,15,0,"Falta de experiência",1,1,48,1,10,"Empresa Média",Temporário
+818,21,Outro,SC,"Ciência da Computação",2021,1,Nenhum,"Certificado Oracle",Ruby,Node.js,6,90,11,32,0,0,"Mercado competitivo",0,0,6,0,9,Startup,Estágio
+819,22,Outro,BA,"Sistemas de Informação",2024,1,"Curso de Python","Certificado Azure",Go,Spring,21,117,8,29,2,1,"Não sei o que melhorar",1,0,10,0,6,"Empresa Média",CLT
+820,21,Masculino,DF,"Engenharia da Computação",2020,1,"Curso de Python",Nenhum,Go,Spring,18,38,19,30,3,0,"Mercado competitivo",1,0,29,1,8,Startup,Temporário
+821,20,Outro,RS,"Análise de Sistemas",2016,1,"Curso de Python","Certificado AWS",Java,Flutter,19,60,4,40,12,1,"Não sei o que melhorar",0,0,10,1,7,Multinacional,PJ
+822,21,Masculino,RS,"Ciência da Computação",2024,0,Nenhum,"Certificado AWS",Go,.NET,5,130,17,0,5,0,"Falta de experiência",1,0,16,0,9,Startup,CLT
+823,21,Outro,SP,"Ciência da Computação",2015,1,"Curso de Python","Certificado AWS",Python,React,0,4,0,1,2,0,"Despreparo técnico",1,0,9,1,11,Multinacional,Estágio
+824,28,Masculino,RS,"Ciência da Computação",2025,1,Nenhum,"Certificado AWS",Go,Angular,18,83,22,25,6,0,"Pouco networking",0,1,8,0,1,Startup,Estágio
+825,23,Masculino,RS,"Redes de Computadores",2017,1,"Curso de Dados",Nenhum,C#,.NET,8,101,14,44,0,0,"Falta de experiência",1,0,2,1,4,"Órgão Público",Estágio
+826,19,Outro,MG,"Engenharia da Computação",2020,1,"Curso de Dados","Certificado Oracle",Go,Node.js,10,26,11,30,16,0,"Falta de experiência",0,0,0,1,12,Startup,PJ
+827,21,Masculino,PR,"Redes de Computadores",2024,0,"Curso de Frontend","Certificado Google",TypeScript,.NET,18,76,19,7,15,0,"Não sei o que melhorar",0,0,37,1,12,"Órgão Público",Temporário
+828,23,Masculino,SP,"Redes de Computadores",2022,1,"Curso de SQL","Certificado AWS",JavaScript,Angular,14,109,26,37,1,0,"Despreparo técnico",0,1,2,0,2,"Grande Empresa",Freelancer
+829,22,Outro,SP,"Sistemas de Informação",2025,1,"Curso de Cloud","Certificado AWS",C#,Flutter,18,9,28,32,7,1,"Falta de experiência",1,1,20,0,2,"Grande Empresa",PJ
+830,19,Feminino,MG,"Ciência da Computação",2018,1,"Curso de Python",Nenhum,Python,.NET,2,57,2,29,12,0,"Mercado competitivo",0,0,20,1,12,"Grande Empresa",CLT
+831,28,Outro,DF,"Sistemas de Informação",2024,1,"Curso de Frontend",Nenhum,C#,Flutter,14,45,11,9,17,1,"Não sei o que melhorar",1,1,12,0,4,Multinacional,CLT
+832,18,Outro,SP,"Análise de Sistemas",2022,0,"Curso de SQL","Certificado Google",C#,.NET,1,1,26,17,2,0,"Falta de experiência",1,0,32,0,6,"Órgão Público",PJ
+833,21,Feminino,BA,"Análise de Sistemas",2021,0,"Curso de Frontend",Nenhum,Java,.NET,9,167,28,13,9,0,"Mercado competitivo",1,0,15,0,5,"Empresa Média",CLT
+834,28,Masculino,RS,"Análise de Sistemas",2016,1,"Curso de Python","Certificado Google",PHP,.NET,12,59,27,32,11,1,"Mercado competitivo",1,1,27,0,12,"Órgão Público",Freelancer
+835,24,Feminino,PE,"Engenharia da Computação",2020,1,"Curso de Frontend","Certificado Oracle",C#,React,12,55,25,23,15,0,"Pouco networking",0,1,39,0,9,"Grande Empresa",CLT
+836,23,Feminino,PR,"Análise de Sistemas",2020,0,"Curso de Cloud","Certificado Azure",Python,Flutter,13,27,28,17,18,0,"Falta de experiência",1,1,46,0,7,"Empresa Média",Temporário
+837,32,Feminino,SP,"Análise de Sistemas",2017,0,"Curso de Cloud",Nenhum,Python,Angular,1,122,25,23,15,0,"Não sei o que melhorar",0,1,9,0,2,"Empresa Média",PJ
+838,26,Outro,RJ,"Análise de Sistemas",2024,1,"Curso de Python","Certificado AWS",PHP,Flutter,2,114,17,6,19,0,"Falta de experiência",1,0,43,0,3,Startup,Temporário
+839,31,Outro,DF,"Ciência da Computação",2025,0,"Curso de SQL","Certificado AWS",Ruby,Laravel,17,34,19,33,8,0,"Falta de experiência",0,0,22,0,5,"Empresa Média",PJ
+840,23,Masculino,DF,"Redes de Computadores",2024,1,"Curso de Frontend",Nenhum,Ruby,.NET,10,187,11,6,9,1,"Pouco networking",1,0,33,0,12,Multinacional,PJ
+841,30,Masculino,DF,"Engenharia da Computação",2024,1,"Curso de Frontend","Certificado AWS",C#,Node.js,8,178,12,22,19,0,"Despreparo técnico",1,0,43,0,1,Multinacional,PJ
+842,27,Masculino,RS,"Redes de Computadores",2025,1,"Curso de SQL","Certificado Azure",C#,React,18,87,28,18,1,0,"Falta de experiência",1,1,23,1,6,Startup,Temporário
+843,18,Feminino,SC,"Sistemas de Informação",2020,1,"Curso de Dados","Certificado Oracle",C#,Angular,23,64,20,19,19,0,"Falta de experiência",1,1,36,1,4,"Empresa Média",Freelancer
+844,25,Outro,PR,"Redes de Computadores",2020,1,Nenhum,"Certificado AWS",Ruby,Node.js,13,133,20,18,16,0,"Não sei o que melhorar",0,0,21,1,10,"Grande Empresa",PJ
+845,31,Feminino,MG,"Ciência da Computação",2018,1,"Curso de SQL","Certificado Azure",Python,Laravel,0,94,9,9,19,0,"Não sei o que melhorar",0,0,38,0,3,Multinacional,Freelancer
+846,28,Feminino,PE,"Ciência da Computação",2022,0,Nenhum,Nenhum,Java,Spring,3,198,17,44,13,1,"Falta de experiência",1,0,32,1,8,Startup,PJ
+847,18,Feminino,SC,"Ciência da Computação",2017,1,"Curso de Cloud","Certificado Oracle",Ruby,Django,21,68,2,19,13,0,"Falta de experiência",0,0,12,0,12,"Grande Empresa",CLT
+848,23,Feminino,BA,"Redes de Computadores",2024,1,"Curso de Frontend","Certificado AWS",Java,Django,2,69,12,4,3,0,"Não sei o que melhorar",0,1,49,0,11,"Órgão Público",Temporário
+849,20,Feminino,RJ,"Sistemas de Informação",2025,1,"Curso de Cloud",Nenhum,Java,Spring,6,122,6,15,16,0,"Despreparo técnico",1,1,41,0,3,Multinacional,PJ
+850,27,Outro,BA,"Engenharia da Computação",2015,0,"Curso de Python","Certificado Google",TypeScript,.NET,9,150,17,34,14,0,"Falta de experiência",1,1,27,0,6,Startup,PJ
+851,30,Feminino,DF,"Sistemas de Informação",2024,1,Nenhum,"Certificado AWS",Go,Node.js,4,25,1,46,10,0,"Não sei o que melhorar",1,0,5,0,6,Startup,CLT
+852,27,Outro,BA,"Ciência da Computação",2025,1,"Curso de SQL","Certificado Google",TypeScript,React,11,34,14,45,1,0,"Despreparo técnico",0,0,11,0,3,"Grande Empresa",CLT
+853,24,Masculino,RS,"Análise de Sistemas",2018,1,Nenhum,"Certificado Oracle",C#,Flutter,11,150,9,12,6,1,"Falta de experiência",1,1,15,1,2,"Órgão Público",CLT
+854,24,Masculino,PE,"Ciência da Computação",2021,1,Nenhum,Nenhum,Ruby,Node.js,6,70,28,30,5,0,"Não sei o que melhorar",0,1,46,1,2,"Órgão Público",Temporário
+855,19,Feminino,RS,"Redes de Computadores",2025,1,"Curso de Python","Certificado Oracle",Java,.NET,13,105,27,3,11,0,"Mercado competitivo",1,1,44,1,4,Multinacional,Freelancer
+856,20,Masculino,PE,"Engenharia da Computação",2023,1,"Curso de SQL","Certificado AWS",JavaScript,Django,21,123,10,43,6,0,"Mercado competitivo",0,0,38,0,11,"Órgão Público",CLT
+857,22,Feminino,DF,"Sistemas de Informação",2025,1,"Curso de Dados","Certificado Oracle",Java,.NET,22,48,11,11,18,0,"Pouco networking",1,1,43,1,5,Startup,CLT
+858,25,Masculino,RS,"Engenharia da Computação",2016,1,"Curso de Python","Certificado Google",Ruby,.NET,20,152,8,6,15,0,"Não sei o que melhorar",0,0,44,1,9,"Órgão Público",Temporário
+859,24,Masculino,DF,"Análise de Sistemas",2024,0,"Curso de Cloud",Nenhum,JavaScript,Laravel,15,165,5,19,7,1,"Falta de experiência",1,0,47,0,2,"Órgão Público",Estágio
+860,24,Outro,RS,"Ciência da Computação",2023,0,"Curso de Frontend","Certificado Oracle",JavaScript,Laravel,13,73,5,42,13,1,"Falta de experiência",1,0,23,1,3,"Órgão Público",Estágio
+861,28,Masculino,RJ,"Engenharia da Computação",2022,1,"Curso de Dados","Certificado AWS",Go,React,23,168,8,46,16,0,"Despreparo técnico",1,0,26,0,9,Multinacional,Temporário
+862,18,Masculino,BA,"Sistemas de Informação",2019,1,"Curso de Python",Nenhum,C#,Flutter,20,77,10,29,17,0,"Não sei o que melhorar",1,0,11,1,6,Multinacional,CLT
+863,30,Outro,SC,"Engenharia da Computação",2024,1,Nenhum,"Certificado AWS",TypeScript,Spring,3,22,2,3,2,0,"Despreparo técnico",0,0,49,1,12,"Grande Empresa",PJ
+864,32,Masculino,SP,"Redes de Computadores",2023,1,"Curso de SQL","Certificado Google",Go,Flutter,21,131,16,42,11,0,"Falta de experiência",0,0,48,0,4,Startup,Temporário
+865,21,Masculino,DF,"Engenharia da Computação",2022,1,Nenhum,"Certificado Oracle",Python,Django,5,11,17,40,5,0,"Falta de experiência",1,0,0,1,2,Multinacional,Temporário
+866,19,Masculino,SC,"Engenharia da Computação",2024,1,"Curso de Dados",Nenhum,C#,Django,13,127,16,43,13,1,"Não sei o que melhorar",0,0,1,1,2,Startup,Freelancer
+867,24,Feminino,PE,"Análise de Sistemas",2025,1,"Curso de Frontend","Certificado Oracle",TypeScript,Laravel,5,143,26,14,15,1,"Mercado competitivo",1,0,21,1,8,Startup,Estágio
+868,32,Feminino,RS,"Análise de Sistemas",2018,1,Nenhum,"Certificado AWS",Java,React,18,127,24,8,8,0,"Não sei o que melhorar",0,1,32,1,11,"Grande Empresa",PJ
+869,18,Masculino,BA,"Engenharia da Computação",2022,1,"Curso de Cloud","Certificado Azure",Python,React,3,110,11,11,0,0,"Não sei o que melhorar",1,0,24,1,11,"Empresa Média",CLT
+870,19,Feminino,RJ,"Engenharia da Computação",2019,1,"Curso de Cloud","Certificado Oracle",TypeScript,Django,11,95,27,8,2,0,"Pouco networking",1,1,21,0,9,"Empresa Média",Temporário
+871,28,Masculino,PR,"Engenharia da Computação",2019,0,"Curso de Frontend","Certificado Google",JavaScript,Laravel,1,144,12,43,3,0,"Mercado competitivo",0,0,30,0,1,"Órgão Público",Freelancer
+872,21,Feminino,BA,"Análise de Sistemas",2017,1,"Curso de Python","Certificado Google",Ruby,Flutter,9,50,0,17,13,0,"Não sei o que melhorar",1,0,12,1,9,Multinacional,Temporário
+873,30,Feminino,BA,"Ciência da Computação",2022,0,Nenhum,Nenhum,Go,Spring,14,86,11,28,14,1,"Despreparo técnico",0,1,39,1,6,"Empresa Média",Freelancer
+874,31,Outro,PR,"Ciência da Computação",2018,0,"Curso de Frontend","Certificado Google",Python,.NET,20,10,20,17,12,0,"Despreparo técnico",0,0,7,1,9,"Órgão Público",Temporário
+875,25,Masculino,PR,"Análise de Sistemas",2017,1,"Curso de Cloud","Certificado Google",JavaScript,.NET,17,60,10,39,17,0,"Não sei o que melhorar",1,0,0,0,7,Multinacional,CLT
+876,20,Feminino,RS,"Engenharia da Computação",2017,1,"Curso de Frontend","Certificado Oracle",Go,Django,13,131,17,0,5,0,"Despreparo técnico",0,1,26,1,3,"Grande Empresa",Freelancer
+877,18,Feminino,DF,"Engenharia da Computação",2016,1,Nenhum,"Certificado AWS",PHP,.NET,2,78,18,46,15,0,"Não sei o que melhorar",1,1,10,0,1,"Empresa Média",Freelancer
+878,19,Feminino,PE,"Ciência da Computação",2024,1,"Curso de SQL",Nenhum,JavaScript,Node.js,14,190,28,45,13,0,"Não sei o que melhorar",1,0,4,1,6,Multinacional,Freelancer
+879,28,Feminino,RJ,"Sistemas de Informação",2022,0,"Curso de Frontend","Certificado AWS",Ruby,Django,10,182,8,31,7,1,"Mercado competitivo",1,0,0,0,5,"Órgão Público",Temporário
+880,23,Outro,BA,"Redes de Computadores",2015,1,Nenhum,"Certificado Azure",TypeScript,React,13,117,9,38,18,0,"Mercado competitivo",1,1,23,1,12,Startup,Freelancer
+881,22,Feminino,DF,"Redes de Computadores",2019,1,"Curso de SQL","Certificado Oracle",PHP,Node.js,18,178,3,45,4,0,"Não sei o que melhorar",1,1,6,1,4,"Empresa Média",Estágio
+882,22,Feminino,PR,"Análise de Sistemas",2017,1,Nenhum,"Certificado Google",Ruby,Flutter,2,178,3,44,3,0,"Não sei o que melhorar",0,1,31,1,4,Startup,Estágio
+883,31,Masculino,DF,"Engenharia da Computação",2019,1,"Curso de SQL","Certificado Google",Java,Node.js,5,32,3,7,7,0,"Não sei o que melhorar",1,0,47,0,7,"Órgão Público",Freelancer
+884,32,Outro,BA,"Sistemas de Informação",2019,0,Nenhum,Nenhum,Python,React,12,68,2,23,1,1,"Despreparo técnico",1,0,27,0,5,Multinacional,PJ
+885,26,Outro,MG,"Sistemas de Informação",2018,1,"Curso de SQL","Certificado Google",PHP,Django,13,130,19,13,8,0,"Falta de experiência",1,0,13,1,4,"Órgão Público",CLT
+886,20,Outro,PE,"Ciência da Computação",2024,1,"Curso de Cloud","Certificado AWS",JavaScript,.NET,22,60,19,17,15,1,"Não sei o que melhorar",0,0,18,0,7,"Órgão Público",Estágio
+887,31,Outro,DF,"Engenharia da Computação",2016,1,"Curso de Python","Certificado Google",Go,Laravel,4,112,6,17,3,1,"Falta de experiência",0,1,48,1,10,"Órgão Público",Freelancer
+888,26,Feminino,BA,"Engenharia da Computação",2016,1,"Curso de Frontend","Certificado Google",Go,Spring,12,8,20,12,5,0,"Não sei o que melhorar",1,0,15,0,2,Startup,CLT
+889,31,Feminino,BA,"Engenharia da Computação",2018,1,"Curso de Dados","Certificado Oracle",TypeScript,Angular,3,41,19,29,19,0,"Falta de experiência",0,0,12,0,3,"Grande Empresa",Estágio
+890,24,Feminino,BA,"Análise de Sistemas",2025,1,"Curso de SQL","Certificado Azure",Ruby,Angular,7,34,27,49,4,0,"Despreparo técnico",1,0,23,1,8,Multinacional,Freelancer
+891,31,Outro,SP,"Análise de Sistemas",2016,1,"Curso de Cloud","Certificado Azure",Ruby,Laravel,16,7,4,32,14,1,"Não sei o que melhorar",1,1,47,0,4,Startup,Estágio
+892,32,Outro,BA,"Sistemas de Informação",2021,1,Nenhum,"Certificado Google",Ruby,Django,0,19,13,45,5,0,"Não sei o que melhorar",1,0,31,0,3,Multinacional,CLT
+893,24,Outro,DF,"Sistemas de Informação",2022,0,"Curso de SQL","Certificado AWS",Ruby,Flutter,8,165,3,0,15,1,"Falta de experiência",1,0,35,0,1,Startup,CLT
+894,23,Feminino,BA,"Sistemas de Informação",2021,1,"Curso de Dados","Certificado Oracle",Ruby,React,2,57,3,35,4,1,"Despreparo técnico",0,0,13,0,7,Startup,Estágio
+895,18,Outro,BA,"Análise de Sistemas",2021,1,"Curso de Dados","Certificado Oracle",TypeScript,Angular,2,12,0,44,7,0,"Falta de experiência",1,0,2,1,2,Startup,CLT
+896,31,Feminino,DF,"Sistemas de Informação",2017,0,"Curso de Cloud",Nenhum,JavaScript,Flutter,5,77,7,2,10,0,"Despreparo técnico",0,0,0,1,3,"Órgão Público",CLT
+897,30,Outro,BA,"Engenharia da Computação",2025,1,Nenhum,"Certificado Google",Ruby,Laravel,12,57,26,25,19,0,"Pouco networking",1,0,8,1,1,"Grande Empresa",Estágio
+898,20,Masculino,PR,"Análise de Sistemas",2022,0,Nenhum,Nenhum,Python,Node.js,17,89,2,6,7,0,"Despreparo técnico",1,0,15,0,8,Startup,PJ
+899,30,Masculino,DF,"Análise de Sistemas",2017,0,"Curso de Cloud","Certificado Oracle",Java,Spring,10,79,20,9,19,0,"Não sei o que melhorar",0,1,32,0,12,"Grande Empresa",Freelancer
+900,29,Masculino,SC,"Ciência da Computação",2016,0,"Curso de Cloud","Certificado Oracle",PHP,Flutter,16,135,11,42,3,0,"Despreparo técnico",1,0,9,1,3,"Empresa Média",CLT
+901,24,Outro,BA,"Análise de Sistemas",2024,0,"Curso de Frontend","Certificado Oracle",JavaScript,Node.js,12,117,11,7,11,0,"Pouco networking",1,0,8,1,3,"Empresa Média",Estágio
+902,31,Outro,SP,"Ciência da Computação",2022,1,"Curso de Dados","Certificado Azure",PHP,Laravel,9,97,7,38,2,0,"Mercado competitivo",1,0,10,1,10,"Grande Empresa",Freelancer
+903,32,Masculino,MG,"Análise de Sistemas",2015,1,Nenhum,"Certificado AWS",Java,Node.js,3,156,12,39,13,1,"Mercado competitivo",0,0,27,0,8,"Órgão Público",CLT
+904,23,Feminino,DF,"Sistemas de Informação",2020,1,"Curso de Python","Certificado Oracle",C#,Flutter,15,108,22,7,10,0,"Não sei o que melhorar",0,1,28,1,3,Multinacional,Freelancer
+905,23,Masculino,MG,"Redes de Computadores",2016,1,"Curso de SQL",Nenhum,Python,.NET,5,131,18,6,15,0,"Mercado competitivo",1,1,9,1,12,Multinacional,PJ
+906,20,Masculino,SP,"Sistemas de Informação",2021,1,"Curso de Frontend","Certificado Google",Go,Flutter,23,166,8,46,16,0,"Pouco networking",0,0,11,0,5,"Órgão Público",Temporário
+907,23,Outro,SC,"Sistemas de Informação",2022,0,"Curso de Cloud",Nenhum,JavaScript,.NET,1,176,7,29,4,0,"Não sei o que melhorar",1,1,39,0,4,"Órgão Público",CLT
+908,20,Outro,MG,"Engenharia da Computação",2018,1,"Curso de SQL",Nenhum,Go,Flutter,6,135,17,40,7,0,"Pouco networking",1,0,18,1,7,Startup,Freelancer
+909,24,Masculino,SP,"Análise de Sistemas",2015,1,"Curso de Cloud","Certificado AWS",JavaScript,Django,13,128,14,22,16,1,"Despreparo técnico",0,1,41,0,1,Multinacional,Freelancer
+910,30,Outro,DF,"Redes de Computadores",2017,1,"Curso de SQL",Nenhum,C#,React,14,128,13,13,1,0,"Falta de experiência",1,1,47,0,2,"Empresa Média",CLT
+911,32,Feminino,PR,"Redes de Computadores",2015,1,"Curso de SQL","Certificado Azure",TypeScript,Angular,23,98,14,45,2,1,"Mercado competitivo",0,0,26,1,3,"Empresa Média",Temporário
+912,24,Feminino,BA,"Engenharia da Computação",2015,0,"Curso de Frontend",Nenhum,Python,React,3,93,26,47,2,1,"Despreparo técnico",0,0,36,0,6,"Órgão Público",PJ
+913,31,Feminino,PE,"Ciência da Computação",2016,1,"Curso de Cloud","Certificado Oracle",Go,React,11,4,20,18,15,1,"Mercado competitivo",1,1,35,0,2,"Grande Empresa",PJ
+914,31,Outro,PE,"Redes de Computadores",2024,1,"Curso de SQL","Certificado Oracle",Ruby,Angular,15,136,13,12,16,0,"Falta de experiência",1,1,23,1,10,"Empresa Média",Estágio
+915,24,Feminino,DF,"Análise de Sistemas",2023,1,Nenhum,"Certificado Oracle",PHP,Node.js,20,41,13,32,17,0,"Pouco networking",0,1,29,1,6,"Empresa Média",PJ
+916,24,Masculino,DF,"Sistemas de Informação",2021,1,"Curso de Frontend","Certificado AWS",Java,Django,16,120,26,31,9,0,"Não sei o que melhorar",0,1,2,1,1,Multinacional,PJ
+917,20,Masculino,RS,"Engenharia da Computação",2018,1,"Curso de Cloud","Certificado AWS",Go,React,10,193,15,30,11,1,"Não sei o que melhorar",0,0,6,1,5,Startup,Estágio
+918,30,Outro,MG,"Sistemas de Informação",2020,1,"Curso de SQL","Certificado Azure",JavaScript,Spring,10,99,4,16,3,1,"Despreparo técnico",1,0,45,1,12,"Órgão Público",PJ
+919,24,Outro,PE,"Redes de Computadores",2017,0,Nenhum,"Certificado AWS",TypeScript,Django,12,156,9,8,17,0,"Pouco networking",1,1,7,1,7,Multinacional,PJ
+920,31,Outro,PE,"Ciência da Computação",2017,1,"Curso de Cloud","Certificado AWS",Java,Node.js,5,22,26,2,12,1,"Mercado competitivo",0,1,4,1,6,Multinacional,Temporário
+921,32,Feminino,DF,"Sistemas de Informação",2022,0,"Curso de Cloud","Certificado Oracle",Ruby,Node.js,2,125,26,23,14,0,"Falta de experiência",1,1,2,0,12,Startup,Freelancer
+922,22,Feminino,SP,"Engenharia da Computação",2022,1,"Curso de Dados","Certificado Google",JavaScript,Laravel,0,120,27,37,0,1,"Falta de experiência",0,0,12,1,2,Multinacional,PJ
+923,24,Masculino,RS,"Análise de Sistemas",2017,1,"Curso de Python","Certificado Oracle",JavaScript,Django,1,47,0,16,13,0,"Pouco networking",1,1,36,0,3,Startup,Freelancer
+924,19,Outro,PE,"Ciência da Computação",2016,0,Nenhum,"Certificado Azure",Go,Django,2,113,16,4,16,1,"Falta de experiência",1,1,39,0,8,"Empresa Média",PJ
+925,27,Feminino,RJ,"Ciência da Computação",2017,1,"Curso de Python","Certificado Oracle",Java,Laravel,4,105,4,6,4,0,"Não sei o que melhorar",0,0,6,0,5,"Órgão Público",PJ
+926,23,Masculino,RS,"Redes de Computadores",2021,0,"Curso de SQL","Certificado Google",Ruby,Django,2,97,3,4,1,0,"Não sei o que melhorar",1,1,5,0,12,"Grande Empresa",Freelancer
+927,25,Masculino,SC,"Sistemas de Informação",2025,1,"Curso de SQL","Certificado AWS",TypeScript,Node.js,3,145,5,40,9,1,"Mercado competitivo",0,0,6,0,3,Startup,Temporário
+928,21,Masculino,RJ,"Ciência da Computação",2022,0,"Curso de Cloud","Certificado Azure",Java,Django,1,38,23,13,0,0,"Mercado competitivo",1,1,0,0,7,"Empresa Média",Freelancer
+929,29,Masculino,DF,"Ciência da Computação",2020,0,Nenhum,"Certificado AWS",TypeScript,Flutter,23,190,26,26,0,0,"Pouco networking",1,0,35,0,7,Startup,Estágio
+930,25,Masculino,MG,"Sistemas de Informação",2023,1,"Curso de Dados","Certificado Google",PHP,Flutter,13,4,14,19,8,0,"Não sei o que melhorar",1,1,8,1,3,"Empresa Média",CLT
+931,18,Masculino,PE,"Análise de Sistemas",2021,0,"Curso de SQL","Certificado AWS",Python,Flutter,4,74,7,5,16,1,"Não sei o que melhorar",1,1,15,1,12,"Órgão Público",Freelancer
+932,24,Feminino,PR,"Análise de Sistemas",2019,1,"Curso de Dados","Certificado Azure",Python,Spring,19,45,21,48,12,0,"Falta de experiência",0,0,42,1,12,"Empresa Média",Temporário
+933,29,Outro,RJ,"Análise de Sistemas",2022,1,"Curso de Python","Certificado Google",Python,React,10,160,22,15,7,1,"Falta de experiência",1,0,7,0,8,Multinacional,CLT
+934,21,Outro,DF,"Análise de Sistemas",2023,1,"Curso de Frontend","Certificado Google",Go,Node.js,10,29,13,41,15,0,"Mercado competitivo",0,0,26,0,7,"Empresa Média",Freelancer
+935,23,Masculino,RJ,"Sistemas de Informação",2015,1,"Curso de Dados","Certificado Azure",C#,.NET,13,94,18,35,14,0,"Despreparo técnico",1,1,23,1,5,Startup,PJ
+936,27,Masculino,PE,"Análise de Sistemas",2021,0,"Curso de Cloud","Certificado Azure",Python,Spring,5,117,8,32,7,1,"Não sei o que melhorar",0,0,27,0,5,Startup,Temporário
+937,22,Masculino,SP,"Redes de Computadores",2016,1,"Curso de SQL","Certificado Azure",Go,Spring,18,51,28,45,14,1,"Pouco networking",1,0,8,0,11,"Órgão Público",CLT
+938,29,Feminino,DF,"Engenharia da Computação",2022,1,Nenhum,"Certificado Oracle",PHP,Flutter,3,141,4,32,15,1,"Mercado competitivo",1,1,9,0,8,Multinacional,Temporário
+939,21,Masculino,DF,"Ciência da Computação",2022,0,Nenhum,"Certificado Oracle",TypeScript,.NET,17,39,23,19,11,1,"Não sei o que melhorar",0,0,13,0,10,"Grande Empresa",Temporário
+940,22,Feminino,SC,"Ciência da Computação",2024,1,"Curso de Dados",Nenhum,JavaScript,.NET,0,141,14,15,1,0,"Despreparo técnico",0,0,12,0,7,"Empresa Média",Estágio
+941,32,Masculino,RJ,"Redes de Computadores",2022,0,"Curso de SQL","Certificado Oracle",C#,Spring,22,179,19,30,1,0,"Mercado competitivo",1,1,22,0,2,"Órgão Público",Freelancer
+942,19,Feminino,PE,"Engenharia da Computação",2020,1,Nenhum,"Certificado Google",PHP,Node.js,15,70,25,9,8,0,"Despreparo técnico",0,0,24,1,2,"Órgão Público",Freelancer
+943,22,Feminino,RJ,"Redes de Computadores",2015,1,"Curso de Cloud","Certificado Azure",JavaScript,Spring,15,87,6,39,6,0,"Falta de experiência",1,1,28,0,7,"Empresa Média",Estágio
+944,18,Feminino,MG,"Redes de Computadores",2023,0,"Curso de Cloud","Certificado Google",JavaScript,.NET,12,60,0,9,17,1,"Não sei o que melhorar",0,0,24,0,1,"Grande Empresa",Freelancer
+945,29,Masculino,RS,"Ciência da Computação",2021,1,"Curso de Dados","Certificado AWS",Python,Laravel,1,157,23,28,10,1,"Despreparo técnico",1,0,1,1,2,Startup,Temporário
+946,26,Feminino,PE,"Redes de Computadores",2024,1,"Curso de Python","Certificado Google",TypeScript,Spring,22,26,25,40,11,0,"Não sei o que melhorar",1,0,36,1,7,"Empresa Média",Freelancer
+947,27,Feminino,DF,"Sistemas de Informação",2017,0,"Curso de Cloud","Certificado AWS",Java,Angular,21,12,19,3,8,1,"Não sei o que melhorar",0,0,11,1,2,"Órgão Público",Freelancer
+948,31,Outro,BA,"Redes de Computadores",2018,1,"Curso de SQL","Certificado Google",Python,Flutter,15,64,20,21,3,0,"Não sei o que melhorar",1,0,47,1,12,"Empresa Média",Freelancer
+949,28,Outro,PE,"Análise de Sistemas",2021,1,Nenhum,"Certificado AWS",TypeScript,Django,19,168,23,21,15,0,"Mercado competitivo",0,0,39,1,5,Multinacional,Temporário
+950,18,Masculino,SC,"Análise de Sistemas",2025,1,"Curso de SQL","Certificado Oracle",Go,Flutter,20,61,0,9,18,1,"Falta de experiência",1,1,14,1,8,"Órgão Público",Freelancer
+951,28,Outro,DF,"Ciência da Computação",2019,1,"Curso de Python","Certificado AWS",Go,Laravel,6,152,0,42,3,0,"Pouco networking",1,0,2,0,2,"Empresa Média",Freelancer
+952,24,Outro,PE,"Redes de Computadores",2016,1,"Curso de Cloud","Certificado Google",C#,Laravel,4,81,14,7,6,0,"Pouco networking",0,1,14,1,10,Startup,Freelancer
+953,26,Outro,SC,"Ciência da Computação",2019,0,"Curso de Frontend",Nenhum,Python,Django,23,17,13,47,8,0,"Pouco networking",1,0,4,0,7,"Empresa Média",Estágio
+954,18,Feminino,BA,"Sistemas de Informação",2024,0,"Curso de Dados","Certificado Azure",JavaScript,Angular,19,84,20,3,7,0,"Despreparo técnico",1,0,19,0,1,Multinacional,Freelancer
+955,21,Feminino,SC,"Engenharia da Computação",2021,1,"Curso de Cloud","Certificado AWS",C#,Node.js,18,164,25,42,12,0,"Mercado competitivo",1,0,23,1,4,"Empresa Média",Estágio
+956,19,Feminino,PE,"Engenharia da Computação",2015,0,"Curso de Python","Certificado AWS",Java,Flutter,5,52,17,4,14,0,"Despreparo técnico",1,1,22,0,9,"Empresa Média",CLT
+957,19,Outro,BA,"Análise de Sistemas",2025,1,"Curso de SQL","Certificado Azure",C#,Node.js,18,181,6,18,3,1,"Despreparo técnico",0,1,20,1,10,Startup,CLT
+958,27,Feminino,PR,"Redes de Computadores",2020,1,"Curso de Dados","Certificado Oracle",Go,.NET,21,45,12,22,19,0,"Não sei o que melhorar",1,1,13,1,12,Startup,Estágio
+959,20,Feminino,RS,"Análise de Sistemas",2016,1,"Curso de Dados","Certificado AWS",Go,Spring,5,69,0,48,17,0,"Despreparo técnico",1,1,37,1,6,"Grande Empresa",Freelancer
+960,32,Masculino,SC,"Redes de Computadores",2022,0,Nenhum,"Certificado Oracle",Java,React,0,137,13,6,7,0,"Despreparo técnico",1,0,48,1,5,Startup,CLT
+961,24,Outro,SP,"Ciência da Computação",2020,1,"Curso de Python","Certificado Oracle",C#,Flutter,1,60,10,44,7,0,"Não sei o que melhorar",1,1,23,1,9,Startup,Temporário
+962,18,Masculino,RS,"Análise de Sistemas",2019,1,"Curso de Frontend","Certificado Google",C#,Spring,16,166,4,8,9,1,"Mercado competitivo",1,0,43,1,3,Startup,Temporário
+963,19,Feminino,RS,"Sistemas de Informação",2021,1,Nenhum,Nenhum,Python,Node.js,10,44,25,26,2,0,"Não sei o que melhorar",1,1,18,1,5,"Grande Empresa",CLT
+964,20,Feminino,RJ,"Sistemas de Informação",2018,0,"Curso de SQL","Certificado Azure",TypeScript,Flutter,23,27,23,25,3,0,"Mercado competitivo",1,1,46,1,11,Multinacional,CLT
+965,18,Masculino,MG,"Sistemas de Informação",2022,0,"Curso de Python","Certificado AWS",Ruby,Node.js,6,74,2,12,0,0,"Pouco networking",1,1,4,0,7,"Empresa Média",Temporário
+966,26,Outro,PE,"Ciência da Computação",2023,0,"Curso de SQL","Certificado AWS",PHP,React,11,61,2,27,8,0,"Pouco networking",1,1,47,1,2,"Empresa Média",Freelancer
+967,23,Feminino,DF,"Análise de Sistemas",2021,1,"Curso de Cloud","Certificado Google",Java,Spring,9,41,26,37,2,0,"Despreparo técnico",0,1,16,1,9,"Órgão Público",CLT
+968,22,Masculino,PR,"Redes de Computadores",2022,1,"Curso de SQL","Certificado Azure",Go,Spring,21,140,24,48,7,0,"Falta de experiência",0,0,6,1,9,Startup,Estágio
+969,25,Outro,PE,"Análise de Sistemas",2024,1,"Curso de Python",Nenhum,C#,Spring,20,127,19,16,13,0,"Mercado competitivo",1,1,4,0,4,"Empresa Média",CLT
+970,31,Masculino,RJ,"Ciência da Computação",2024,1,"Curso de Dados","Certificado Oracle",Ruby,.NET,14,159,4,19,8,0,"Não sei o que melhorar",0,1,3,0,1,"Órgão Público",Estágio
+971,23,Outro,MG,"Engenharia da Computação",2021,0,Nenhum,Nenhum,C#,Spring,17,28,14,46,4,0,"Mercado competitivo",1,0,19,1,8,Multinacional,CLT
+972,28,Masculino,MG,"Engenharia da Computação",2021,1,"Curso de Dados","Certificado AWS",Java,.NET,21,22,25,47,4,0,"Pouco networking",1,0,41,0,6,"Órgão Público",Temporário
+973,30,Masculino,RS,"Engenharia da Computação",2019,0,"Curso de Python","Certificado Azure",C#,Spring,18,68,11,48,12,0,"Falta de experiência",1,0,5,0,4,Startup,PJ
+974,26,Outro,PE,"Ciência da Computação",2019,1,"Curso de Cloud","Certificado Azure",Java,React,16,42,29,15,12,0,"Mercado competitivo",0,0,44,0,6,Multinacional,Freelancer
+975,28,Outro,PE,"Ciência da Computação",2018,1,"Curso de Frontend","Certificado Azure",Go,Flutter,7,184,20,32,3,1,"Não sei o que melhorar",1,0,45,1,8,"Grande Empresa",Temporário
+976,23,Masculino,BA,"Redes de Computadores",2019,1,"Curso de Cloud","Certificado Google",Python,Node.js,11,106,5,14,17,0,"Pouco networking",1,0,33,0,10,Multinacional,Estágio
+977,32,Feminino,RS,"Ciência da Computação",2016,0,"Curso de Cloud","Certificado Google",TypeScript,Django,19,187,7,24,13,1,"Pouco networking",1,0,33,0,11,Multinacional,CLT
+978,23,Feminino,RS,"Análise de Sistemas",2024,1,"Curso de Dados","Certificado Azure",Java,Flutter,3,188,9,33,9,0,"Falta de experiência",1,0,27,1,7,"Empresa Média",Freelancer
+979,23,Masculino,SC,"Análise de Sistemas",2022,1,"Curso de Dados",Nenhum,Python,Spring,0,65,16,34,17,0,"Despreparo técnico",1,0,13,1,9,"Órgão Público",Freelancer
+980,22,Feminino,DF,"Engenharia da Computação",2018,1,"Curso de Frontend",Nenhum,Ruby,Flutter,13,170,17,15,17,0,"Pouco networking",0,0,4,0,8,"Grande Empresa",Temporário
+981,31,Feminino,DF,"Redes de Computadores",2023,0,"Curso de Cloud","Certificado Google",JavaScript,React,0,183,16,0,7,1,"Não sei o que melhorar",1,0,36,0,5,Startup,CLT
+982,32,Outro,RS,"Ciência da Computação",2016,1,"Curso de SQL","Certificado AWS",Ruby,Flutter,6,92,14,5,0,1,"Despreparo técnico",0,0,34,1,1,Multinacional,PJ
+983,24,Feminino,PE,"Sistemas de Informação",2020,0,"Curso de Dados","Certificado Oracle",JavaScript,.NET,22,91,13,47,6,1,"Pouco networking",1,1,16,1,3,Multinacional,Estágio
+984,30,Feminino,RS,"Redes de Computadores",2020,1,Nenhum,"Certificado Google",Go,React,9,168,0,24,8,0,"Não sei o que melhorar",1,0,0,0,5,"Empresa Média",Estágio
+985,21,Outro,DF,"Redes de Computadores",2023,0,"Curso de SQL","Certificado AWS",C#,Node.js,15,61,19,14,9,0,"Despreparo técnico",0,1,8,1,4,Multinacional,Estágio
+986,20,Feminino,RS,"Sistemas de Informação",2022,1,"Curso de Cloud","Certificado AWS",Ruby,Django,3,105,6,20,9,0,"Falta de experiência",1,0,15,0,5,Startup,Estágio
+987,18,Outro,PR,"Engenharia da Computação",2017,1,"Curso de Frontend","Certificado Google",Go,Angular,14,121,6,12,11,0,"Falta de experiência",0,0,46,0,1,Multinacional,PJ
+988,27,Masculino,RJ,"Sistemas de Informação",2016,1,"Curso de Frontend",Nenhum,JavaScript,Spring,6,152,29,33,8,1,"Despreparo técnico",0,1,13,1,12,"Grande Empresa",Temporário
+989,31,Feminino,MG,"Sistemas de Informação",2023,1,Nenhum,"Certificado Oracle",PHP,Flutter,20,120,12,12,1,0,"Pouco networking",0,0,33,0,11,"Órgão Público",Estágio
+990,18,Outro,PE,"Ciência da Computação",2016,0,"Curso de Frontend","Certificado Azure",C#,Django,14,192,28,44,12,0,"Não sei o que melhorar",1,0,10,1,2,"Grande Empresa",Freelancer
+991,28,Outro,DF,"Análise de Sistemas",2024,0,"Curso de Frontend","Certificado Oracle",C#,React,1,60,9,35,11,1,"Falta de experiência",1,1,27,0,7,"Grande Empresa",Estágio
+992,18,Outro,RS,"Redes de Computadores",2024,1,"Curso de Python","Certificado AWS",PHP,Django,7,123,3,39,11,0,"Falta de experiência",1,1,16,1,7,Multinacional,Freelancer
+993,19,Outro,RJ,"Engenharia da Computação",2025,1,Nenhum,Nenhum,PHP,Spring,5,60,26,24,16,1,"Falta de experiência",1,1,20,0,8,Startup,PJ
+994,26,Feminino,PR,"Ciência da Computação",2022,1,"Curso de Frontend","Certificado Azure",PHP,Angular,1,143,11,40,17,1,"Pouco networking",0,1,41,1,11,"Órgão Público",Freelancer
+995,31,Outro,SP,"Sistemas de Informação",2019,1,"Curso de Dados",Nenhum,PHP,Angular,0,129,5,45,1,0,"Não sei o que melhorar",0,0,22,0,11,Startup,PJ
+996,26,Masculino,RS,"Ciência da Computação",2015,1,"Curso de Cloud",Nenhum,C#,Flutter,16,142,15,24,17,0,"Pouco networking",1,0,47,0,3,"Grande Empresa",Freelancer
+997,26,Feminino,MG,"Sistemas de Informação",2015,1,"Curso de SQL","Certificado AWS",Python,Django,13,111,4,0,12,0,"Falta de experiência",1,0,29,1,6,"Empresa Média",Freelancer
+998,18,Masculino,SP,"Ciência da Computação",2019,1,"Curso de Frontend","Certificado Google",JavaScript,Django,7,77,1,5,7,0,"Mercado competitivo",0,0,19,0,9,"Grande Empresa",Estágio
+999,31,Outro,PR,"Redes de Computadores",2016,0,Nenhum,"Certificado Oracle",Python,Laravel,0,112,21,44,6,1,"Não sei o que melhorar",1,0,41,0,9,"Empresa Média",Temporário
+1000,29,Feminino,SP,"Sistemas de Informação",2016,1,"Curso de Frontend",Nenhum,Ruby,React,23,142,18,47,17,0,"Falta de experiência",1,0,26,1,3,"Grande Empresa",Temporário
