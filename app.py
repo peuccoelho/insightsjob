@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 
-# Carregar dados
+
 @st.cache_data
 def carregar_dados():
     df = pd.read_csv("empregos.csv")
@@ -14,14 +14,14 @@ def carregar_dados():
 
 df = carregar_dados()
 
-# Pré-processamento
-df['conseguiu_emprego'] = df['conseguiu_emprego'].map({'Sim': 1, 'Não': 0})  # transforma target em binário
-df['participou_programas_treinamento'] = df['participou_programas_treinamento'].map({'Sim': 1, 'Não': 0})  # binário
-df['possui_estagio'] = df['possui_estagio'].map({'Sim': 1, 'Não': 0})  # binário
-df['sentiu_preparado'] = df['sentiu_preparado'].map({'Sim': 1, 'Não': 0})  # binário
-df['tem_cursos_extras'] = df['cursos_extras'].notna().astype(int)  # binário indicando cursos extras
 
-# Agrupar idades em faixas
+df['conseguiu_emprego'] = df['conseguiu_emprego'].map({'Sim': 1, 'Não': 0})  
+df['participou_programas_treinamento'] = df['participou_programas_treinamento'].map({'Sim': 1, 'Não': 0}) 
+df['possui_estagio'] = df['possui_estagio'].map({'Sim': 1, 'Não': 0})  
+df['sentiu_preparado'] = df['sentiu_preparado'].map({'Sim': 1, 'Não': 0})  
+df['tem_cursos_extras'] = df['cursos_extras'].notna().astype(int) 
+
+
 bins = [17, 24, 30, 35, 40, 100]
 labels = ['18-24', '25-30', '31-35', '36-40', '41+']
 df['faixa_idade'] = pd.cut(df['idade'], bins=bins, labels=labels)
